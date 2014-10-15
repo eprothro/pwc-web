@@ -1,0 +1,89 @@
+.accordion#accounting-group
+  .accordion-group
+    .accordion-heading
+      %a.accordion-toggle{"data-toggle" => 'collapse', "data-parent" => '#accounting-group', href: "#bookkeeping"}
+        Bookkeeping
+    #bookkeeping.accordion-body.collapse
+      .accordion-inner
+        %p We have qualified and experienced staff that can assist you with an array of bookkeeping services across many industries. Our services include but are not limited to: full service bookkeeping, account reconciliations, accounts payable, accounts receivable, and general ledger accounting.
+        %p.more-info
+          For more information, contact
+          = link_to 'Penny', Employee.find_by_name('Penny B. Urwiller')
+          or
+          = link_to 'Kristi', Employee.find_by_name('Kristi A. Moore')
+    .accordion-heading
+      %a.accordion-toggle{"data-toggle" => 'collapse', "data-parent" => '#accounting-group', href: "#quickbooks"}
+        QuickBooks Consulting
+    #quickbooks.accordion-body.collapse
+      .accordion-inner
+        %p We are certified QuickBooks Professional Advisors and provide one-on-one training in our offices, or if you prefer, at your location. We can assist you and your new or existing business with the implementation of QuickBooks business functions, everything from setup, cleanup, product upgrades and system conversions. Our qualified and experienced staff is also able to trouble shoot any problems or questions you may have using QuickBooks.
+        %p.more-info
+          For more information, contact
+          = link_to 'Penny', Employee.find_by_name('Penny B. Urwiller')
+          or
+          = link_to 'Kristi', Employee.find_by_name('Kristi A. Moore')
+    .accordion-heading
+      %a.accordion-toggle{"data-toggle" => 'collapse', "data-parent" => '#accounting-group', href: "#compilation"}
+        Compilation
+    #compilation.accordion-body.collapse
+      .accordion-inner
+        %p We understand that no two entities are the same; as a result, we work with our clients to customize reports based on their needs. We offer a variety of compilation services, whether GAAP or any other basis of accounting. Also, we diligently seek to keep current with all legislation requirements and accounting regulations impacting compilation reports to ensure full compliance.
+        %p.more-info
+          For more information, contact
+          = link_to 'Penny', Employee.find_by_name('Penny B. Urwiller')
+          or
+          = link_to 'Kristi', Employee.find_by_name('Kristi A. Moore')
+    .accordion-heading
+      %a.accordion-toggle{"data-toggle" => 'collapse', "data-parent" => '#accounting-group', href: "#consolidation"}
+        Consolidations
+    #consolidation.accordion-body.collapse
+      .accordion-inner
+        %p Many businesses today have complex interwoven legal structures, which have special reporting considerations. Consolidations are no exception. Our experienced staff can prepare or help guide you through the challenges of producing consolidated financial reports.
+        %p.more-info
+          For more information, contact
+          = link_to 'Penny', Employee.find_by_name('Penny B. Urwiller')
+          or
+          = link_to 'Kristi', Employee.find_by_name('Kristi A. Moore')
+    .accordion-heading
+      %a.accordion-toggle{"data-toggle" => 'collapse', "data-parent" => '#accounting-group', href: "#projects"}
+        Special Projects and Reporting
+    #projects.accordion-body.collapse
+      .accordion-inner
+        %p Special projects, such as system software data conversions, building ad hoc reports and managing accounting processes, are our specialties. Whether you have a onetime project or a recurring project, our team of professional staff has a variety of skill sets to meet your needs.
+        %p.more-info
+          For more information, contact
+          = link_to 'Penny', Employee.find_by_name('Penny B. Urwiller')
+          or
+          = link_to 'Kristi', Employee.find_by_name('Kristi A. Moore')
+    .accordion-heading
+      %a.accordion-toggle{"data-toggle" => 'collapse', "data-parent" => '#accounting-group', href: "#payroll"}
+        Payroll Processing and Reporting
+    #payroll.accordion-body.collapse
+      .accordion-inner
+        %p We have qualified experienced staff that can help you optimize your payroll processing needs. Our staff is able to provide flexible, electronic payroll solutions to businesses of all sizes. If you need to outsource your payroll processing and related payroll tax reporting or if you just need help with payroll compliance, our staff can help you manage the complexities of payroll more efficiently and effectively.
+        %p In addition to payroll processing and payroll tax reporting, we offer liaison services related to Texas Workforce Commission audits and prepare annual Workman’s Compensation audits.
+        %p.more-info
+          For more information, contact
+          = link_to 'Penny', Employee.find_by_name('Penny B. Urwiller')
+          or
+          = link_to 'Kristi', Employee.find_by_name('Kristi A. Moore')
+    .accordion-heading
+      %a.accordion-toggle{"data-toggle" => 'collapse', "data-parent" => '#accounting-group', href: "#school"}
+        School District Reporting / Government Not For Profit Reporting
+    #school.accordion-body.collapse
+      .accordion-inner
+        %p We know that governmental accounting standards are cumbersome and time consuming. We have experienced staff that can assist you in preparing or prepare on your behalf financial reports that comply with Governmental Accounting Standards.
+        %p.more-info
+          For more information, contact
+          = link_to 'Walter', Employee.find_by_name('Walter K. Wilhelmi')
+    .accordion-heading
+      %a.accordion-toggle{"data-toggle" => 'collapse', "data-parent" => '#accounting-group', href: "#resolution"}
+        Internal Revenue Service Resolution
+    #resolution.accordion-body.collapse
+      .accordion-inner
+        %p Receiving a notice from the Internal Revenue Service can be daunting and confusing. Our experienced staff can help you wade through the process of accurately identifying and correcting problems through a series of resolution processes.
+        %p.more-info
+          For more information, contact
+          = link_to 'Penny', Employee.find_by_name('Penny B. Urwiller')
+          or
+          = link_to 'Kristi', Employee.find_by_name('Kristi A. Moore')

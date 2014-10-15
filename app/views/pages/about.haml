@@ -1,0 +1,14 @@
+.row-fluid#about
+  .span10.offset1
+    %h2 About PW
+
+    .row-fluid
+      .span4.text-center
+        = image_tag 'employees/partners.jpg'
+        .caption
+          Prothro, Wilhelmi, & Company Partners
+      .span8
+        %p
+          Prothro, Wilhelmi and Company was founded in 1992 by
+          = link_to('Thomas G. Prothro', Employee.find_by_name('Thomas G. Prothro')) + ','
+          CPA. Since then, our firm has grown from a sole entrepreneur to an experienced, professional team. Our firm is committed to providing clients with quality services that continue to adapt to meet individual and business needs. We believe that by possessing ethical and “eternal values”, a business has “infinite potential” to succeed.

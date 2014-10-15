@@ -1,0 +1,46 @@
+.row-fluid#news
+  .span10.offset1
+    %h2 News at PW
+    .row-fluid
+      .span10.offset1
+        %h3 Company Highlights
+        .row-fluid
+          .span10.offset1
+            .news
+              %span= link_to 'Kristen Ragon', Employee.find_by_name('Kristen Ragon')
+              %span has joined the firm.
+            .news
+              %span= link_to 'Barbara Opstedal', Employee.find_by_name('Barbara Opstedal')
+              %span has joined the firm.
+            .news
+              %span= link_to 'Tom Prothro', Employee.find_by_name('Thomas G. Prothro')
+              %span
+                was
+                = link_to 'named by Governor Rick Perry', 'http://governor.state.tx.us/news/appointment/18779/', target: '_blank'
+                as chair of the Texas State Board of Public Accountancy.
+            .news
+              %span= link_to 'Tom Prothro', Employee.find_by_name('Thomas G. Prothro')
+              %span has received certification as a CAP – Chartered Advisor in Philanthropy.
+            .news
+              %span= link_to 'Nichol Hopkins', Employee.find_by_name('Nichol E. Hopkins')
+              %span has joined the firm.
+
+
+        %h3 Advertising
+        .row-fluid
+          .span10.offset1
+            .row-fluid
+              .span8.offset2.text-center
+                .video-container
+                  %iframe.ad-video{width: "46", height: "35", allowfullscreen: true, frameborder: "0", src: 'http://www.youtube.com/embed/TTWmBAZWj9g?&modestbranding=0&controls=1&rel=0&showinfo=0'}
+                %p.text-center{style: "margin-top: 5px"} 2014 CBS Commercial
+            .row-fluid
+              .span8.offset2.text-center
+                .video-container
+                  %iframe.ad-video{width: "46", height: "35", allowfullscreen: true, frameborder: "0", src: 'http://www.youtube.com/embed/K-OcTc7rH8c?&modestbranding=0&controls=1&rel=0&showinfo=0'}
+                %p.text-center{style: "margin-top: 5px"} CBS 19 Commercial Spot
+            .row-fluid
+              .news
+                %span PW is a proud sponsor of Masters week on KTBB Sports Talk. Click
+                = link_to 'here', asset_path('masters12.mp3'), target: '_blank'
+                %span to hear our ad.

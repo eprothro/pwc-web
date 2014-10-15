@@ -1,0 +1,9 @@
+- images ||= []
+#myCarousel.carousel.slide
+  / %ol.carousel-indicators
+  /   - images.count.times do |i|
+  /     %li{'data-target' => '#myCourasel', 'data-slide-to' => i, class: ('active' if i == 0)}
+  .carousel-inner
+    - images.each_with_index do |image, i|
+      .item.text-center{class: ('active' if i == 0)}
+        %img{src: image}

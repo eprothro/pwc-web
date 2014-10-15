@@ -1,0 +1,34 @@
+.row-fluid#contact
+  .span10.offset1
+    %h2 Contact PW
+    .row-fluid
+      %strong E-mail:
+      %span= link_to 'info@pw-tx.com', 'mailto:info@pw-tx.com'
+      %span (Visit our
+      %span= link_to 'staff page', employees_path
+      %span to e-mail individual staff members.)
+    .row-fluid{style: 'margin-top: 20px'}
+      .span3
+        .contact
+          %strong Phone:
+          .info 903-534-8811
+        .contact
+          %strong Fax:
+          .info 903-534-8891
+        .contact
+          %strong Address:
+          .info 6855 Oak Hill Blvd.
+          .info Tyler, Texas  75703
+        .contact
+          %strong Hours:
+          .info 8am-5pm M-F
+      .span5.text-center
+        = image_tag 'map.png'
+      .span4
+        %p PW is located on Oak Hill Blvd on the west side of Old Jacksonville Highway, south of Grande Blvd.
+        %p From Loop 323, turn south on Old Jacksonville Hwy and proceed two miles to Oak Hill Blvd. Turn right (at FRESH by Brookshire’s) and travel one block to the entrance on the left.
+        %p From Broadway, turn west onto Grande Blvd and proceed one mile to Old Jacksonville Hwy. Turn south on Old Jacksonville, and travel 1/2 mile to Oak Hill Blvd. Turn right (at FRESH by Brookshire’s) and travel one block to the entrance on the left.
+
+    .row-fluid.text-center
+      = link_to 'Get Google Maps Directions', 'http://goo.gl/maps/FPVS', target: '_blank'
+

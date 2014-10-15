@@ -1,0 +1,153 @@
+Our Office:
+  cover: office/gallery_cover.jpg
+  events:
+    - name: PW Office Building
+      cover: office/cover.jpg
+      photos:
+        - office/01.jpg
+        - office/02.jpg
+        - office/03.jpg
+        - office/06.jpg
+        - office/07.jpg
+        - office/08.jpg
+        - office/13.jpg
+        - office/36.jpg
+        - office/14.jpg
+        - office/23.jpg
+        - office/38.jpg
+        - office/29.jpg
+        - office/lights.jpg
+        - office/snow.jpg
+    - name: Our Staff
+      cover: office_staff/cover.jpg
+      photos:
+        - office_staff/05.jpg
+        - office_staff/12.jpg
+        - office_staff/15.jpg
+        - office_staff/16.jpg
+        - office_staff/18.jpg
+        - office_staff/19.jpg
+        - office_staff/24.jpg
+        - office_staff/25.jpg
+        - office_staff/32.jpg
+        - office_staff/33.jpg
+Involvement Around Town:
+  cover: bee/cover.jpg
+  events:
+    - name: 2014 Car Show
+      cover: car_show/cover.jpg
+      photos:
+        - car_show/1.jpg
+        - car_show/2.jpg
+        - car_show/3.jpg
+        - car_show/4.jpg
+
+    - name: 2014 Literacy Council Spelling Bee
+      cover: bee/cover.jpg
+      photos:
+        - bee/BEE 1.jpg
+        - bee/BEE 2.jpg
+        - bee/BEE 3.jpg
+        - bee/BEE 4.jpg
+        - bee/BEE 5.jpg
+        - bee/BEE 6.jpg
+        - bee/BEE 7.jpg
+        - bee/BEE 8.jpg
+        - bee/BEE 9.jpg
+        - bee/BEE 10.jpg
+        - bee/BEE 11.jpg
+        - bee/BEE 12.jpg
+
+Activities Around the Office:
+  cover: brunch/cover.jpg
+  events:
+    - name: Tax Season Brunch
+      cover: brunch/cover.jpg
+      photos:
+        - brunch/1.jpg
+        - brunch/2.jpg
+        - brunch/3.jpg
+        - brunch/4.jpg
+        - brunch/5.jpg
+        - brunch/6.jpg
+    - name: Quarterly Birthdays
+      cover: birthdays/cover.jpg
+      photos:
+        - birthdays/1.jpg
+        - birthdays/2.jpg
+        - birthdays/3.jpg
+    - name: 4th Annual PW Chili Cook-Off
+      cover: chili_cook_off/cover.jpg
+      photos:
+        - chili_cook_off/121225.jpg
+        - chili_cook_off/115159.jpg
+        - chili_cook_off/115330.jpg
+        - chili_cook_off/115418.jpg
+        - chili_cook_off/122519.jpg
+    - name: 2013 Thanksgiving Luncheon
+      cover: thanksgiving/cover.jpg
+      photos:
+        - thanksgiving/IMG_4736.JPG
+        - thanksgiving/IMG_4737.JPG
+        - thanksgiving/IMG_4740.JPG
+        - thanksgiving/IMG_4741.JPG
+        - thanksgiving/IMG_4743.JPG
+        - thanksgiving/IMG_4746.JPG
+        - thanksgiving/IMG_4747.JPG
+        - thanksgiving/IMG_4748.JPG
+        - thanksgiving/IMG_4750.JPG
+    - name: Christmas 2013
+      cover: christmas/cover.jpg
+      photos:
+        - christmas/20131212_203808_resized.jpg
+        - christmas/20131212_195511_resized.jpg
+        - christmas/20131212_195115_resized.jpg
+        - christmas/20131212_195423_resized.jpg
+        - christmas/20131212_195712_resized.jpg
+        - christmas/20131212_195818_resized.jpg
+        - christmas/20131212_195216_resized.jpg
+        - christmas/20131212_182559_resized.jpg
+        - christmas/20131212_195151_resized.jpg
+        - christmas/20131212_181054_resized.jpg
+        - christmas/20131212_182830_resized.jpg
+        - christmas/20131212_200425_resized.jpg
+        - christmas/20131212_182437_resized.jpg
+        - christmas/20131212_181405_resized.jpg
+        - christmas/20131212_195253_resized.jpg
+    - name: Staff Accomplishments
+      cover: accomplishments/cover.jpg
+      photos:
+        - accomplishments/1.jpg
+        - accomplishments/2.jpg
+        - accomplishments/3.jpg
+        - accomplishments/4.jpg
+        - accomplishments/5.jpg
+        - accomplishments/6.jpg
+    - name: 20th Year Open House Celebration
+      cover: 20_year_open_house/cover.jpg
+      photos:
+        - 20_year_open_house/1.jpg
+        - 20_year_open_house/2.jpg
+        - 20_year_open_house/3.jpg
+        - 20_year_open_house/4.jpg
+        - 20_year_open_house/6.jpg
+        - 20_year_open_house/8.jpg
+        - 20_year_open_house/9.jpg
+        - 20_year_open_house/10.jpg
+        - 20_year_open_house/11.jpg
+    - name: Office Fun
+      cover: fun/cover.jpg
+      photos:
+        - fun/1.jpg
+        - fun/2.jpg
+        - fun/3.jpg
+        - fun/4.jpg
+        - fun/5.jpg
+        - fun/6.jpg
+        - fun/7.jpg
+        - fun/8.jpg
+        - fun/9.jpg
+        - fun/10.jpg
+        - fun/11.jpg
+        - fun/12.jpg
+        - fun/13.jpg

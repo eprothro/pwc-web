@@ -1,0 +1,14 @@
+.row-fluid
+  .span10.offset1
+    .row-fluid
+      %h2= @album.name
+    .row-fluid
+      %ul.thumbnails
+        - @album.events.each_slice(3) do |events|
+          .row-fluid
+            - events.each do |event|
+              %li.span4
+                .text-center
+                  = link_to(image_tag(event.cover_asset, class: 'img-polaroid'), event_path(event))
+                .subtitle.text-center
+                  %strong= event.name

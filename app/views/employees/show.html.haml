@@ -1,0 +1,20 @@
+.row-fluid
+  %ul.breadcrumb{style: "font-size: 14px"}
+    %li
+      = link_to "All Staff", employees_path
+      %span.divider /
+    %li.active
+      %strong= @employee.name
+  .row-fluid
+    .span3.text-center{style: "margin-bottom: 25px"}
+      %img{src: asset_path(@employee.image_url), style: "margin-bottom: 15px"}
+      %em
+        %p= mail_to @employee.email, "Email #{@employee.first_name}"
+        .phone
+          %span 903.534.8811
+          - if @employee.extension.present?
+            %span= "(ext: #{@employee.extension})"
+          - else
+            %span= "(ask for #{@employee.first_name})"
+    .span8
+      = @employee.bio.html_safe

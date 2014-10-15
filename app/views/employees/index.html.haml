@@ -1,0 +1,12 @@
+.row-fluid
+  .offset1
+    %h1 PW Staff
+  .row-fluid
+    .span10.offset1
+      .row-fluid
+        %ul.employees
+          - @employees.each_slice(4) do |employees|
+            .row-fluid
+              - employees.each do |e|
+                %li.span3.clearfix.text-center
+                  = render 'avatar', employee: e

@@ -1,0 +1,36 @@
+%header
+  .header
+    .brand-container
+      %a{href: root_path}
+        %img{src: image_path("banner.png")}
+    // .brand.inline
+    //   %span Eternal Values
+    //   %span.inifin &infin;
+    //   %span Infinite Potential
+    // .brand-office-fade
+    // .office
+
+  .navbar
+    .navbar-inner.pull-center
+      .container
+        %a.btn.btn-navbar{"data-toggle" => "collapse", "data-target" => ".nav-collapse", style: 'margin-top: 2px;'}
+          %span{style: 'color: #333; text-shadow: 0px 1px 0px #AAA;'} Menu
+        .nav-collapse.collapse.links
+          %ul.nav
+            %li= link_to 'About', about_path
+            %li.divider-vertical
+            %li= link_to 'Services', services_path
+            %li.divider-vertical
+            %li= link_to 'Staff', employees_path
+            %li.divider-vertical
+            %li= link_to 'News', news_path
+            %li.divider-vertical
+            %li= link_to 'Community Spotlight', community_path
+            %li.divider-vertical
+            %li= link_to 'Photos', albums_path
+            %li.divider-vertical
+            %li= link_to 'Contact', contact_path
+            %li.divider-vertical
+            %li= link_to 'Careers', careers_path
+            %li.divider-vertical
+            %li= link_to 'Client Portal', portal_path

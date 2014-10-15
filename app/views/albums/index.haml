@@ -1,0 +1,13 @@
+.row-fluid
+  .span10.offset1
+    .row-fluid
+      %h2 PW Photo Gallery
+    .row-fluid
+      - @albums.each_slice(3) do |albums|
+        .row-fluid
+          - albums.each do |album|
+            .span4
+              .text-center
+                = link_to(image_tag(album.cover_asset, class: 'img-polaroid'), album_path(album))
+              .subtitle.text-center
+                %strong= album.name

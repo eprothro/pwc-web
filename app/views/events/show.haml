@@ -1,0 +1,9 @@
+.row-fluid#event
+  %h2= @event.name
+  .row-fluid
+    %ul.events{style: 'margin: 0px'}
+      - @event.images.each_slice(3) do |images|
+        .row-fluid
+          - images.each do |image|
+            %li.span4.text-center.clearfix.event
+              = link_to image_tag(image.asset, class: 'img-polaroid'), image_path(image.asset)
