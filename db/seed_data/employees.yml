@@ -140,15 +140,15 @@
 
 - name: Kyle Davidson
   email: kdavidson@pw-tx.com
-  extension: 128
+  extension: 120
   bio: "<p>Kyle Davidson joined the firm in August of 2014 as a Staff Accountant after relocating from his hometown of Abilene, Texas. Kyle graduated from McMurry University of Abilene in May of 2013 with a Bachelors of Business Administration Degree in Finance. After graduating from college, he began his career with a local firm in Abilene. Kyle's areas of practice include internal and compliance audits for financial institutions and medical clinics.</p><p>Kyle grew up in the small West Texas town of Hawley, where he graduated from Hawley High School in 2009. A former member of the McMurry University’s music department, Kyle enjoys playing and creating music. In August of 2014, he moved to Tyler where he loves spending time with family and friends, sports, and being outdoors.</p>"
   started_on: 1-8-2014
-  suffix: CPA
+  suffix:
   image_url: employees/kyle.jpg
 
 - name: Alex Fulmer
   email: afulmer@pw-tx.com
-  extension: 129
+  extension: 128
   bio: ""
   started_on: 1-8-2014
   suffix:
