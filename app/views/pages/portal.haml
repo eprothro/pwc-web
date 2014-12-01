@@ -4,20 +4,17 @@
     .hero-unit{style: 'padding: 30px'}
       .row-fluid
         .text-center
-          %h4 PW sends and receives files securely through CPA Safemail
+          %h4 PW sends and receives files securely through SafeSend
       .row-fluid
         .text-center
-          = link_to 'Login to Safemail', 'https://apm.cpasafemail.com/login.aspx', class: 'btn btn-large', target: '_blank'
+          = link_to 'Login to SafeSend', 'https://portal.safesend.com/Login.aspx', class: 'btn btn-large', target: '_blank'
           %span{style: 'margin: 0 10 20 10'} or
           = link_to 'Send a File', 'https://apm.cpasafemail.com/DropBox.aspx?Company=PWC', class: 'btn btn-large', target: '_blank'
     .row-fluid
       %p
-        * If you do not have a CPA Safe Mail account or need assistance with CPA Safe Mail, please
+        * If you do not have a SafeSend account or need assistance with SafeSend, please
         %span
-          = link_to('e-mail Jacob', "mailto:#{Employee.find_by_name('Jacob D. Taylor').email}?subject=Client Portal") + '.'
-      %p
-        * Need to remove a password from a CPA Safe Mail protected document?
-        %span= link_to 'click here', 'https://www.cpaperless.com/RemovePDFPasswords.aspx'
+          = link_to('e-mail our team', "mailto:#{Employee.find_by_name('Jacob D. Taylor').email}?subject=Client Portal&cc=#{Employee.find_by_name('Jackie S. Arnold').email}") + '.'
       %p
         * The Client Portal uses Adobe Acrobat Reader, to get a free copy of Acrobat Reader,
         %span= link_to 'click here', 'http://get.adobe.com/reader/' + '.'
