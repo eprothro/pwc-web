@@ -17,4 +17,4 @@
           - else
             %span= "(ask for #{@employee.first_name})"
     .span8
-      = @employee.bio.html_safe
+      = @employee.bio.try :html_safe

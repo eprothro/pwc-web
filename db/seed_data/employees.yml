@@ -153,3 +153,27 @@
   started_on: 1-8-2014
   suffix:
   image_url: employees/alex.jpg
+
+- name: April Ocker
+  email: aocker@pw-tx.com
+  extension: 119
+  bio: "<p>April joined the firm in October 2014.  As a member of the Prothro, Wilhelmi and Company Accounting and Reporting Services team, she brings over 13 years of bookkeeping, payroll and sales tax experience. In addition, she assists and supports the tax area with her experience in the preparation of individual and corporate income tax returns. April enjoys getting to know her clients and considers them as an extended family.</p><p>April and her family lived in Lake Havasu City, AZ for over 23 years.  While living in Lake Havasu City, she obtained her Associates Degree in Accounting from Mohave Community College.  She served as treasurer on the Silent Witness board for 7 years and was very active in her church.</p><p>April, and her husband Josh, love calling Tyler their new home. They take drives on the weekend to explore all that Tyler and Texas has to offer.</p>"
+  started_on: 1-10-2014
+  suffix:
+  image_url: employees/april.jpg
+
+- name: Melissa Nix
+  email: mnix@pw-tx.com
+  extension: 121
+  bio: ""
+  started_on: 1-11-2014
+  suffix:
+  image_url: employees/melissa.jpg
+
+- name: Ryan Lacy
+  email: rlacy@pw-tx.com
+  extension: 132
+  bio: ""
+  started_on: 1-11-2014
+  suffix:
+  image_url: employees/ryan.jpg
