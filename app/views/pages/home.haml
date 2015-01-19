@@ -28,16 +28,19 @@
   .span4
     .panel.clearfix
       .row-fluid
+        .span6.text-center
+          = render 'employees/avatar', employee: Employee.find_by_name('Kristi A. Moore')
+        .span6
+          %p
+            PW is pleased to announce that Kristi Moore, CPA has
+            = link_to('become a partner', asset_path('Kristi Moore | Newspaper Announcement.pdf'))
+            in the firm!
+    .panel.clearfix
+      .row-fluid
         .span10.offset1.text-center
           .video-container
             %iframe.ad-video{width: "46", height: "35", allowfullscreen: true, frameborder: "0", src: 'http://www.youtube.com/embed/TTWmBAZWj9g?&modestbranding=0&controls=1&rel=0&showinfo=0'}
       %p.text-center{style: "margin-top: 5px"} "Celebrating 20 years!"
-    .panel.clearfix
-      .row-fluid
-        .span6.text-center{style: 'margin-bottom: -17px'}
-          = render 'employees/avatar', employee: Employee.find_by_name('Kristi A. Moore')
-        .span6
-          %p PW is pleased to announce that Kristi Moore, CPA, has joined the firm bringing over 15 years of tax experience.
 
 .row-fluid#home
   .span12
