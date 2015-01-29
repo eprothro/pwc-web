@@ -2,18 +2,13 @@
   .span4
     .panel.clearfix
       .row-fluid
-        .span12
-          %h4.text-center We are hiring!
+        .span6.text-center
+          = render 'employees/avatar', employee: Employee.find_by_name('Kristi A. Moore')
+        .span6
           %p
-            PW is excited to announce career position openings. See the
-            = link_to('careers page', careers_path)
-            for more information about the following positions:
-          %ul
-            %li= link_to('CPA - Auditor', careers_path(anchor: 'CPA-Auditor'))
-            %li= link_to('CPA - Internal Auditor', careers_path(anchor: 'CPA-Internal-Auditor'))
-            %li= link_to('CPA - Tax', careers_path(anchor: 'CPA-Tax'))
-            %li= link_to('Accounting Intern', careers_path(anchor: 'Accounting-Intern'))
-            %li= link_to('Entry Level Staff Accountant', careers_path(anchor: 'Staff-Accountant'))
+            PW is pleased to announce that Kristi Moore, CPA has
+            = link_to('become a partner', asset_path('Kristi Moore | Newspaper Announcement.pdf'), target: '_blank')
+            in the firm!
 
     .panel.clearfix{style: "min-height: 156px"}
       .row-fluid
