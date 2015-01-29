@@ -3,12 +3,21 @@
     %h2 About PW
 
     .row-fluid
-      .span4.text-center
-        = image_tag 'employees/partners.jpg'
-        .caption
-          Prothro, Wilhelmi, & Company Partners
-      .span8
+      .span5
+        .text-center
+          = image_tag 'employees/partners.jpg'
+        .names-container
+          .names
+            .name Bob Roseman, CPA
+            .name.text-right Tom Prothro, CPA
+            .name Kristi Moore, CPA
+            .name.text-right Walter Wilhelmi, CPA
+        .caption.text-center
+          PW Partners
+      .span7
         %p
           Prothro, Wilhelmi and Company was founded in 1992 by
-          = link_to('Thomas G. Prothro', Employee.find_by_name('Thomas G. Prothro')) + ','
-          CPA. Since then, our firm has grown from a sole entrepreneur to an experienced, professional team. Our firm is committed to providing clients with quality services that continue to adapt to meet individual and business needs. We believe that by possessing ethical and “eternal values”, a business has “infinite potential” to succeed.
+          = link_to('Tom Prothro', Employee.find_by_name('Thomas Prothro')) + ','
+          CPA. Since then, our firm has grown from a sole entrepreneur to an experienced, professional team. Our firm is committed to providing clients with quality services that continue to adapt to meet individual and business needs.
+        %p
+          We believe that by possessing ethical and “eternal values”, a business has “infinite potential” to succeed.

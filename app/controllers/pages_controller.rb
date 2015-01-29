@@ -8,7 +8,8 @@ class PagesController < ApplicationController
       'app/assets/images/slideshow/*.jpg'
     end
 
-    @images = Dir[dir].map{|f| f.sub('public','').sub('app/assets/images', 'assets') }.sort
+    @slides = Dir[dir].map{|f| f.sub('public','').sub('app/assets/images', 'assets') }.sort
+    @employees = Employee.order('created_at ASC')
   end
 
   def news
