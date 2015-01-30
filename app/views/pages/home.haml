@@ -2,13 +2,18 @@
   .span4
     .panel.clearfix
       .row-fluid
-        .span6.text-center
-          = render 'employees/avatar', employee: Employee.find_by_name('Kristi A. Moore')
-        .span6
+        .span12
+          %h4.text-center
+            Tax season is here!
           %p
-            PW is pleased to announce that Kristi Moore, CPA has
-            = link_to('become a partner', asset_path('Kristi Moore | Newspaper Announcement.pdf'), target: '_blank')
-            in the firm!
+            Our experienced tax professionals strive to understand your specific needs to help you have the greatest advantage possible in relation to income taxes.
+          %p
+            Contact our office at
+            = phone_number_link("(903) 534-8811")
+            to make an appointment today, or learn about the
+            = link_to("services we provide", service_path("planning-and-preparation"), title: 'PW Services' )
+            to businesses and individuals.
+
 
     .panel.clearfix{style: "min-height: 156px"}
       .row-fluid
