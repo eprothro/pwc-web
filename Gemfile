@@ -66,6 +66,7 @@ end
 
 group :development, :test do
   gem "awesome_print"
+  gem "byebug"
   gem "capybara-webkit"
   gem "capybara-screenshot"
   gem "byebug"
