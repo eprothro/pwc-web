@@ -178,3 +178,19 @@
   started_on: 1-6-2014
   suffix:
   image_url: employees/ryan.jpg
+
+- name: Joe Matthews
+  email: jmatthews@pw-tx.com
+  extension: 133
+  bio: "<p>Joe joined the firm in January of 2015. He brings with him three years of public accounting and tax experience from a firm in Syracuse, New York.</p><p>Joe received his Bachelor of Science in Public Accounting and Master of Business Administration in May 2013 from the State University of New York at Oswego. In 2014, he received his CPA certification. Joe's areas of practice include tax planning and preparation for individuals, partnerships, corporations, estates, trusts and non-profit organizations. </p><p>Joe married his high school sweetheart, Morgan in May of 2011. They moved to Tyler in January of 2015. As life-long Northerners, they are looking forward to the Texas sun and warmth as they enjoy running half and full marathons, cycling and hiking. </p><p>One of Joe's favorite verses is Isaiah 26:3 – <quote>'You will keep in perfect peace those whose minds are steadfast, because they trust in you.'</quote></p>"
+  started_on: 1-1-2015
+  suffix: CPA
+  image_url: employees/joe.jpg
+
+- name: Seth Huddleston
+  email: shuddleston@pw-tx.com
+  extension: 134
+  bio: "<p>Seth joined the firm in January 2015. He brings over six years of audit  experience, having previously worked for Snow Garrett Williams in Weatherford, Texas as an Audit Senior providing audit and review services to various not-for-profit, governmental and small business clients. His current practice areas at Prothro, Wilhelmi include audits of financial statements for diverse industries as well single audits and financial statement audits, reviews, and Agreed Upon Procedures engagements.  </p><p>Seth graduated from The University of Texas at Tyler in 2008 with a Bachelor of Business Administration in Accounting.  He became certified in 2010 and is a member of the American Institute of Certified Public Accountants and the Texas Society of Certified Public Accountants.</p><p>Seth enjoys spending time with his wife and three children, as well as being involved in his church.</p>"
+  started_on: 1-6-2014
+  suffix: CPA
+  image_url: employees/seth.jpg
