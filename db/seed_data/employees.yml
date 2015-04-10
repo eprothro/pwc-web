@@ -163,14 +163,6 @@
   suffix:
   image_url: employees/april.jpg
 
-- name: Melissa Nix
-  email: mnix@pw-tx.com
-  extension: 121
-  bio: "<p>Melissa joined the firm in September 2014.  As a member of the Accounting and Reporting Services group, she performs full-charge bookkeeping services as well as income tax preparation for individuals, corporations and partnerships.  She recently graduated from UT Tyler with a BBA in Accounting and is currently pursuing her Master of Accountancy degree.</p><p>Melissa is originally from Wichita Falls, Texas where she attended Midwestern State University and moved to Tyler in 2012 to obtain a degree from UT Tyler.  In her spare time she loves spending time outdoors with family and friends.  Her favorite Bible verse is Proverbs 31:25.  'She is clothed with strength and dignity, and she laughs without fear of the future.'</p>"
-  started_on: 1-9-2014
-  suffix:
-  image_url: employees/melissa.jpg
-
 - name: Ryan Lacy
   email: rlacy@pw-tx.com
   extension: 132
