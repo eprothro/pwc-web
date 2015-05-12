@@ -8,6 +8,10 @@
           - albums.each do |album|
             .span4
               .text-center
-                = link_to(image_tag(album.cover_asset, class: 'img-polaroid'), album_path(album))
+                - if album.events.length > 1
+                  = link_to(image_tag(album.cover_asset, class: 'img-polaroid'), album_path(album))
+                - else
+                  = link_to(image_tag(album.cover_asset, class: 'img-polaroid'), event_path(album.events.first))
+
               .subtitle.text-center
                 %strong= album.name

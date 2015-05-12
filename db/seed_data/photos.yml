@@ -18,23 +18,11 @@ Our Office:
         - office/29.jpg
         - office/lights.jpg
         - office/snow.jpg
-    - name: Our Staff
-      cover: office_staff/cover.jpg
-      photos:
-        - office_staff/05.jpg
-        - office_staff/12.jpg
-        - office_staff/15.jpg
-        - office_staff/16.jpg
-        - office_staff/18.jpg
-        - office_staff/19.jpg
-        - office_staff/24.jpg
-        - office_staff/25.jpg
-        - office_staff/32.jpg
-        - office_staff/33.jpg
+
 Involvement Around Town:
   cover: bee/cover.jpg
   events:
-    - name: 2014 Car Show
+    - name: East Texas Auto and Cycle Show
       cover: car_show/cover.jpg
       photos:
         - car_show/1.jpg
@@ -59,61 +47,63 @@ Involvement Around Town:
         - bee/BEE 12.jpg
 
 Activities Around the Office:
-  cover: brunch/cover.jpg
+  cover: breaks/Tax Day Lunch 1.jpg
   events:
-    - name: Tax Season Brunch
-      cover: brunch/cover.jpg
+    - name: Tax Season Breaks
+      cover: breaks/Tax Day Lunch 1.jpg
       photos:
-        - brunch/1.jpg
-        - brunch/2.jpg
-        - brunch/3.jpg
-        - brunch/4.jpg
-        - brunch/5.jpg
-        - brunch/6.jpg
+        - breaks/Tax Break 1.jpg
+        - breaks/Tax Break 2.jpg
+        - breaks/Tax Break 3.jpg
+        - breaks/Tax Break 4.jpg
+        - breaks/Tax Break 5.jpg
+        - breaks/Tax Break 6.jpg
+        - breaks/Tax Breakfast 1.jpg
+        - breaks/Tax Breakfast 2.jpg
+        - breaks/Tax Breakfast 3.jpg
+        - breaks/Tax Breakfast 4.jpg
+        - breaks/Tax Breakfast 5.jpg
+        - breaks/Tax Breakfast 6.jpg
+        - breaks/Tax Breakfast 7.jpg
+        - breaks/Tax Day Lunch 1.jpg
+        - breaks/Tax Day Lunch 2.jpg
+        - breaks/Tax Day Lunch 3.jpg
+        - breaks/Tax Day Lunch 4.jpg
+        - breaks/Tax Day Lunch 5.jpg
     - name: Quarterly Birthdays
       cover: birthdays/cover.jpg
       photos:
-        - birthdays/1.jpg
-        - birthdays/2.jpg
-        - birthdays/3.jpg
-    - name: 4th Annual PW Chili Cook-Off
+        - birthdays/Quarterly Birthday 1.jpg
+        - birthdays/Quarterly Birthday 2.jpg
+        - birthdays/Quarterly Birthday 3.jpg
+        - birthdays/Quarterly Birthday 4.jpg
+        - birthdays/Quarterly Birthday 5.jpg
+    - name: 5th Annual PW Chili Cook-Off
       cover: chili_cook_off/cover.jpg
       photos:
-        - chili_cook_off/121225.jpg
-        - chili_cook_off/115159.jpg
-        - chili_cook_off/115330.jpg
-        - chili_cook_off/115418.jpg
-        - chili_cook_off/122519.jpg
-    - name: 2013 Thanksgiving Luncheon
-      cover: thanksgiving/cover.jpg
+        - chili/Chili Cook-Off 1.jpg
+        - chili/Chili Cook-Off 2.jpg
+        - chili/Chili Cook-Off 3.jpg
+        - chili/Chili Cook-Off 4.jpg
+    - name: Christmas 2014
+      cover: christmas/Christmas 1.jpg
       photos:
-        - thanksgiving/IMG_4736.JPG
-        - thanksgiving/IMG_4737.JPG
-        - thanksgiving/IMG_4740.JPG
-        - thanksgiving/IMG_4741.JPG
-        - thanksgiving/IMG_4743.JPG
-        - thanksgiving/IMG_4746.JPG
-        - thanksgiving/IMG_4747.JPG
-        - thanksgiving/IMG_4748.JPG
-        - thanksgiving/IMG_4750.JPG
-    - name: Christmas 2013
-      cover: christmas/cover.jpg
-      photos:
-        - christmas/20131212_203808_resized.jpg
-        - christmas/20131212_195511_resized.jpg
-        - christmas/20131212_195115_resized.jpg
-        - christmas/20131212_195423_resized.jpg
-        - christmas/20131212_195712_resized.jpg
-        - christmas/20131212_195818_resized.jpg
-        - christmas/20131212_195216_resized.jpg
-        - christmas/20131212_182559_resized.jpg
-        - christmas/20131212_195151_resized.jpg
-        - christmas/20131212_181054_resized.jpg
-        - christmas/20131212_182830_resized.jpg
-        - christmas/20131212_200425_resized.jpg
-        - christmas/20131212_182437_resized.jpg
-        - christmas/20131212_181405_resized.jpg
-        - christmas/20131212_195253_resized.jpg
+        - christmas/Christmas 1.jpg
+        - christmas/Christmas 2.jpg
+        - christmas/Christmas 3.jpg
+        - christmas/Christmas 4.jpg
+        - christmas/Christmas 5.jpg
+        - christmas/Christmas 6.jpg
+        - christmas/Christmas 7.jpg
+        - christmas/Christmas 8.jpg
+        - christmas/Christmas 9.jpg
+        - christmas/Christmas 10.jpg
+        - christmas/Christmas 11.jpg
+        - christmas/Christmas 13.jpg
+        - christmas/Christmas 14.jpg
+        - christmas/Christmas 15.jpg
+        - christmas/Christmas 16.jpg
+        - christmas/Christmas 12.jpg
     - name: Staff Accomplishments
       cover: accomplishments/cover.jpg
       photos:
