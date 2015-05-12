@@ -55,7 +55,9 @@ YAML.load_file('db/seed_data/photos.yml').each do |album, album_data|
       event.save!
 
       data['photos'].each do |photo|
-        image = Image.find_by_asset(photo) || Image.create(asset: photo)
+        asset, caption = Array(photo).flatten
+        image = Image.find_by_asset(asset) || Image.create(asset: asset)
+        image.caption = caption
         image.event = event
         image.save!
       end

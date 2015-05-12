@@ -4,7 +4,7 @@ Our Office:
     - name: PW Office Building
       cover: office/cover.jpg
       photos:
-        - office/01.jpg
+        - office/01.jpg: I'm a caption!
         - office/02.jpg
         - office/03.jpg
         - office/06.jpg
@@ -25,7 +25,7 @@ Involvement Around Town:
     - name: East Texas Auto and Cycle Show
       cover: car_show/cover.jpg
       photos:
-        - car_show/1.jpg
+        - car_show/1.jpg: I'm a caption!
         - car_show/2.jpg
         - car_show/3.jpg
         - car_show/4.jpg
@@ -33,7 +33,7 @@ Involvement Around Town:
     - name: 2014 Literacy Council Spelling Bee
       cover: bee/cover.jpg
       photos:
-        - bee/BEE 1.jpg
+        - bee/BEE 1.jpg: I'm a caption!
         - bee/BEE 2.jpg
         - bee/BEE 3.jpg
         - bee/BEE 4.jpg
@@ -52,7 +52,7 @@ Activities Around the Office:
     - name: Tax Season Breaks
       cover: breaks/Tax Day Lunch 1.jpg
       photos:
-        - breaks/Tax Break 1.jpg
+        - breaks/Tax Break 1.jpg: I'm a caption!
         - breaks/Tax Break 2.jpg
         - breaks/Tax Break 3.jpg
         - breaks/Tax Break 4.jpg
@@ -73,7 +73,7 @@ Activities Around the Office:
     - name: Quarterly Birthdays
       cover: birthdays/cover.jpg
       photos:
-        - birthdays/Quarterly Birthday 1.jpg
+        - birthdays/Quarterly Birthday 1.jpg: I'm a caption!
         - birthdays/Quarterly Birthday 2.jpg
         - birthdays/Quarterly Birthday 3.jpg
         - birthdays/Quarterly Birthday 4.jpg
@@ -81,14 +81,14 @@ Activities Around the Office:
     - name: 5th Annual PW Chili Cook-Off
       cover: chili_cook_off/cover.jpg
       photos:
-        - chili/Chili Cook-Off 1.jpg
+        - chili/Chili Cook-Off 1.jpg: I'm a caption!
         - chili/Chili Cook-Off 2.jpg
         - chili/Chili Cook-Off 3.jpg
         - chili/Chili Cook-Off 4.jpg
     - name: Christmas 2014
       cover: christmas/Christmas 1.jpg
       photos:
-        - christmas/Christmas 1.jpg
+        - christmas/Christmas 1.jpg: I'm a caption!
         - christmas/Christmas 2.jpg
         - christmas/Christmas 3.jpg
         - christmas/Christmas 4.jpg
@@ -107,7 +107,7 @@ Activities Around the Office:
     - name: Staff Accomplishments
       cover: accomplishments/cover.jpg
       photos:
-        - accomplishments/1.jpg
+        - accomplishments/1.jpg: I'm a caption!
         - accomplishments/2.jpg
         - accomplishments/3.jpg
         - accomplishments/4.jpg
@@ -116,7 +116,7 @@ Activities Around the Office:
     - name: 20th Year Open House Celebration
       cover: 20_year_open_house/cover.jpg
       photos:
-        - 20_year_open_house/1.jpg
+        - 20_year_open_house/1.jpg: I'm a caption!
         - 20_year_open_house/2.jpg
         - 20_year_open_house/3.jpg
         - 20_year_open_house/4.jpg
@@ -128,7 +128,7 @@ Activities Around the Office:
     - name: Office Fun
       cover: fun/cover.jpg
       photos:
-        - fun/1.jpg
+        - fun/1.jpg: I'm a caption!
         - fun/2.jpg
         - fun/3.jpg
         - fun/4.jpg
