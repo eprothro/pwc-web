@@ -7,7 +7,8 @@
           .row-fluid
             - images.each do |image|
               %li.span4.text-center.clearfix.event.image
-                = image_tag(image.asset, class: 'img-polaroid')
-                - if image.caption?
-                  .caption
-                    %span= image.caption
+                = link_to image_path(image.asset) do
+                  = image_tag(image.asset, class: 'img-polaroid')
+                  - if image.caption?
+                    .caption
+                      %span= image.caption
