@@ -163,22 +163,6 @@
   suffix:
   image_url: employees/april.jpg
 
-- name: Ryan Lacy
-  email: rlacy@pw-tx.com
-  extension: 132
-  bio: "<p>Ryan Lacy joined the firm in June 2014. He graduated in December 2014 from the University of Texas at Tyler with a Bachelors of Business Administration in Accounting and is currently working toward obtaining a Master of Science in Accounting degree and his CPA license.  Ryan’s areas of practice include internal and external audits for clients in various industries, and compliance audits for financial institutions, as well as tax preparation and compliance for individuals and businesses.</p><p>Ryan grew up in Longview, Texas, where he graduated from Spring Hill High School in 2011. Ryan enjoys spending time with family and friends, traveling, sports, and hunting.</p>"
-  started_on: 1-6-2014
-  suffix:
-  image_url: employees/ryan.jpg
-
-- name: Joe Matthews
-  email: jmatthews@pw-tx.com
-  extension: 133
-  bio: "<p>Joe joined the firm in January of 2015. He brings with him three years of public accounting and tax experience from a firm in Syracuse, New York.</p><p>Joe received his Bachelor of Science in Public Accounting and Master of Business Administration in May 2013 from the State University of New York at Oswego. In 2014, he received his CPA certification. Joe's areas of practice include tax planning and preparation for individuals, partnerships, corporations, estates, trusts and non-profit organizations. </p><p>Joe married his high school sweetheart, Morgan in May of 2011. They moved to Tyler in January of 2015. As life-long Northerners, they are looking forward to the Texas sun and warmth as they enjoy running half and full marathons, cycling and hiking. </p><p>One of Joe's favorite verses is Isaiah 26:3 – <quote>'You will keep in perfect peace those whose minds are steadfast, because they trust in you.'</quote></p>"
-  started_on: 1-1-2015
-  suffix: CPA
-  image_url: employees/joe.jpg
-
 - name: Seth Huddleston
   email: shuddleston@pw-tx.com
   extension: 134
