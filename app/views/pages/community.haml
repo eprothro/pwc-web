@@ -1,25 +1,23 @@
 .row-fluid#community
   .span10.offset1
     %h2 PW Community Spotlight
-    .row-fluid
-      .span12.text-center
-        = image_tag 'LCOT_logo.jpg'
-    .row-fluid
-      .span12.text-center
-        %h2.community-title Corporate Spelling Bee
-    .row-fluid
-      .span12
-        %p.large
-          Every August, Literacy Council of Tyler rounds up 15 or more corporate teams to participate in their annual spelling bee. With over 500 members in the audience, business owners and their employees try to spell everything from “school” to “ichneumon”…all for bragging rights and the coveted traveling trophy. Some past winners include Tyler Junior College, Brookshire’s, Trane, and Tyler Morning Telegraph. Teams also compete for the spirit stick and the costume award. Outlandish costumes and raucous participation makes the spelling bee the most fun special event in Tyler.  We are always looking forward to planning our “costume theme” every year as well as stepping up our “spirit and cheering squad”! It is a lot of fun each year and for such a great cause. All proceeds go to support the programs of Literacy Council of Tyler, an organization committed to providing free basic reading, GED, and English as a second language classes to adults. For the past five years, PW has been a proud participant in the Corporate Spelling Bee. In 2011 and 2012, we brought home the Spirit Stick with our high energy and enthusiasm!
-        .row-fluid
-          .span12.text-center
-            = image_tag 'bee/cover.jpg', class: 'img-polaroid'
-        %p.text-center
-          %strong
-            %span To learn more about the Literacy Council of Tyler or the Annual Spelling Bee, please visit their websites at
-            = link_to 'lcotyler.org', 'http://www.lcotyler.org'
-            %span and
-            = link_to 'lcotyler.org/pages/news-and-events/corporate-spelling-bee', 'http://www.lcotyler.org/pages/news-and-events/corporate-spelling-bee' + '.'
-        %p.text-center.large
-          = link_to "Click here to see all of the photos from the Spelling Bee.", event_path(Event.find_by_name('2014 Literacy Council Spelling Bee'))
+    %h3.community-title East Texas Auto & Cycle Show
+
+    %p.large
+      Prothro Wilhelmi was honored to volunteer at this year’s annual Auto and Cycle Show held by the East Texas Crisis Center in Tyler, Texas.
+    %p.large
+      The East Texas Auto & Cycle Show has the best collection of classic, antique and special interest cars trucks and motorcycles in East Texas!
+    %p.large
+      From humble beginnings in 1991 the first show and car raffle raised $20,000.  The combined 2015 East Texas Auto & Cycle Show and car raffle sponsored by Tyler Ford raised $248,000 that will benefit those who are taking important steps to remove themselves from violent and abusive relationships.
+
+    .text-center
+      = link_to event_path(Event.find_by_name('East Texas Auto and Cycle Show')), title: 'See more photos from the Auto Show' do
+        - image_tag 'car_show/cover.jpg', class: 'img-polaroid'
+
+    %p.text-center
+      %strong
+        %span To learn more about the East Texas Crisis Center or the Annual Auto and Cycle Show, please visit their websites at
+        = link_to 'etcc.org', 'http://www.etcc.org'
+        %span or
+        = link_to 'autoandcycleshow.com', 'http://www.autoandcycleshow.com' + '.'
 
