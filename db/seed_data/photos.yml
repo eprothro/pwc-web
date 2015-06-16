@@ -49,6 +49,33 @@ Involvement Around Town:
 Activities Around the Office:
   cover: breaks/Tax Day Lunch 1.jpg
   events:
+    - name: 16th Annual PWC Putt-Putt Classic
+      cover: putt-putt/Golf 20.JPG
+      photos:
+        - putt-putt/Golf 1.JPG
+        - putt-putt/Golf 2.JPG
+        - putt-putt/Golf 3.JPG
+        - putt-putt/Golf 4.JPG
+        - putt-putt/Golf 5.JPG
+        - putt-putt/Golf 6.JPG
+        - putt-putt/Golf 7.JPG
+        - putt-putt/Golf 8.JPG
+        - putt-putt/Golf 9.JPG
+        - putt-putt/Golf 10.JPG
+        - putt-putt/Golf 11.JPG
+        - putt-putt/Golf 12.JPG
+        - putt-putt/Golf 13.JPG
+        - putt-putt/Golf 14.JPG
+        - putt-putt/Golf 15.JPG
+        - putt-putt/Golf 16.JPG
+        - putt-putt/Golf 17.JPG
+        - putt-putt/Golf 18.JPG
+        - putt-putt/Golf 19.JPG
+        - putt-putt/Golf 20.JPG
+        - putt-putt/Golf 21.JPG
+        - putt-putt/Golf 22.JPG
+        - putt-putt/Golf 23.JPG
+        - putt-putt/Golf 24.JPG
     - name: Tax Season Breaks
       cover: breaks/Tax Day Lunch 1.jpg
       photos:
@@ -78,6 +105,7 @@ Activities Around the Office:
         - birthdays/Quarterly Birthday 3.jpg
         - birthdays/Quarterly Birthday 4.jpg
         - birthdays/Quarterly Birthday 5.jpg
+        - birthdays/Quarterly Birthday 6.jpg
     - name: 5th Annual PW Chili Cook-Off
       cover: chili/Chili Cook-Off 1.jpg
       photos:
@@ -104,6 +132,7 @@ Activities Around the Office:
         - christmas/Christmas 15.jpg
         - christmas/Christmas 16.jpg
         - christmas/Christmas 12.jpg
+        - christmas/Christmas 17.jpg
     - name: Staff Accomplishments
       cover: accomplishments/cover.jpg
       photos:
@@ -111,24 +140,7 @@ Activities Around the Office:
         - accomplishments/2.jpg
         - accomplishments/3.jpg
         - accomplishments/4.jpg
-        - accomplishments/5.jpg
         - accomplishments/6.jpg
-    - name: Office Fun
-      cover: fun/cover.jpg
-      photos:
-        - fun/1.jpg
-        - fun/2.jpg
-        - fun/3.jpg
-        - fun/4.jpg
-        - fun/5.jpg
-        - fun/6.jpg
-        - fun/7.jpg
-        - fun/8.jpg
-        - fun/9.jpg
-        - fun/10.jpg
-        - fun/11.jpg
-        - fun/12.jpg
-        - fun/13.jpg
     - name: 20th Year Open House Celebration
       cover: 20_year_open_house/cover.jpg
       photos:
