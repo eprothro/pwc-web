@@ -22,6 +22,16 @@ Our Office:
 Involvement Around Town:
   cover: bee/cover.jpg
   events:
+    - name: Leadercast
+      cover: involvement/leadercast.jpg
+    - name: Blessed Luncheon
+      cover: involvement/blessed-luncheon.jpg
+    - name: Little League
+      cover: involvement/little-league.jpg
+    - name: Fresh 15
+      cover: involvement/fresh-15.jpg
+    - name: Literacy Council Luncheon
+      cover: involvement/literacy-luncheon.jpg
     - name: East Texas Crisis Center Auto & Cycle Show
       cover: car_show/cover.jpg
       photos:
@@ -29,7 +39,8 @@ Involvement Around Town:
         - car_show/2.jpg
         - car_show/3.jpg
         - car_show/4.jpg
-
+    - name: Habitat Gala
+      cover: involvement/habitat.jpg
     - name: 2014 Literacy Council Spelling Bee
       cover: bee/cover.jpg
       photos:

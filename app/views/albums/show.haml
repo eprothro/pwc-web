@@ -9,6 +9,9 @@
             - events.each do |event|
               %li.span4
                 .text-center
-                  = link_to(image_tag(event.cover_asset, class: 'img-polaroid'), event_path(event))
+                  - if event.images.present?
+                    = link_to(image_tag(event.cover_asset, class: 'img-polaroid'), event_path(event))
+                  - else
+                    = link_to(image_tag(event.cover_asset, class: 'img-polaroid'), image_path(event.cover_asset))
                 .subtitle.text-center
                   %strong= event.name
