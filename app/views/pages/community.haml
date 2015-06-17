@@ -1,23 +1,23 @@
-.row-fluid#community
+.row-fluid
   .span10.offset1
     %h2 PW Community Spotlight
-    %h3.community-title East Texas Auto & Cycle Show
+    %h3.community-title East Texas Crisis Center Auto & Cycle Show
+    .row-fluid
+      .span5
+        %p.text-center
+          = link_to event_path(Event.find_by_name('East Texas Crisis Center Auto & Cycle Show')), title: 'See more photos from the Auto Show' do
+            - image_tag 'car_show/cover.jpg', class: 'img-polaroid'
+      .span7
+        %p
+          Prothro, Wilhelmi & Co was honored to volunteer at this year’s annual Auto and Cycle Show held by the East Texas Crisis Center in Tyler, Texas.
+          The East Texas Auto & Cycle Show has the best collection of classic, antique and special interest cars trucks and motorcycles in East Texas!
+        %p
+          From humble beginnings in 1991 the first show and car raffle raised $20,000.  The combined 2015 East Texas Auto & Cycle Show and car raffle sponsored by Tyler Ford raised $248,000 that will benefit those who are taking important steps to remove themselves from violent and abusive relationships.
 
-    %p.large
-      Prothro, Wilhelmi & Co was honored to volunteer at this year’s annual Auto and Cycle Show held by the East Texas Crisis Center in Tyler, Texas.
-    %p.large
-      The East Texas Auto & Cycle Show has the best collection of classic, antique and special interest cars trucks and motorcycles in East Texas!
-    %p.large
-      From humble beginnings in 1991 the first show and car raffle raised $20,000.  The combined 2015 East Texas Auto & Cycle Show and car raffle sponsored by Tyler Ford raised $248,000 that will benefit those who are taking important steps to remove themselves from violent and abusive relationships.
-
-    .text-center
-      = link_to event_path(Event.find_by_name('East Texas Auto and Cycle Show')), title: 'See more photos from the Auto Show' do
-        - image_tag 'car_show/cover.jpg', class: 'img-polaroid'
-
-    %p.text-center
-      %strong
-        %span To learn more about the East Texas Crisis Center or the Annual Auto and Cycle Show, please visit their websites at
-        = link_to 'etcc.org', 'http://www.etcc.org'
-        %span or
-        = link_to 'autoandcycleshow.com', 'http://www.autoandcycleshow.com' + '.'
+        %p
+          %strong
+            %span To learn more about the East Texas Crisis Center or the Annual Auto and Cycle Show, please visit their websites at
+            = link_to 'etcc.org', 'http://www.etcc.org', target: '_blank'
+            %span or
+            = link_to('autoandcycleshow.com', 'http://www.autoandcycleshow.com', target: '_blank') + '.'
 
