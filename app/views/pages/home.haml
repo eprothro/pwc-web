@@ -2,18 +2,14 @@
   .span4
     .panel.clearfix
       .row-fluid
-        .span12
-          %h4.text-center
-            Tax season is here!
+        .span10.offset1.text-center
           %p
-            With over 100 years of combined tax experience, we work directly with each client to understand their specific needs and provide the greatest income tax advantage.
-          %p
-            Call us at
-            = phone_number_link("(903) 534-8811")
-            to make an appointment, or read more about the
-            = link_to("services we provide", service_path("planning-and-preparation"), title: 'PW Services' )
-            to businesses and individuals.
-
+            = link_to album_path(Album.find_by_name('Involvement Around Town')), title: 'See more photos of PW involvement around town' do
+              - image_tag 'bee/cover.jpg'
+          %p.text-center
+            Visit
+            = link_to('our Facebook page', 'https://www.facebook.com/ProthroWilhelmi', target: '_blank')
+            to stay current with PW news and community involvement!
 
     .panel.clearfix{style: "min-height: 156px"}
       .row-fluid
