@@ -22,24 +22,24 @@ Our Office:
 Involvement Around Town:
   cover: bee/cover.jpg
   events:
-    - name: Leadercast
+    - name: Leadercast Tyler
       cover: involvement/leadercast.jpg
-    - name: Blessed Luncheon
+    - name: "Christian Homes & Family Services<br />Call Her Blessed Luncheon"
       cover: involvement/blessed-luncheon.jpg
     - name: Little League
       cover: involvement/little-league.jpg
     - name: Fresh 15
       cover: involvement/fresh-15.jpg
-    - name: Literacy Council Luncheon
+    - name: Circle of Honor<br />Appreciation Luncheon
       cover: involvement/literacy-luncheon.jpg
-    - name: East Texas Crisis Center Auto & Cycle Show
+    - name: East Texas Crisis Center<br />Auto & Cycle Show
       cover: car_show/cover.jpg
       photos:
         - car_show/1.jpg
         - car_show/2.jpg
         - car_show/3.jpg
         - car_show/4.jpg
-    - name: Habitat Gala
+    - name: Habitat For Humanity<br />25th Anniversary Gala
       cover: involvement/habitat.jpg
     - name: 2014 Literacy Council Spelling Bee
       cover: bee/cover.jpg

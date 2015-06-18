@@ -1,6 +1,6 @@
 .row-fluid#event
   .span10.offset1
-    %h2= @event.name
+    %h2= @event.name.html_safe
     .row-fluid
       %ul.events{style: 'margin: 0px'}
         - @event.images.each_slice(3) do |images|

@@ -1,17 +1,17 @@
 .row-fluid
   .span10.offset1
     .row-fluid
-      %h2= @album.name
+      %h2= @album.name.html_safe
     .row-fluid
       %ul.thumbnails
         - @album.events.each_slice(3) do |events|
           .row-fluid
             - events.each do |event|
-              %li.span4
+              %li.span4.event
                 .text-center
                   - if event.images.present?
                     = link_to(image_tag(event.cover_asset, class: 'img-polaroid'), event_path(event))
                   - else
                     = link_to(image_tag(event.cover_asset, class: 'img-polaroid'), image_path(event.cover_asset))
                 .subtitle.text-center
-                  %strong= event.name
+                  %strong= event.name.html_safe

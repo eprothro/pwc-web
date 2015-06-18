@@ -14,4 +14,4 @@
                   = link_to(image_tag(album.cover_asset, class: 'img-polaroid'), event_path(album.events.first))
 
               .subtitle.text-center
-                %strong= album.name
+                %strong= album.name.html_safe
