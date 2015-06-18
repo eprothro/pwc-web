@@ -4,7 +4,7 @@
       .row-fluid
         .span10.offset1.text-center
           %p
-            = link_to album_path(Album.find_by_name('Involvement Around Town')), title: 'See more photos of PW involvement around town' do
+            = link_to album_path(Album.find_by_slug('involvement-around-town')), title: 'See more photos of PW involvement around town' do
               - image_tag 'bee/cover.jpg'
           %p.text-center
             Visit

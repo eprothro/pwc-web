@@ -48,7 +48,7 @@ YAML.load_file('db/seed_data/photos.yml').each do |album, album_data|
     album_data['events'].each do |data|
       puts "       - Creating/Updating #{data['name']} Event..."
       event_name = data['name']
-      event = Event.find_by_name(event_name) || Event.new
+      event = Event.find_by_slug(event_name.parameterize) || Event.new
       event.album = album
       event.name = event_name
       event.cover_asset = data['cover']
