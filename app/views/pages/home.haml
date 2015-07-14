@@ -2,6 +2,16 @@
   .span4
     .panel.clearfix
       .row-fluid
+        %h4.text-center We're Hiring!
+        %p
+          We're excited to announce an opening on our team for a CPA specializing in income tax preparation!
+        %p
+          Visit our
+          = link_to "Careers Page", careers_path
+          to learn more about the open position or to apply.
+
+    .panel.clearfix
+      .row-fluid
         .span10.offset1.text-center
           %p
             = link_to album_path(Album.find_by_slug('involvement-around-town')), title: 'See more photos of PW involvement around town' do
@@ -10,13 +20,6 @@
             Visit
             = link_to('our Facebook page', 'https://www.facebook.com/ProthroWilhelmi', target: '_blank')
             to stay current with PW news and community involvement!
-
-    .panel.clearfix{style: "min-height: 156px"}
-      .row-fluid
-        .span6.text-center
-          = render 'employees/avatar', employee: Employee.find_by_name('Tom Prothro')
-        .span6
-          %p Congratulations to Tom Prothro – Governor Rick Perry has named Tom Prothro of Tyler as chair of the Texas State Board of Public Accountancy!
   .span4
     .hero-unit.clearfix.text-center
       = render partial: 'carousel', locals: {slides: @slides, employees: @employees}
