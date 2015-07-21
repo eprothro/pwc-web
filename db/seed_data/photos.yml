@@ -22,6 +22,24 @@ Our Office:
 Involvement Around Town:
   cover: bee/cover.jpg
   events:
+    - name: TYPN Luncheon
+      cover: involvement/TYPN Luncheon.jpg
+    - name: Tyler Chamber of Commerce<br />Membership Drive
+      cover: chamber/Chamber 10.jpg
+      photos:
+        - chamber/Chamber 1.jpg
+        - chamber/Chamber 2.jpg
+        - chamber/Chamber 3.jpg
+        - chamber/Chamber 4.jpg
+        - chamber/Chamber 5.jpg
+        - chamber/Chamber 6.jpg
+        - chamber/Chamber 7.jpg
+        - chamber/Chamber 8.jpg
+        - chamber/Chamber 9.jpg
+        - chamber/Chamber 10.jpg
+        - chamber/Chamber 11.jpg
+        - chamber/Chamber 12.jpg
+        - chamber/Chamber 13.jpg
     - name: Leadercast Tyler
       cover: involvement/leadercast.jpg
     - name: "Christian Homes & Family Services<br />Call Her Blessed Luncheon"
@@ -59,24 +77,6 @@ Involvement Around Town:
         - bee/BEE 10.jpg
         - bee/BEE 11.jpg
         - bee/BEE 12.jpg
-    - name: TYPN Luncheon
-      cover: involvement/TYPN Luncheon.jpg
-    - name: Tyler Chamber of Commerce<br />Membership Drive
-      cover: chamber/Chamber 10.jpg
-      photos:
-        - chamber/Chamber 1.jpg
-        - chamber/Chamber 2.jpg
-        - chamber/Chamber 3.jpg
-        - chamber/Chamber 4.jpg
-        - chamber/Chamber 5.jpg
-        - chamber/Chamber 6.jpg
-        - chamber/Chamber 7.jpg
-        - chamber/Chamber 8.jpg
-        - chamber/Chamber 9.jpg
-        - chamber/Chamber 10.jpg
-        - chamber/Chamber 11.jpg
-        - chamber/Chamber 12.jpg
-        - chamber/Chamber 13.jpg
 
 Activities Around the Office:
   cover: breaks/Tax Day Lunch 1.jpg
