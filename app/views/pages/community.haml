@@ -1,22 +1,28 @@
 .row-fluid
   .span10.offset1
     %h2 PW Community Spotlight
-    %h3.community-title East Texas Crisis Center Auto & Cycle Show
+    %h3.community-title Tyler Chamber of Commerce Membership Drive
     .row-fluid
       .span5
         %p.text-center
-          = link_to event_path(Event.find_by_slug('east-texas-crisis-center-br-auto-cycle-show')), title: 'See more photos from the Auto Show' do
-            - image_tag 'car_show/cover.jpg', class: 'img-polaroid'
+          - chamber_event = Event.find_by_slug('tyler-chamber-of-commerce-br-membership-drive')
+          = link_to event_path(chamber_event), title: 'See more photos from the Membership Drive' do
+            - image_tag chamber_event.cover_asset, class: 'img-polaroid'
       .span7
         %p
-          Prothro, Wilhelmi & Co was honored to volunteer at this year’s annual Auto and Cycle Show held by the East Texas Crisis Center in Tyler, Texas.
-          This annual auto show has the best collection of classic, antique and special interest cars trucks and motorcycles in East Texas!
+          The Tyler Chamber of Commerce hosted a recent membership event, which set a new Chamber National Membership Drive Record with 914 new members and the most business volunteers, over 400 in 2 ½ days.
         %p
-          From humble beginnings in 1991 the first show and car raffle raised $20,000.  The combined 2015 East Texas Crisis Center Auto & Cycle Show and car raffle sponsored by Tyler Ford raised $248,000 that will benefit those who are taking important steps to remove themselves from violent and abusive relationships.
+          Mr. Jimmy Cusano with “Your Chamber Connection” brought a very high energy campaign to Tyler which allowed volunteers to conduct “out of the box” membership fun while building the membership base.  Mr. Cusano stated “The Chamber of Commerce is the business community.  This brings everyone together to build our Chamber.  This membership Event allowed them to come together in a competitive fun setting and to tell the Chamber story”.
+        %p
+          One of our own, Walter Wilhelmi, served as Event Chair and received one of the “Good Fella Awards” and our team “Royal Blue Cougars” won one of the Spirit Awards during the Membership event.
+        %p
+          Team Captains B. J.  Hornbostel, Patrick Willis, Tom Prothro, Bob Roseman, Alex Fulmer, Gary Miller and Price Arredondo showed their leadership by motivating their teams to give back to our Tyler Chamber of Commerce.
+        %p
+          Charles Hill, Chairman of the Board and Henry Bell, Chief Operating Officer of the Chamber, cheered the teams on with enthusiasm and dedication for
+          = link_to('East Texas Crisis Center', 'http://www.etcc.org', target: '_blank') + '.'
+          We are proud to have been a part of this event and support our beautiful city of Tyler
 
-        %p
-          %strong
-            %span PW is proud to support the important work of the
-            = link_to 'East Texas Crisis Center', 'http://www.etcc.org', target: '_blank'
-            %span and volunteer at their
-            = link_to('Annual Auto and Cycle Show', 'http://www.autoandcycleshow.com', target: '_blank') + '!'
+
+
+
+
