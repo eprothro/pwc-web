@@ -7,21 +7,23 @@
         .row-fluid
           .span10.offset1
             .news
+              %span= link_to 'Cristy McDowell', Employee.find_by_name('Cristy McDowell')
+              %span has been promoted to Supervisor.
+            .news
+              %span= link_to 'Ramsey Starks', Employee.find_by_name('Ramsey Starks')
+              %span has been selected to serve on the Board of Directors for Bethesda Health Clinic.
+            .news
+              %span= link_to 'Alex Fulmer', Employee.find_by_name('Alex Fulmer')
+              %span has been selected to serve on the UT Tyler Accountancy Advisory Council.
+            .news
+              %span= link_to 'Walter Wilhelmi ', Employee.find_by_name('Walter Wilhelmi')
+              %span has been appointed to the City of Tyler ½ Cent Sales Tax Board.
+            .news
               %span= link_to 'Seth Huddleston', Employee.find_by_name('Seth Huddleston')
               %span has joined the firm.
             .news
               %span= link_to 'Kristi Moore', Employee.find_by_name('Kristi Moore')
               %span has become a partner in the firm.
-            .news
-              %span= link_to 'April Ocker', Employee.find_by_name('April Ocker')
-              %span has joined the firm.
-            .news
-              %span= link_to 'Alex Fulmer', Employee.find_by_name('Alex Fulmer')
-              %span has joined the firm.
-            .news
-              %span= link_to 'Tom Prothro', Employee.find_by_name('Tom Prothro')
-              %span
-                was named by Governor Rick Perry as chair of the Texas State Board of Public Accountancy.
             .news
               %span= link_to 'Tom Prothro', Employee.find_by_name('Tom Prothro')
               %span has received certification as a CAP – Chartered Advisor in Philanthropy.
@@ -40,8 +42,3 @@
                 .video-container
                   %iframe.ad-video{width: "46", height: "35", allowfullscreen: true, frameborder: "0", src: 'http://www.youtube.com/embed/K-OcTc7rH8c?&modestbranding=0&controls=1&rel=0&showinfo=0'}
                 %p.text-center{style: "margin-top: 5px"} CBS 19 Commercial Spot
-            .row-fluid
-              .news
-                %span PW is a proud sponsor of Masters week on KTBB Sports Talk. Click
-                = link_to 'here', asset_path('masters12.mp3'), target: '_blank'
-                %span to hear our ad.
