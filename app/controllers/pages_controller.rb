@@ -13,6 +13,7 @@ class PagesController < ApplicationController
   end
 
   def news
+    sleep(5)
   end
 
   def community

@@ -5,9 +5,9 @@ source 'https://rubygems.org'
 
 ruby '2.0.0'
 gem 'rails',                    '~> 3.2.16'
-gem 'unicorn',                  '~> 4.6.2'
-# gem 'unicorn-rails',            '~> 1.0.1'
-gem 'unicorn-worker-killer',    '~> 0.4.1'
+
+# web server
+gem 'puma',                     '~> 2.14.0'
 
 gem 'asset_sync',               '~> 0.5.3'
 gem 'aws-sdk',                  '~> 1.7.1'
