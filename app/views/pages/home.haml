@@ -14,8 +14,8 @@
       .row-fluid
         .span10.offset1.text-center
           %p
-            = link_to album_path(Album.find_by_slug('involvement-around-town')), title: 'See more photos of PW involvement around town' do
-              - image_tag 'bee/cover.jpg'
+            = link_to album_path(album = Album.find_by_slug('involvement-around-town')), title: 'See more photos of PW involvement around town' do
+              - image_tag album.cover_asset
           %p.text-center
             Visit
             = link_to('our Facebook page', 'https://www.facebook.com/ProthroWilhelmi', target: '_blank')
