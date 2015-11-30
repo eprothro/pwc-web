@@ -6,27 +6,31 @@
         %h3 Recent Highlights
         .row-fluid
           .span10.offset1
-            .news
-              %span= link_to 'Cristy McDowell', Employee.find_by_name('Cristy McDowell')
-              %span has been promoted to Supervisor.
-            .news
-              %span= link_to 'Ramsey Starks', Employee.find_by_name('Ramsey Starks')
-              %span has been selected to serve on the Board of Directors for Bethesda Health Clinic.
-            .news
-              %span= link_to 'Alex Fulmer', Employee.find_by_name('Alex Fulmer')
-              %span has been selected to serve on the UT Tyler Accountancy Advisory Council.
-            .news
-              %span= link_to 'Walter Wilhelmi ', Employee.find_by_name('Walter Wilhelmi')
-              %span has been appointed to the City of Tyler ½ Cent Sales Tax Board.
-            .news
-              %span= link_to 'Seth Huddleston', Employee.find_by_name('Seth Huddleston')
-              %span has joined the firm.
-            .news
-              %span= link_to 'Kristi Moore', Employee.find_by_name('Kristi Moore')
-              %span has become a partner in the firm.
-            .news
-              %span= link_to 'Tom Prothro', Employee.find_by_name('Tom Prothro')
-              %span has received certification as a CAP – Chartered Advisor in Philanthropy.
+            %ul
+              %li.news
+                %span PW was awarded “Outstanding Philanthropic Corporation” from the Association of Fundraising Professionals East Texas Chapter at the
+                %span= link_to("2015 Award Luncheon", Event.find_by_slug('national-philanthropy-day-award-luncheon')) + '.'
+              %li.news
+                %span= link_to 'Cristy McDowell', Employee.find_by_name('Cristy McDowell')
+                %span has been promoted to Supervisor.
+              %li.news
+                %span= link_to 'Ramsey Starks', Employee.find_by_name('Ramsey Starks')
+                %span has been selected to serve on the Board of Directors for Bethesda Health Clinic.
+              %li.news
+                %span= link_to 'Alex Fulmer', Employee.find_by_name('Alex Fulmer')
+                %span has been selected to serve on the UT Tyler Accountancy Advisory Council.
+              %li.news
+                %span= link_to 'Walter Wilhelmi ', Employee.find_by_name('Walter Wilhelmi')
+                %span has been appointed to the City of Tyler ½ Cent Sales Tax Board.
+              %li.news
+                %span= link_to 'Seth Huddleston', Employee.find_by_name('Seth Huddleston')
+                %span has joined the firm.
+              %li.news
+                %span= link_to 'Kristi Moore', Employee.find_by_name('Kristi Moore')
+                %span has become a partner in the firm.
+              %li.news
+                %span= link_to 'Tom Prothro', Employee.find_by_name('Tom Prothro')
+                %span has received certification as a CAP – Chartered Advisor in Philanthropy.
 
 
         %h3 Advertising
