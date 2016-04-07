@@ -19,6 +19,17 @@ Our Office:
 Involvement Around Town:
   cover: philanthropy/cover.jpg
   events:
+    - name: East Texas Crisis Center<br />Auto & Cycle Show
+      cover: car_show/2016 Cycle Show 8-tan.jpg
+      photos:
+        - car_show/2016 Cycle Show 1.jpg
+        - car_show/2016 Cycle Show 2.jpg
+        - car_show/2016 Cycle Show 3.jpg
+        - car_show/2016 Cycle Show 4.jpg
+        - car_show/2016 Cycle Show 5.jpg
+        - car_show/2016 Cycle Show 6.jpg
+        - car_show/2016 Cycle Show 7.jpg
+        - car_show/2016 Cycle Show 8-tan.jpg
     - name: National Philanthropy Day Award Luncheon
       cover: philanthropy/Luncheon 1.jpg
       photos:
@@ -91,16 +102,6 @@ Involvement Around Town:
       cover: involvement/fresh-15.jpg
     - name: Circle of Honor<br />Appreciation Luncheon
       cover: involvement/literacy-luncheon.jpg
-    - name: East Texas Crisis Center<br />Auto & Cycle Show
-      cover: car_show/cover.jpg
-      photos:
-        - car_show/1.jpg
-        - car_show/2.jpg
-        - car_show/3.jpg
-        - car_show/4.jpg
-        - car_show/5.jpg
-        - car_show/6.jpg
-        - car_show/7.jpg
     - name: Habitat For Humanity<br />25th Anniversary Gala
       cover: involvement/habitat.jpg
 
