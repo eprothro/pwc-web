@@ -1,5 +1,5 @@
 class PagesController < ApplicationController
-  caches_action :home unless Rails.env.development?
+  # caches_action :home unless Rails.env.development?
 
   def home
     dir = if Rails.env.production?

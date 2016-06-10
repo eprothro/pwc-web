@@ -14,7 +14,7 @@ PWCWeb::Application.configure do
   config.action_controller.perform_caching = false
 
   # Enable threaded mode
-  config.threadsafe! unless $rails_rake_task
+  # config.threadsafe! unless $rails_rake_task
 
   # Use file store for caching in development
   # config.cache_store = :dalli_store

@@ -1,14 +1,13 @@
 .row-fluid#home
   .span4
     .panel.clearfix
-      .row-fluid
-        %h4.text-center We're Hiring!
+      .row-fluid.text-center
+        %h4 High School Internship Program
         %p
-          We're excited to announce an opening on our team for a CPA specializing in income tax preparation!
+          PW is proud to welcome Luke to our firm this summer to be a part of our High School Internship Program.
         %p
-          Visit our
-          = link_to "careers page", careers_path
-          to learn more about the open position or to apply.
+          Learn more about Luke on our
+          = link_to("Careers page", careers_path(anchor: 'internship')) + '.'
 
     .panel.clearfix
       .row-fluid
@@ -27,13 +26,15 @@
   .span4
     .panel.clearfix
       .row-fluid
-        .span6.text-center
-          = render 'employees/avatar', employee: Employee.find_by_name('Kristi Moore')
-        .span6
+        .span10.offset1.text-center
           %p
-            PW is pleased to announce that Kristi Moore, CPA has
-            = link_to('become a partner', asset_path('Kristi Moore | Newspaper Announcement.pdf'), target: '_blank')
-            in the firm!
+            = link_to event = Event.find_by_slug('east-texas-crisis-center-br-auto-cycle-show'), title: 'See more photos from the 2016 Auto and Cycle Show' do
+              - image_tag 'car_show/2016 Cycle Show 5.jpg'
+          %p.text-center
+            Check out our
+            = link_to('Community Spotlight page', community_path)
+            to learn about our involvement with the
+            2016 Auto and Cycle Show held by the East Texas Crisis Center!
     .panel.clearfix
       .row-fluid
         .span10.offset1.text-center
