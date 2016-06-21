@@ -1,12 +1,11 @@
 Our Office:
-  cover: office/gallery_cover.jpg
+  cover: office/07.jpg
   events:
     - name: PW Office Building
-      cover: office/cover.jpg
+      cover: office/07.jpg
       photos:
         - office/01.jpg
         - office/02.jpg
-        - office/03.jpg
         - office/06.jpg
         - office/07.jpg
         - office/13.jpg
@@ -19,6 +18,23 @@ Our Office:
 Involvement Around Town:
   cover: philanthropy/cover.jpg
   events:
+    - name: KTBB Scholastic All-Stars
+      cover: involvement/scholastic_1.jpg
+      photos:
+        - involvement/scholastic_1.jpg
+        - involvement/scholastic_2.jpg
+    - name: Masters of Accountancy<br />Awards Banquet
+      cover: macc/01.jpg
+      photos:
+        - macc/01.jpg
+        - macc/02.jpg
+        - macc/03.jpg
+    - name: Leadercast Tyler
+      cover: involvement/leadercast.jpg
+    - name: UT Tyler Leadership Speaker<br />Lou Holtz
+      cover: involvement/lou.jpg
+    - name: "Christian Homes & Family Services<br />Call Her Blessed Luncheon"
+      cover: involvement/blessed-luncheon.jpg
     - name: East Texas Crisis Center<br />Auto & Cycle Show
       cover: car_show/2016 Cycle Show 8-tan.jpg
       photos:
@@ -73,7 +89,6 @@ Involvement Around Town:
         - bee/Spelling 22.jpg
         - bee/Spelling 23.jpg
         - bee/Spelling 24.jpg
-
     - name: TYPN Luncheon
       cover: involvement/TYPN Luncheon.jpg
     - name: Tyler Chamber of Commerce<br />Membership Event
@@ -92,22 +107,114 @@ Involvement Around Town:
         - chamber/Chamber 11.jpg
         - chamber/Chamber 12.jpg
         - chamber/Chamber 13.jpg
-    - name: Leadercast Tyler
-      cover: involvement/leadercast.jpg
-    - name: "Christian Homes & Family Services<br />Call Her Blessed Luncheon"
-      cover: involvement/blessed-luncheon.jpg
-    - name: Little League
-      cover: involvement/little-league.jpg
-    - name: Fresh 15
-      cover: involvement/fresh-15.jpg
-    - name: Circle of Honor<br />Appreciation Luncheon
-      cover: involvement/literacy-luncheon.jpg
-    - name: Habitat For Humanity<br />25th Anniversary Gala
-      cover: involvement/habitat.jpg
 
 Activities Around the Office:
-  cover: breaks/Tax Day Lunch 1.jpg
+  cover: breaks/Tax Break 20.JPG
   events:
+
+    - name: 17th Annual PWC Putt-Putt Classic
+      cover: putt-putt/Golf 1.JPG
+      photos:
+        - putt-putt/Golf 1.JPG
+        - putt-putt/Golf 2.JPG
+        - putt-putt/Golf 3.JPG
+        - putt-putt/Golf 4.JPG
+        - putt-putt/Golf 5.JPG
+        - putt-putt/Golf 6.JPG
+        - putt-putt/Golf 7.JPG
+        - putt-putt/Golf 8.JPG
+        - putt-putt/Golf 9.JPG
+        - putt-putt/Golf 10.JPG
+        - putt-putt/Golf 11.JPG
+        - putt-putt/Golf 12.JPG
+        - putt-putt/Golf 13.JPG
+        - putt-putt/Golf 15.JPG
+        - putt-putt/Golf 16.JPG
+        - putt-putt/Golf 17.JPG
+        - putt-putt/Golf 18.JPG
+        - putt-putt/Golf 19.JPG
+        - putt-putt/Golf 21.JPG
+        - putt-putt/Golf 22.JPG
+        - putt-putt/Golf 23.JPG
+        - putt-putt/Golf 24.JPG
+    - name: Employee Celebrations
+      cover: celebrations/Anniversary 1.JPG
+      photos:
+        - celebrations/Anniversary 1.JPG
+        - celebrations/Anniversary 2.JPG
+        - celebrations/Anniversary 3.JPG
+        - celebrations/Anniversary 4.JPG
+        - celebrations/Anniversary 5.JPG
+        - celebrations/Anniversary 6.JPG
+        - celebrations/Anniversary 9.JPG
+        - celebrations/Anniversary 10.JPG
+        - celebrations/Kasey 1.JPG
+        - celebrations/Kasey 2.JPG
+        - celebrations/Tom.jpg
+    - name: Quarterly Birthdays
+      cover: birthdays/3Q Lunch 2.jpg
+      photos:
+        - birthdays/Quarterly 1.JPG
+        - birthdays/Quarterly 2.JPG
+        - birthdays/Quarterly 3.JPG
+        - birthdays/3Q Lunch 1.jpg
+        - birthdays/3Q Lunch 2.jpg
+        - birthdays/3Q Lunch 3.jpg
+        - birthdays/3Q Lunch 4.jpg
+        - birthdays/Quarterly Birthday 3.jpg
+        - birthdays/Quarterly Birthday 4.jpg
+        - birthdays/Quarterly Birthday 6.jpg
+        - birthdays/Q2 - 2.jpg
+        - birthdays/Q2 - 4.jpg
+        - birthdays/Q2 - 6.jpg
+        - birthdays/Birthday 2.JPG
+    - name: Tax Season Breaks
+      cover: breaks/Tax Break 20.JPG
+      photos:
+        - breaks/Tax Break 1.JPG
+        - breaks/Tax Break 2.JPG
+        - breaks/Tax Break 3.JPG
+        - breaks/Tax Break 4.JPG
+        - breaks/Tax Break 5.JPG
+        - breaks/Tax Break 6.JPG
+        - breaks/Tax Break 7.JPG
+        - breaks/Tax Break 8.JPG
+        - breaks/Tax Break 9.JPG
+        - breaks/Tax Break 10.JPG
+        - breaks/Tax Break 11.JPG
+        - breaks/Tax Break 12.JPG
+        - breaks/Tax Break 16.JPG
+        - breaks/Tax Break 17.JPG
+        - breaks/Tax Break 18.JPG
+        - breaks/Tax Break 19.JPG
+        - breaks/Tax Break 20.JPG
+    - name: Christmas Party
+      cover: christmas/Christmas 1.JPG
+      photos:
+        - christmas/Christmas 1.JPG
+        - christmas/Christmas 2.JPG
+        - christmas/Christmas 3.JPG
+        - christmas/Christmas 4.JPG
+        - christmas/Christmas 5.JPG
+        - christmas/Christmas 6.JPG
+        - christmas/Christmas 7.JPG
+        - christmas/Christmas 8.JPG
+        - christmas/Christmas 9.JPG
+        - christmas/Christmas 10.JPG
+        - christmas/Christmas 11.JPG
+        - christmas/Christmas 12.JPG
+        - christmas/Christmas 13.JPG
+        - christmas/Christmas 14.JPG
+        - christmas/Christmas 15.JPG
+        - christmas/Christmas 16.JPG
+    - name: Thanksgiving Luncheon
+      cover: thanksgiving/Thanksgiving 1.JPG
+      photos:
+        - thanksgiving/Thanksgiving 1.JPG
+        - thanksgiving/Thanksgiving 2.JPG
+        - thanksgiving/Thanksgiving 3.JPG
+        - thanksgiving/Thanksgiving 4.JPG
+        - thanksgiving/Thanksgiving 5.JPG
     - name: 6th Annual PW Chili Cook-Off
       cover: chili/Chili-Cook 13.jpg
       photos:
@@ -129,101 +236,6 @@ Activities Around the Office:
       cover: training/Chuck Boyce.jpg
     - name: Golf Outing
       cover: golf/Golf Outing.jpg
-    - name: 16th Annual PWC Putt-Putt Classic
-      cover: putt-putt/Golf 20.JPG
-      photos:
-        - putt-putt/Golf 1.JPG
-        - putt-putt/Golf 2.JPG
-        - putt-putt/Golf 3.JPG
-        - putt-putt/Golf 4.JPG
-        - putt-putt/Golf 5.JPG
-        - putt-putt/Golf 6.JPG
-        - putt-putt/Golf 7.JPG
-        - putt-putt/Golf 8.JPG
-        - putt-putt/Golf 9.JPG
-        - putt-putt/Golf 10.JPG
-        - putt-putt/Golf 11.JPG
-        - putt-putt/Golf 12.JPG
-        - putt-putt/Golf 13.JPG
-        - putt-putt/Golf 14.JPG
-        - putt-putt/Golf 15.JPG
-        - putt-putt/Golf 16.JPG
-        - putt-putt/Golf 17.JPG
-        - putt-putt/Golf 18.JPG
-        - putt-putt/Golf 19.JPG
-        - putt-putt/Golf 20.JPG
-        - putt-putt/Golf 21.JPG
-        - putt-putt/Golf 22.JPG
-        - putt-putt/Golf 23.JPG
-        - putt-putt/Golf 24.JPG
-    - name: Tax Season Breaks
-      cover: breaks/Tax Day Lunch 1.jpg
-      photos:
-        - breaks/Tax Break 1.jpg
-        - breaks/Tax Break 2.jpg
-        - breaks/Tax Break 3.jpg
-        - breaks/Tax Break 4.jpg
-        - breaks/Tax Break 5.jpg
-        - breaks/Tax Break 6.jpg
-        - breaks/Tax Breakfast 1.jpg
-        - breaks/Tax Breakfast 2.jpg
-        - breaks/Tax Breakfast 3.jpg
-        - breaks/Tax Breakfast 4.jpg
-        - breaks/Tax Breakfast 5.jpg
-        - breaks/Tax Breakfast 6.jpg
-        - breaks/Tax Breakfast 7.jpg
-        - breaks/Tax Day Lunch 1.jpg
-        - breaks/Tax Day Lunch 2.jpg
-        - breaks/Tax Day Lunch 3.jpg
-        - breaks/Tax Day Lunch 4.jpg
-        - breaks/Tax Day Lunch 5.jpg
-    - name: Quarterly Birthdays
-      cover: birthdays/Quarterly Birthday 1.jpg
-      photos:
-        - birthdays/3Q Lunch 1.jpg
-        - birthdays/3Q Lunch 2.jpg
-        - birthdays/3Q Lunch 3.jpg
-        - birthdays/3Q Lunch 4.jpg
-        - birthdays/Quarterly Birthday 1.jpg
-        - birthdays/Quarterly Birthday 2.jpg
-        - birthdays/Quarterly Birthday 3.jpg
-        - birthdays/Quarterly Birthday 4.jpg
-        - birthdays/Quarterly Birthday 5.jpg
-        - birthdays/Quarterly Birthday 6.jpg
-        - birthdays/Q2 - 1.jpg
-        - birthdays/Q2 - 2.jpg
-        - birthdays/Q2 - 3.jpg
-        - birthdays/Q2 - 4.jpg
-        - birthdays/Q2 - 5.jpg
-        - birthdays/Q2 - 6.jpg
-    - name: Christmas 2014
-      cover: christmas/Christmas 12.jpg
-      photos:
-        - christmas/Christmas 1.jpg
-        - christmas/Christmas 2.jpg
-        - christmas/Christmas 3.jpg
-        - christmas/Christmas 4.jpg
-        - christmas/Christmas 5.jpg
-        - christmas/Christmas 6.jpg
-        - christmas/Christmas 7.jpg
-        - christmas/Christmas 8.jpg
-        - christmas/Christmas 9.jpg
-        - christmas/Christmas 10.jpg
-        - christmas/Christmas 11.jpg
-        - christmas/Christmas 13.jpg
-        - christmas/Christmas 14.jpg
-        - christmas/Christmas 15.jpg
-        - christmas/Christmas 16.jpg
-        - christmas/Christmas 12.jpg
-        - christmas/Christmas 17.jpg
-    - name: Staff Accomplishments
-      cover: accomplishments/cover.jpg
-      photos:
-        - accomplishments/1.jpg
-        - accomplishments/2.jpg
-        - accomplishments/3.jpg
-        - accomplishments/4.jpg
-        - accomplishments/6.jpg
     - name: 20th Year Open House Celebration
       cover: 20_year_open_house/cover.jpg
       photos:
