@@ -18,6 +18,21 @@ Our Office:
 Involvement Around Town:
   cover: philanthropy/cover.jpg
   events:
+    - name: 2016 Literacy Council Spelling Bee
+      cover: bee/Bee 10.JPG
+      photos:
+        - bee/Bee 1.JPG
+        - bee/Bee 2.JPG
+        - bee/Bee 3.JPG
+        - bee/Bee 4.JPG
+        - bee/Bee 5.JPG
+        - bee/Bee 6.JPG
+        - bee/Bee 7.JPG
+        - bee/Bee 8.JPG
+        - bee/Bee 9.JPG
+        - bee/Bee 10.JPG
+        - bee/Bee 11.JPG
+        - bee/Bee 12.JPG
     - name: KTBB Scholastic All-Stars
       cover: involvement/scholastic_1.jpg
       photos:
@@ -62,21 +77,6 @@ Involvement Around Town:
         - philanthropy/Luncheon 11.jpg
     - name: The Mentoring Alliance Annual Luncheon
       cover: mentoring/mentoring alliance.jpg
-    - name: 2016 Literacy Council Spelling Bee
-      cover: bee/Bee 10.JPG
-      photos:
-        - bee/Bee 1.JPG
-        - bee/Bee 2.JPG
-        - bee/Bee 3.JPG
-        - bee/Bee 4.JPG
-        - bee/Bee 5.JPG
-        - bee/Bee 6.JPG
-        - bee/Bee 7.JPG
-        - bee/Bee 8.JPG
-        - bee/Bee 9.JPG
-        - bee/Bee 10.JPG
-        - bee/Bee 11.JPG
-        - bee/Bee 12.JPG
     - name: TYPN Luncheon
       cover: involvement/TYPN Luncheon.jpg
     - name: Tyler Chamber of Commerce<br />Membership Event
