@@ -17,6 +17,8 @@
           %span{style: 'color: #333; text-shadow: 0px 1px 0px #AAA;'} Menu
         .nav-collapse.collapse.links
           %ul.nav
+            %li= link_to 'Home', root_path
+            %li.divider-vertical
             %li= link_to 'About', about_path
             %li.divider-vertical
             %li= link_to 'Services', services_path
@@ -25,7 +27,7 @@
             %li.divider-vertical
             %li= link_to 'News', news_path
             %li.divider-vertical
-            %li= link_to 'Community Spotlight', community_path
+            %li= link_to 'Community', community_path
             %li.divider-vertical
             %li= link_to 'Photos', albums_path
             %li.divider-vertical
