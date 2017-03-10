@@ -26,4 +26,7 @@ class PagesController < ApplicationController
 
   def portal
   end
+
+  def header
+  end
 end

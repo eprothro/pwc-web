@@ -1,14 +1,13 @@
 %header
   .header
-    .brand-container
-      %a{href: root_path}
-        %img{src: image_path("banner.png")}
-    // .brand.inline
-    //   %span Eternal Values
-    //   %span.inifin &infin;
-    //   %span Infinite Potential
-    // .brand-office-fade
-    // .office
+    .brand-container.row-fluid
+      = link_to root_path do
+        .logo.span5
+          = svg 'logo_with_motto'
+        .anniversary.span2
+          = image_tag("25_year_logo_red.png")
+        .office.span5
+          = image_tag("office_crop_747x350.jpg")
 
   .navbar
     .navbar-inner.pull-center

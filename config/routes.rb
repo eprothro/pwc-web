@@ -13,6 +13,7 @@ PWCWeb::Application.routes.draw do
   get 'contact' => 'pages#contact'
   get 'careers' => 'pages#careers'
   get 'portal' => 'pages#portal'
+  get 'header' => 'pages#header'
 
   mount_sextant if Rails.env.development?
 
