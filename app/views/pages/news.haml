@@ -13,8 +13,14 @@
           .span10.offset1
             %ul
               %li.news
+                %span= link_to 'Jacey Barrier', Employee.find_by_name('Jacey Barrier')
+                %span has been promoted to Senior Associate.
+              %li.news
+                %span= link_to 'Lisa Ward', Employee.find_by_name('Lisa Ward')
+                %span has passed all four parts of the CPA exam.
+              %li.news
                 %span= link_to 'Cristy McDowell', Employee.find_by_name('Cristy McDowell')
-                %span was selected to serve on the board of directors for the Canton Chamber of Commerce.
+                %span was selected to serve as Treasurer for the Canton Chamber of Commerce.
               %li.news
                 %span= link_to 'Bob Roseman', Employee.find_by_name('Bob Roseman')
                 %span has been selected to serve on the Board of Directors for the Better Business Bureau.
