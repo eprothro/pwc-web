@@ -1,12 +1,21 @@
 %header
   .header
     .brand-container.row-fluid
-      .logo.span5
-        = svg 'logo_with_motto'
-      .anniversary.span2
-        = svg '25_year_logo_grey'
-      .office.span5
-        = image_tag("office_crop_747x350.jpg")
+      .hidden-desktop
+        .mobile
+          .logo
+            = svg 'logo_with_motto'
+          .anniversary
+            = svg '25_year_logo_grey'
+      .visible-desktop
+        .logo.span5
+          = svg 'logo_with_motto'
+        .anniversary.span2
+          = svg '25_year_logo_grey'
+        .office.span5
+          .office-container
+            = image_tag("office_crop_747x350.jpg")
+            .blur
 
   .navbar
     .navbar-inner.pull-center

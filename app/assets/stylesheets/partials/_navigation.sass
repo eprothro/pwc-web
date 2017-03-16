@@ -1,11 +1,27 @@
 .header
   // .brand-container
   text-align: center
-  background-color: #685C4E
+  // background-color: #685C4E
+  background-color: #9a8b7a
 .header
+  .mobile
+    .logo
+      float: left
+      width: 60%
+      padding: 18px 0px
+      margin-right: 2.5%
+      margin-left: 20%
+
+      svg
+        float: none
+    .anniversary
+      float: left
+      width: 15%
+      svg
+        height: auto
   .logo
     text-align: center
-    padding: 27px 0px 27px 80px
+    padding: 45px 0px 0px 80px
     svg
       float: right
       display: inline
@@ -28,11 +44,27 @@
         opacity: 1 !important
 
   .office
-    text-align: center
-    img
+    .office-container
       float: left
-      width: 100%
-      max-width: 374px
+      position: relative
+
+      img
+        width: 100%
+        max-width: 374px
+      .blur
+        position: absolute
+        z-index: 2
+        top: 0px
+        left: 0px
+        height: 100%
+        width: 20%
+        background: none
+        // background: linear-gradient(to left, rgba(104,92,78,0), rgba(104,92,78,1))
+        background: linear-gradient(to left, rgba(154,139,122,0), rgba(154,139,122,1))
+
+        @media only screen and (max-width : 767px)
+          background: none
+
 
 .navbar
   margin-bottom: 0px
