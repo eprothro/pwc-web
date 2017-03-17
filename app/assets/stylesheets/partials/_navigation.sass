@@ -49,16 +49,29 @@
       img
         width: 100%
         max-width: 350px
-      .blur
+      .left-blur
         position: absolute
         z-index: 2
         top: 0px
         left: 0px
         height: 100%
-        width: 20%
+        width: 10%
         background: none
         // background: linear-gradient(to left, rgba(104,92,78,0), rgba(104,92,78,1))
-        background: linear-gradient(to left, rgba(154,139,122,0), rgba(154,139,122,1))
+        // background: linear-gradient(to left, rgba(154,139,122,0), rgba(154,139,122,1))
+
+        @media only screen and (max-width : 767px)
+          background: none
+      .right-blur
+        position: absolute
+        z-index: 2
+        top: 0px
+        right: 0px
+        height: 100%
+        width: 10%
+        background: none
+        // background: linear-gradient(to right, rgba(104,92,78,0), rgba(104,92,78,1))
+        // background: linear-gradient(to right, rgba(154,139,122,0), rgba(154,139,122,1))
 
         @media only screen and (max-width : 767px)
           background: none
