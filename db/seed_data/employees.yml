@@ -88,13 +88,6 @@
   started_on: 1-9-2010
   image_url: employees/jacob.jpg
 
-- name: Kathy Acosta
-  email: kacosta@pw-tx.com
-  extension: 122
-  bio: "<p>Kathy joined the firm in July 2012 and serves as the Receptionist/Administrative Assistant. Her education includes attendance at Dallas Baptist University on an athletic scholarship where she majored in business and psychology, an Associate of Arts Degree from Eastern New Mexico University, and Continuing Education Certifications for Early Childhood/Special Needs Learning.</p><p>After living in many areas of the United States, Australia, and Puerto Rico, Kathy felt called to east Texas to be near her family. She has two daughters, one son, and four grandchildren who live in New Mexico. Kathy’s interests include fishing, skiing, traveling, and art.  Kathy attends Green Acres Baptist Church.</p>"
-  started_on: 1-7-2012
-  image_url: employees/kathy.jpg
-
 - name: Nikki Smith
   email: nsmith@pw-tx.com
   extension: 123
