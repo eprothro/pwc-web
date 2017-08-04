@@ -1,9 +1,16 @@
 .row-fluid#home
   .span4
     .panel.clearfix
-      .row-fluid.text-center
-        %p
-          Since 1992, Prothro, Wilhelmi & Co. has been committed to providing clients with quality services that continue to adapt to meet individual and business needs. We believe that by possessing ethical and "eternal values", a business has "infinite potential" to succeed.
+      .row-fluid
+        .span12
+          %h4.text-center We are hiring!
+          %p
+            PW is excited to announce career position openings. See the
+            = link_to('careers page', careers_path)
+            for more information about the following positions:
+          %ul
+            %li= link_to('Senior Associate - Audit', careers_path(anchor: 'Senior-Associate-Audit'))
+            %li= link_to('Associate', careers_path(anchor: 'Associate'))
 
     .panel.clearfix
       .row-fluid
