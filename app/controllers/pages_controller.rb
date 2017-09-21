@@ -1,5 +1,6 @@
 class PagesController < ApplicationController
   # caches_action :home unless Rails.env.development?
+  layout false, only: :email_signature
 
   def home
     dir = if Rails.env.production?
@@ -28,5 +29,8 @@ class PagesController < ApplicationController
   end
 
   def header
+  end
+
+  def email_signature
   end
 end

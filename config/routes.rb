@@ -14,6 +14,7 @@ PWCWeb::Application.routes.draw do
   get 'careers' => 'pages#careers'
   get 'portal' => 'pages#portal'
   get 'header' => 'pages#header'
+  get 'sig' => 'pages#email_signature'
 
   mount_sextant if Rails.env.development?
 
