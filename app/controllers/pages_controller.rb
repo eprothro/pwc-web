@@ -36,7 +36,7 @@ class PagesController < ApplicationController
 
   def download_email_signature
     response.headers['Content-Type'] = 'text/html'
-    response.headers['Content-Disposition'] = "attachment; filename=PW_email_signature_v1alpha1.html"
+    response.headers['Content-Disposition'] = "attachment; filename=PW_email_signature_v1alpha1.htm"
     render 'email_signature', layout: false
   end
 end
