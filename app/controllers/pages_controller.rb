@@ -1,6 +1,5 @@
 class PagesController < ApplicationController
   # caches_action :home unless Rails.env.development?
-  layout false, only: :email_signature
 
   def home
     dir = if Rails.env.production?
@@ -32,5 +31,12 @@ class PagesController < ApplicationController
   end
 
   def email_signature
+    render layout: "html_tag"
+  end
+
+  def download_email_signature
+    response.headers['Content-Type'] = 'text/html'
+    response.headers['Content-Disposition'] = "attachment; filename=PW_email_signature_v1alpha1.html"
+    render 'email_signature', layout: false
   end
 end
