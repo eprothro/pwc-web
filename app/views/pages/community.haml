@@ -7,7 +7,9 @@
         %p.text-center
           - event = Event.find_by_slug('east-texas-crisis-center-br-auto-cycle-show')
           = link_to event_path(event), title: 'See more photos from the Cycle Show' do
-            - image_tag event.cover_asset, class: 'img-polaroid'
+            - image_tag 'car_show/1.jpg', class: 'img-polaroid'
+          = link_to event_path(event), title: 'See more photos from the Cycle Show' do
+            - image_tag 'car_show/2.jpg', class: 'img-polaroid'
       .span7
         %p
           Prothro, Wilhelmi & Co. was honored to volunteer at this year’s 2018 East Texas Auto and Cycle Show held February 16th-18th benefitting the East Texas Crisis Center in Tyler, Texas.  Each year this show features a wide range of classic, antique and specialty cars, trucks and motorcycles of every decade.

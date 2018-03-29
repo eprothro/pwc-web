@@ -51,11 +51,13 @@ Involvement Around Town:
     - name: "Christian Homes & Family Services<br />Call Her Blessed Luncheon"
       cover: involvement/blessed-luncheon.jpg
     - name: East Texas Crisis Center<br />Auto & Cycle Show
-      cover: car_show/3.jpg
+      cover: car_show/1.jpg
       photos:
         - car_show/1.jpg
         - car_show/2.jpg
         - car_show/3.jpg
+        - car_show/4.jpg
+        - car_show/5.jpg
     - name: National Philanthropy Day Award Luncheon
       cover: philanthropy/Luncheon 1.jpg
       photos:
