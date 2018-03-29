@@ -1,27 +1,23 @@
 .row-fluid
   .span10.offset1
     %h2 PW Community Spotlight
-    %h3.community-title  Literacy Council of Tyler Corporate Spelling Bee
+    %h3.community-title East Texas Crisis Center Auto & Cycle Show
     .row-fluid
       .span5
         %p.text-center
-          - event = Event.find_by_slug('2016-literacy-council-spelling-bee')
-          = link_to event_path(event), title: 'See more photos from the Spelling Bee' do
-            - image_tag 'bee/2017.jpg', class: 'img-polaroid'
+          - event = Event.find_by_slug('east-texas-crisis-center-br-auto-cycle-show')
+          = link_to event_path(event), title: 'See more photos from the Cycle Show' do
+            - image_tag event.cover_asset, class: 'img-polaroid'
       .span7
         %p
-          Every August, Literacy Council of Tyler (LCOT) rounds up 15 or more corporate teams to participate in their annual Spelling Bee.  With an audience of over 400, business owners and their employees try to spell everything from "banish" to "verminous," all for bragging rights and the coveted traveling trophy.
+          Prothro, Wilhelmi & Co. was honored to volunteer at this year’s 2018 East Texas Auto and Cycle Show held February 16th-18th benefitting the East Texas Crisis Center in Tyler, Texas.  Each year this show features a wide range of classic, antique and specialty cars, trucks and motorcycles of every decade.
         %p
-          Some past winners include Tyler Junior College, Brookshire's, Trane, and Tyler Morning Telegraph.  Teams also compete for the spirit stick and the costume award.  Outlandish costumes and raucous participation put the "fun" back in fundraising.
+          From humble beginnings in 1991 the first show and car raffle raised $20,000 and this year the show and car raffle generated approximately $228,000.  Tyler Ford has donated a raffle car for the past fifteen years and this year’s 1964 ½  Mustang Convertible, generated $133,830 from $10 raffle ticket sales.  This revenue helps support emergency shelter and crisis intervention services for victims of family violence and sexual assault.
         %p
-          The 2018 Spelling Bee is already scheduled for August 7th at Green Acres Baptist CrossWalk.  All proceeds go to support the programs of LCOT, an organization committed to providing free basic reading, GED, and English as a second language classes to adults.   As a result of its work, LCOT routinely sees graduates of its program go on to postsecondary training and job promotion while simultaneously stabilizing their personal and family lives.
-        %p
-          Prothro, Wilhelmi & Company has been a proud participant in the Corporate Spelling Bee for the past 9 years.  Our high energy and enthusiasm has awarded us the Spirit Stick 5 years in a row as well as receiving the Costume Award one other year!
-        %p
-          Learn more about the
-          = link_to 'Literacy Council of Tyler ', 'http://lcotyler.org', target: '_blank'
-          or the
-          = link_to('Annual Spelling Bee', 'http://www.lcotyler.org/pages/news-and-events/corporate-spelling-bee', target: '_blank') + '!'
+          PW is proud to support the important work of the
+          = link_to 'East Texas Crisis Center', 'http://etcc.org/', target: '_blank'
+          and Volunteer at their
+          = link_to('Annual Auto and Cycle Show', 'http://autoandcycleshow.com/', target: '_blank') + '!'
 
 
- 
+
