@@ -161,7 +161,7 @@
 - name: Taylor Wilson
   email: twilson@pw-tx.com
   extension: 126
-  bio: "<p>Taylor joined the firm in January 2018 and serves as the firm’s Tax Processor and Office Coordinator. She graduated from University of Texas at Tyler with her Bachelors of Business Administration in Accounting in May 2017. She brings four years of experience working in the fields of banking, office administration, and accounting.</p><p>Taylor grew up in the small East Texas town of Van, where she graduate from Van High School in 2011. As a former collegiate softball player, Taylor still enjoys playing softball, along with golf, and outdoor activities, such as hunting, fishing and riding. She loves spending time with her family, friends and thanking God for the countless blessings. Psalm 28:7</p>"
+  bio: "<p>Taylor joined the firm in January 2018 and serves as the firm’s Tax Processor and Office Coordinator. She graduated from University of Texas at Tyler with her Bachelors of Business Administration in Accounting in May 2017. She brings four years of experience working in the fields of banking, office administration, and accounting.</p><p>Taylor grew up in the small East Texas town of Van, where she graduated from Van High School in 2011. As a former collegiate softball player, Taylor still enjoys playing softball, along with golf, and outdoor activities, such as hunting, fishing and riding. She loves spending time with her family, friends and thanking God for the countless blessings. Psalm 28:7</p>"
   started_on: 15-1-2018
   suffix:
   image_url: employees/taylor.jpg
@@ -173,6 +173,22 @@
   started_on: 15-2-2018
   suffix:
   image_url: employees/chance.jpg
+
+- name: Justin Schaefer
+  email: mailto:jschaefer@pw-tx.com
+  extension: 135
+  bio: "<p>Justin joined the firm in September of 2017. He began his career at a local accounting firm in 2012, where he gained experience and knowledge in the practice areas of tax preparation, audits of financial statements, performance of Single Audits for local governments and non-profit organizations, and forensic accounting. He has served as Treasurer and Campaign Manager for local political campaigns and has experience in the area of Campaign Finance. His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Justin enjoys spending time with his family and friends. He also enjoys creating and recording music, hunting, sports, and playing guitar. Justin is an active member of his church where he serves in various ministries, including being a member of the church music team.</p>"
+  started_on: 15-9-2017
+  suffix:
+  image_url: employees/justin.jpg
+
+- name: Ben Nafe
+  email: bnafe@pw-tx.com
+  extension: 130
+  bio: "<p>Ben joined the firm in September 2017. He is a graduate of Tabor College and is currently pursuing his CPA certification. His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Ben grew up in Alabama on a small horse farm. After receiving a football scholarship, he relocated to Hillsboro, Kansas to attend Tabor College focusing his studies on Accounting and Finance. After graduating, he worked as the assistant director of Financial Aid for Tabor College.</p><p>Ben, along with his wife Laurie, moved to Tyler in July of 2017. They are active members of South Spring Baptist Church. They enjoy biking, hiking, board games, and other competitive hobbies. Ben and Laurie are also sports enthusiasts. You might catch a glimpse of them on the jumbotron at a Cowboys or Astros game cheering on their favorite teams. </p>"
+  started_on: 15-9-2017
+  suffix:
+  image_url: employees/ben.jpg
 
 # - name:
 #   email:
