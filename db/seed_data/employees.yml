@@ -50,13 +50,6 @@
   image_url: employees/brenda.jpg
   suffix: CPA
 
-- name: Jackie Arnold
-  email: jarnold@pw-tx.com
-  extension: 110
-  bio: "<p>Jackie joined the firm in 2005 as the Office Coordinator.  She brings with her over 30 years of banking, finance, bookkeeping and customer service.  Her background and experience with office management are an asset and evident in the rapport she instantly develops with our clients and staff.</p><p>Jackie grew up in Garland, Texas and relocated to Tyler in 2005.  She is married with two children, Kimberly and Brandon and with 2 grandchildren, Hunter and Holly.  She enjoys spending her free time with her family, being outdoors, camping, traveling and working around the home and watching NASCAR (Go Earnhardt Jr.).</p>"
-  started_on: 15-6-2005
-  image_url: employees/jackie.jpg
-
 - name: Daredeth Korkmas
   email: dkorkmas@pw-tx.com
   extension: 131
