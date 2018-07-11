@@ -135,14 +135,6 @@
   suffix: CPA
   image_url: employees/josh.jpg
 
-- name: Stephanie Hudson
-  email: shudson@pw-tx.com
-  extension: 132
-  bio: "<p>Stephanie joined the firm in July 2017 and is a member of the Accounting and Reporting Services team. Her work experience includes over 5 years of bookkeeping, preparation of financial statements, payroll tax returns, sales tax returns and property renditions.</p><p>Stephanie was born and raised in East Texas and has two children, Holden and Jeri-Lynn. She is a member of Cross Brand Cowboy Church in Tyler where she serves as Children’s Ministry Leader and is an active member of the Audit team.</p><p>In Stephanie’s spare time she enjoys being outdoors and spending time with friends and family.</p>"
-  started_on: 15-7-2017
-  suffix:
-  image_url: employees/stephanie.jpg
-
 - name: Kasey Finley
   email: kfinley@pw-tx.com
   extension: 128
