@@ -12,7 +12,7 @@ Web home for Prothro Wilhelmi and Company
 
 ### batch
 #### staff images (300 x 375)
-`mogrify -quality 90 -resize 300x375^ -crop 300x375 *.jpg`
+`mogrify -quality 90 -resize 300X375^ -crop 300X375 app/assets/images/employees/jade.jpg`
 
 #### gallery images
 force width

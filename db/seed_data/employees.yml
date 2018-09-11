@@ -199,6 +199,22 @@
   suffix:
   image_url: employees/john.jpg
 
+- name: Marsha Ballard
+  email: mballard@pw-tx.com
+  extension: 127
+  bio: "<p>Marsha joined the firm in July of 2018 as the Human Resources Manager.  She graduated from LeTourneau University with a Bachelor’s degree in Business Administration. Marsha brings more than 30 years’ experience in the field of Human Resources. </p><p>Marsha is a native East Texan, born in Tyler. She and her husband, Stephen, have four children and 6 grandchildren. They love worshipping at Green Acres Baptist Church where Stephen is a SMBS teacher where they enjoy participating in ministries within their class and the church. Marsha enjoys sewing, cooking, entertaining and spending time with friends and family. </p><p>Marsha is very thankful for the opportunities God has provided to share her faith in her Lord and Savior Jesus Christ. God is good. </p><p>James 1:2-7</p>"
+  started_on: 15-7-2018
+  suffix:
+  image_url: employees/marsha.jpg
+
+- name: Jade Burks
+  email:  jburks@pw-tx.com
+  extension: 116
+  bio: "<p>Jade Burks joined the firm in August 2018 after moving to Tyler with her family. She graduated from Texas A&M University with a Bachelor of Business Administration in Accounting and a Master of Science in Finance in 2015. While at TAMU, she was involved in Christian Business Leaders and served on staff as the Special Events Committee Chair.</p><p>Jade is a licensed CPA. Her previous work experience includes integrated audits for public companies specializing in financial companies, internal audit for both public and private companies, SOX implementation for IPO, and IT Audit for public and private clients. She has experience in a wide-range of industries including financial, real estate, airline, and health. She previously worked for EY in the Risk Advisory/ Internal Audit practice in the Dallas office. Her current areas of practice include audits of financial statements for local governments, not-for-profit organizations, employee benefit plans, and audits of service organization controls (SOC).</p><p>Jade enjoys spending time with her family, traveling, reading, and gardening! She is also passionate about health and fitness and enjoys strength training, running, biking, and watersports. </p>"
+  started_on: 15-8-2018
+  suffix: CPA
+  image_url: employees/jade.jpg
+
 # - name:
 #   email:
 #   extension:
