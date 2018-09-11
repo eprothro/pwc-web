@@ -135,14 +135,6 @@
   suffix: CPA
   image_url: employees/josh.jpg
 
-- name: Kasey Finley
-  email: kfinley@pw-tx.com
-  extension: 128
-  bio: "<p>Kasey joined the firm in August 2017. She graduated from Texas A&M University’s Professional Program of Accounting with her Bachelors of Business Administration and Masters of Science in Accounting in May 2017 (Gig ‘em Ags!).  In August 2017 she passed the Uniform CPA examination and will be certified as a CPA in May 2018. Her areas of practice include audits of financial statements, audits for local governments and not-for-profit organizations. In addition, she provides tax planning and preparation services for individuals, partnerships, corporations, and not-for-profit organizations.</p><p>Kasey grew up in Rusk, Texas and graduated from Rusk High School in 2012. She is currently involved with Young Life in Tyler and is a member of Grace Community Church – UB.</p><p>Her favorite bible verse is Galatians 2:20; 'I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me.'</p>"
-  started_on: 15-8-2017
-  suffix: CPA
-  image_url: employees/kasey.jpg
-
 - name: Taylor Wilson
   email: twilson@pw-tx.com
   extension: 126
