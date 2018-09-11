@@ -8,6 +8,11 @@ Web home for Prothro Wilhelmi and Company
 * Place images in appropriate locations in app/images
 * run `rake db:reset`
 
+## Deployment
+
+* `bin/stage`
+* `bin/release`
+
 ## Image Editing
 
 ### batch
