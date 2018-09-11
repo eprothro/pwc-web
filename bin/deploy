@@ -1,1 +1,0 @@
-git push $1 master && heroku run rake db:reset cache:clear -r $1
