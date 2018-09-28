@@ -24,12 +24,14 @@ force width
 `mogrify -quality 90 -resize 500 *.jpg`
 force height
 `mogrify -quality 90 -resize x333 *.jpg`
-force size (crop center)
+force horizontal (crop center)
 `mogrify -quality 90 -resize 500x333^ -gravity Center -crop 500x333+0+0 *.jpg`
-force size (crop bottom out)
+force horizontal (crop bottom out)
 `mogrify -quality 90 -resize 500x333^ -crop 500x333+0+0 *.jpg`
-force size (crop top out)
+force horizontal (crop top out)
 `mogrify -quality 90 -resize 500x333^ -gravity North -crop 500x333+0+0 *.jpg`
+
+#### covers
 
 
 ### single

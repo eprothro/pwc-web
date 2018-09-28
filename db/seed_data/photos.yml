@@ -16,23 +16,22 @@ Our Office:
         - office/snow.jpg
 
 Involvement Around Town:
-  cover: philanthropy/cover.jpg
+  cover: bee/cover.jpg
   events:
-    - name: 2016 Literacy Council Spelling Bee
-      cover: bee/Bee 10.JPG
+    - name: 2018 Literacy Council Spelling Bee
+      cover: bee/cover.jpg
       photos:
-        - bee/Bee 1.JPG
-        - bee/Bee 2.JPG
-        - bee/Bee 3.JPG
-        - bee/Bee 4.JPG
-        - bee/Bee 5.JPG
-        - bee/Bee 6.JPG
-        - bee/Bee 7.JPG
-        - bee/Bee 8.JPG
-        - bee/Bee 9.JPG
-        - bee/Bee 10.JPG
-        - bee/Bee 11.JPG
-        - bee/Bee 12.JPG
+        - bee/1.jpg
+        - bee/2.jpg
+        - bee/3.jpg
+        - bee/4.jpg
+        - bee/5.jpg
+        - bee/6.jpg
+        - bee/7.jpg
+        - bee/8.jpg
+        - bee/9.jpg
+        - bee/10.jpg
+        - bee/11.jpg
     - name: KTBB Scholastic All-Stars
       cover: involvement/scholastic_1.jpg
       photos:
