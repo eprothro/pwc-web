@@ -4,7 +4,9 @@
     %p.text-center
       - event = Event.find_by_slug('2018-literacy-council-spelling-bee')
       = link_to event_path(event), title: 'See more photos from the Spelling Bee' do
-        - image_tag 'bee/8.jpg', class: 'img-polaroid'
+        - image_tag 'bee/community_1.jpg', class: 'img-polaroid'
+      = link_to event_path(event), title: 'See more photos from the Spelling Bee' do
+        - image_tag 'bee/community_2.jpg', class: 'img-polaroid'
   .span7
     %p
       On August 7, Literacy Council of Tyler (LCOT) hosted their 27th Annual Corporate Spelling Bee. Eleven teams from local businesses competed in a fun-filled energetic spelling competition. This year’s theme was Big Bee Small Screen: Your favorite television shows.
