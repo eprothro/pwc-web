@@ -127,14 +127,6 @@
   suffix: CPA
   image_url: employees/josh.jpg
 
-- name: Taylor Wilson
-  email: twilson@pw-tx.com
-  extension: 126
-  bio: "<p>Taylor joined the firm in January 2018 and serves as the firm’s Tax Processor and Office Coordinator. She graduated from University of Texas at Tyler with her Bachelors of Business Administration in Accounting in May 2017. She brings four years of experience working in the fields of banking, office administration, and accounting.</p><p>Taylor grew up in the small East Texas town of Van, where she graduated from Van High School in 2011. As a former collegiate softball player, Taylor still enjoys playing softball, along with golf, and outdoor activities, such as hunting, fishing and riding. She loves spending time with her family, friends and thanking God for the countless blessings. Psalm 28:7</p>"
-  started_on: 15-1-2018
-  suffix:
-  image_url: employees/taylor.jpg
-
 - name: Chance Chapman
   email: cchapman@pw-tx.com
   extension: 157
@@ -166,14 +158,6 @@
   started_on: 15-11-2017
   suffix:
   image_url: employees/stephanie_g.jpg
-
-- name: Andrew Midkiff
-  email: amidkiff@pw-tx.com
-  extension: 156
-  bio: "<p>Andrew joined the firm in February of 2018.  He graduated from East Texas Baptist University in 2016 with a Bachelors of Business Administration in Accounting.  He began his career working for a small CPA firm in Marshall.  He recently moved to Tyler to pursue his Masters of Accountancy at the University of Texas At Tyler and his CPA certification.  His areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Andrew grew up in Marshall, Texas and graduated from Marshall High School.  He is an avid tennis player, having played at the collegiate level at ETBU.  In his spare time he enjoys playing guitar, camping, and being with friends and family.</p><p>His favorite Bible verses are Proverbs 3:5-6 – 'Trust in the Lord with all your heart, and lean not on your own understanding. In all your ways acknowledge Him, and He will keep your path straight.'</p>"
-  started_on: 15-2-2018
-  suffix:
-  image_url: employees/andrew.jpg
 
 - name: John Mitchell
   email: jmitchell@pw-tx.com
