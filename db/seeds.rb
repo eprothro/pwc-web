@@ -18,17 +18,16 @@ YAML.load_file('db/seed_data/services.yml').each do |group, services|
       service = Service.find_by_name(service_data['name']) || Service.new
       service.name = service_data['name']
       service.service_group = group
-      service.description = service_data['description']
+      # service.description = service_data['description']
+      # service.contacts.clear
 
-      service.contacts.clear
-
-      if service_data['contacts'].present?
-        service_data['contacts'].each do |contact|
-          employee = Employee.find_by_name(contact)
-          raise "Employee not found: #{contact}" unless employee.present?
-          service.contacts << employee
-        end
-      end
+      # if service_data['contacts'].present?
+      #   service_data['contacts'].each do |contact|
+      #     employee = Employee.find_by_name(contact)
+      #     raise "Employee not found: #{contact}" unless employee.present?
+      #     service.contacts << employee
+      #   end
+      # end
       service.save!
     end
   end

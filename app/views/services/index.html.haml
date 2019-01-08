@@ -13,14 +13,7 @@
           %div{style: 'line-height: 24px; margin-top: 0px'}
             -if @service.present?
               %h4= @service.name
-              %p= @service.description.html_safe
-              - if @service.contacts.present?
-                %strong
-                  ="For more information contact "
-                  - @service.contacts.each_with_index do |contact, i|
-                    - if i > 0
-                      = "or "
-                    = link_to contact.name, contact
+              = render "services/#{@service.service_group.name.parameterize('_')}/#{@service.name.parameterize('_')}"
             -else
               %p.well
                 Prothro, Wilhelmi & Co provides many client services; select a service to learn more.

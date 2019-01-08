@@ -6,7 +6,7 @@ class Service < ActiveRecord::Base
 
   before_destroy { contacts.clear }
 
-  validates_presence_of :name, :description, :service_group
+  validates_presence_of :name, :service_group
   validates_uniqueness_of :slug
 
   before_validation :set_slug
