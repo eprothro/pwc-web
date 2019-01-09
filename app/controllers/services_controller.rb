@@ -8,6 +8,5 @@ class ServicesController < ApplicationController
   def show
     @service_groups = ServiceGroup.all
     @service = Service.find_by_slug(params[:id])
-    render :index
   end
 end
