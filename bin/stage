@@ -1,1 +1,1 @@
-git push staging `git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'`:master && heroku pg:reset --confirm pwc-staging -r staging && heroku run rake db:schema:load db:seed -r staging
+git push staging `git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'`:master -f && heroku pg:reset --confirm pwc-staging -r staging && heroku run rake db:schema:load db:seed -r staging
