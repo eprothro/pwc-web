@@ -1,9 +1,13 @@
 .row-fluid#services
-  .span10.offset1
+  .offset1
     %h2 PW Services
-    .tabbable.tabs-left.index-only
-      %ul.nav.nav-tabs
-        - @service_groups.each do |group|
-          %li.nav-header= group.name
-          - group.services.each do |service|
-            %li{class: ('active' if service == @service)}= link_to(service.name, service)
+  .span10.offset1
+    - @service_groups.each_slice(2) do |groups|
+      .row-fluid
+        - groups.each do |group|
+          .span6
+            %h4
+              = group.name
+            %ul
+              - group.services.each do |service|
+                %li= link_to(service.name, service)
