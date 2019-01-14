@@ -1,8 +1,9 @@
+- role ||= @role || employee.subtitle
 .avatar
   = link_to employee do
     .image
       = image_tag(employee.image_url)
-      .name{class: ('subtitle' if employee.subtitle.present?)}
+      .name{class: ('subtitle' if role.present?)}
         .title= employee.image_title
-        - if employee.subtitle.present?
-          .subtitle= employee.subtitle
+        - if role.present?
+          .subtitle= role

@@ -1,14 +1,10 @@
 .row-fluid#services
-  .span10.offset1
-    %h2 PW Services
-    .tabbable.tabs-left
-      %ul.nav.nav-tabs.hidden-phone
-        - @service_groups.each do |group|
-          %li.nav-header= group.name
-          - group.services.each do |service|
-            %li{class: ('active' if service == @service)}= link_to(service.name, service)
-      .tab-content{style: "min-width: 200px"}
-        .row-fluid
-          %div{style: 'line-height: 24px; margin-top: 0px'}
-            %h4= @service.name
-            = render "services/#{@service.service_group.name.parameterize('_')}/#{@service.name.parameterize('_')}"
+  %ul.breadcrumb{style: "font-size: 14px"}
+    %li
+      = link_to "PW Services", services_path
+      %span.divider /
+    %li.active
+      %strong= @service.service_group.name
+  .span11
+    %h4= @service.name
+    = render "services/#{@service.service_group.name.parameterize('_')}/#{@service.name.parameterize('_')}"

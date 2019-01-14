@@ -6,8 +6,12 @@ module ApplicationHelper
   end
 
   def bio_link(first_and_last, *args)
-    employee = Employee.find_by_name(first_and_last)
+    employee(first_and_last)
     link_to first_and_last, employee, *args
+  end
+
+  def employee(first_and_last)
+    Employee.find_by_name(first_and_last)
   end
 
   def svg(name)
