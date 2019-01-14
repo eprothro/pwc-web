@@ -1,13 +1,14 @@
 .row-fluid#services
   .offset1
     %h2 PW Services
-  .span10.offset1
-    - @service_groups.each_slice(2) do |groups|
-      .row-fluid
-        - groups.each do |group|
-          .span6
-            %h4
-              = group.name
-            %ul
-              - group.services.each do |service|
-                %li= link_to(service.name, service)
+  .row-fluid
+    .span10.offset1
+      - @service_groups.each_slice(2) do |groups|
+        .row-fluid
+          - groups.each do |group|
+            .span6
+              %h4
+                = group.name
+              %ul
+                - group.services.each do |service|
+                  %li= link_to(service.name, service)
