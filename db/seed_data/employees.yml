@@ -103,14 +103,6 @@
   suffix:
   image_url: employees/april.jpg
 
-- name: Brian Fleer
-  email: bfleer@pw-tx.com
-  extension: 1950
-  bio: "<p>Brian joined the firm in August 2016 as a Staff Accountant. He graduated from Stephen F. Austin State University (Go JACKS!!) with his Bachelors of Business Administration in December 2014 and his Masters of Professional Accountancy in May 2016. Brian’s areas of practice include internal audits, financial statement audits, and tax preparation.</p><p>Brian grew up in Lufkin, Texas and graduated from Lufkin High School in 2009 where he was a member of the Varsity tennis team. In December 2015, Brian married his wife, Rebecca, and moved to Tyler in July 2016.</p><p>Brian enjoys spending time with his family, mountain biking, and exploring the great outdoors with his wife, Rebecca, and German shepherd, Kylo.</p>"
-  started_on: 15-8-2014
-  suffix:
-  image_url: employees/brian.jpg
-
 - name: Kindle Chapman
   email: kchapman@pw-tx.com
   extension: 121

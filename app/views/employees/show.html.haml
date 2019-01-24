@@ -5,10 +5,11 @@
       %span.divider /
     %li.active
       %strong= @employee.name
-  .row-fluid
-    .span3.text-center{style: "margin-bottom: 25px"}
-      %img{src: asset_path(@employee.image_url), style: "margin-bottom: 15px"}
-      %em
-        %p= mail_to @employee.email, "Email #{@employee.first_name}"
-    .span8
-      = @employee.bio.try :html_safe
+  .span12
+    .row-fluid
+      .span3.text-center{style: "margin-bottom: 25px"}
+        %img{src: asset_path(@employee.image_url), style: "margin-bottom: 15px"}
+        %em
+          %p= mail_to @employee.email, "Email #{@employee.first_name}"
+      .span8
+        = @employee.bio.try :html_safe

@@ -3,7 +3,10 @@
     %h2 PW Services
   .row-fluid
     .span10.offset1
-      - @service_groups.each_slice(2) do |groups|
+      - left_len = (@service_groups.length / 2.0).ceil
+      - split = @service_groups.each_slice(left_len).to_a
+      - row_pairs = split.first.zip(split.last)
+      - row_pairs.each do |groups|
         .row-fluid
           - groups.each do |group|
             .span6

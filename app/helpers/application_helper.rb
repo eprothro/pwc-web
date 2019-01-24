@@ -6,7 +6,7 @@ module ApplicationHelper
   end
 
   def bio_link(first_and_last, *args)
-    employee(first_and_last)
+    employee = employee(first_and_last)
     link_to first_and_last, employee, *args
   end
 

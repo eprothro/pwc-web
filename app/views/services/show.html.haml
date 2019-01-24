@@ -5,6 +5,17 @@
       %span.divider /
     %li.active
       %strong= @service.service_group.name
-  .span11
+  .span12
     %h4= @service.name
-    = render "services/#{@service.service_group.name.parameterize('_')}/#{@service.name.parameterize('_')}"
+    .row-fluid
+      .span7.content
+        = render "services/#{@service.service_group.name.parameterize('_')}/#{@service.name.parameterize('_')}"
+      .span5
+        %p.text-center
+          %strong For more information, please contact:
+          - # rendering contacts like this is a spike to see if this
+          - # works for PWC - can move into controller or model if we like it.
+          - # not great, but better than WET in views
+          - Array(@contacts).each do |name, role|
+            = render 'employees/avatar', employee: employee(name), role: role
+
