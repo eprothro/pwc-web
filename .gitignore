@@ -31,6 +31,8 @@ coverage
 
 # Other
 .rbenv-version
+.ruby-version
 .env
 .rspec
 /working
+/import/*

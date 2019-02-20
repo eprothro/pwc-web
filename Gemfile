@@ -3,13 +3,13 @@ HOST_OS = RbConfig::CONFIG['host_os']
 
 source 'https://rubygems.org'
 
-ruby '~> 2.3.0'
+ruby '~> 2.3.4'
 gem 'rails',                    '~> 3.2'
 
 # web server
 gem 'puma',                     '~> 2.14.0'
 
-gem 'asset_sync',               '~> 0.5.3'
+# gem 'asset_sync',               '~> 0.5.3'
 gem 'aws-sdk',                  '~> 1.7.1'
 gem 'bluecloth',                '~> 2.2.0'
 gem 'cache_digests',            '~> 0.2.0'
@@ -25,7 +25,7 @@ gem 'jquery-fileupload-rails',  '~> 0.4.0'
 gem 'jquery-rails',             '~> 2.1.2'
 gem 'memcachier',               '~> 0.0.2'
 gem 'newrelic_rpm',             '~> 3.5.7.59'
-gem 'paperclip',                '~> 3.3.1'
+# gem 'paperclip',                '~> 3.3.1'
 gem 'pg',                       '~> 0.18.4'
 gem 'pg_search',                '~> 0.5.7'
 gem 'progressbar',              '~> 0.11.0'
@@ -40,7 +40,7 @@ gem 'sinatra',                  '~> 1.3.0', require: nil
 gem 'sidekiq',                  '~> 2.7.3'
 gem 'sidekiq-failures',         '~> 0.1.0'
 gem 'slim',                     '~> 1.3.6'
-gem 'squeel',                   '~> 1.0.15'
+# gem 'squeel',                   '~> 1.0.15'
 gem 'will_paginate',            '~> 3.0.3'
 gem 'httparty',                 '~> 0.10'
 
@@ -60,7 +60,7 @@ end
 
 group :development do
   gem 'better_errors'
-  gem 'mailcatcher',            '~> 0.5.10'
+  # gem 'mailcatcher',            '~> 0.5.10'
   gem 'quiet_assets'
   gem 'sextant'
   gem 'sqlite3'
@@ -69,8 +69,8 @@ end
 
 group :development, :test do
   gem 'awesome_print'
-  gem 'capybara-webkit'
-  gem 'capybara-screenshot'
+  # gem 'capybara-webkit'
+  # gem 'capybara-screenshot'
   gem 'byebug'
   gem 'email_spec',             '>= 1.2.1'
   gem 'faker'

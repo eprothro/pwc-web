@@ -3,10 +3,10 @@
     %h2 Contact PW
     .row-fluid
       %strong E-mail:
-      %span= link_to 'info@pw-tx.com', 'mailto:info@pw-tx.com'
+      %span= mail_to 'info@pw-tx.com', 'info@pw-tx.com', subject: "Message for PW from website"
       %span (Visit our
       %span= link_to 'staff page', employees_path
-      %span to e-mail individual staff members.)
+      %span to reach an individual staff member.)
     .row-fluid{style: 'margin-top: 20px'}
       .span3
         .contact

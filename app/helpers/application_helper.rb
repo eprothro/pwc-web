@@ -1,4 +1,5 @@
 module ApplicationHelper
+  INFO_ADDRESS = "info@pw-tx.com"
   def phone_number_link(text)
     sets_of_numbers = text.scan(/[0-9]+/)
     number = "+1-#{sets_of_numbers.join('-')}"
@@ -18,5 +19,9 @@ module ApplicationHelper
     file_path = "#{Rails.root}/app/assets/images/#{name}.svg"
     raise "#{file_path} not found" unless File.exists?(file_path)
     File.read(file_path).html_safe
+  end
+
+  def info_mail_to_employee(employee)
+    mail_to INFO_ADDRESS, "Email #{@employee.first_name}", subject: "Message for #{employee.name} from website"
   end
 end
