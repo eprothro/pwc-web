@@ -1,0 +1,1 @@
+mogrify -quality 90 -resize 300X375^ -crop 300X375 import/*.jpg
