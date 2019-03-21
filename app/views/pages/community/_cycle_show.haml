@@ -4,14 +4,16 @@
     %p.text-center
       - event = Event.find_by_slug('east-texas-crisis-center-br-auto-cycle-show')
       = link_to event_path(event), title: 'See more photos from the Cycle Show' do
-        - image_tag 'car_show/1.jpg', class: 'img-polaroid'
+        - image_tag 'car_show/3.jpg', class: 'img-polaroid'
+      = link_to event_path(event), title: 'See more photos from the Cycle Show' do
+        - image_tag 'car_show/5_h.jpg', class: 'img-polaroid'
       = link_to event_path(event), title: 'See more photos from the Cycle Show' do
         - image_tag 'car_show/2.jpg', class: 'img-polaroid'
   .span7
     %p
-      Prothro, Wilhelmi & Co. was honored to volunteer at this year’s 2018 East Texas Auto and Cycle Show held February 16th-18th benefitting the East Texas Crisis Center in Tyler, Texas.  Each year this show features a wide range of classic, antique and specialty cars, trucks and motorcycles of every decade.
+      Prothro, Wilhelmi & Co. was honored to volunteer at this year’s 2019 East Texas Auto and Cycle Show held February 15th-17th benefitting the East Texas Crisis Center in Tyler, Texas.  Each year this show features a wide range of classic, antique and specialty cars, trucks and motorcycles of every decade.
     %p
-      From humble beginnings in 1991 the first show and car raffle raised $20,000 and this year the show and car raffle generated approximately $228,000.  Tyler Ford has donated a raffle car for the past fifteen years and this year’s 1964 ½  Mustang Convertible, generated $133,830 from $10 raffle ticket sales.  This revenue helps support emergency shelter and crisis intervention services for victims of family violence and sexual assault.
+      From humble beginnings in 1991 the first show and car raffle raised $20,000 and this year the show and car raffle generated approximately $173,000.  Tyler Ford has donated a raffle car for the past sixteen years and this year’s 1962 Thunderbird Roadster Convertible, generated $73,300 from $10 raffle ticket sales.  This revenue helps support emergency shelter and crisis intervention services for victims of family violence and sexual assault.
     %p
       PW is proud to support the important work of the
       = link_to 'East Texas Crisis Center', 'http://etcc.org/', target: '_blank'

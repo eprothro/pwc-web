@@ -20,8 +20,15 @@ Web home for Prothro Wilhelmi and Company
 `mogrify -quality 90 -resize 300X375^ -crop 300X375 import/*.jpg`
 
 #### gallery images
-force width
+
+horizontal are 500x333 (3:2)
+vertical are 375x500 (4:3)
+need 3 of same orientation/size per gallery row
+
+force width 500
 `mogrify -quality 90 -resize 500 *.jpg`
+force height 375
+`mogrify -quality 90 -resize 375 *.jpg`
 force height
 `mogrify -quality 90 -resize x333 *.jpg`
 force horizontal (crop center)
