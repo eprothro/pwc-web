@@ -199,14 +199,6 @@
   suffix: CPA
   image_url: employees/nancy.jpg
 
-- name: Angela Berry
-  email: aberry
-  extension: 000
-  bio: "<p>Angela Berry joined the firm after graduating Cum Laude from Tyler Junior College with an Associate of Science in Business Administration and a Certificate in Small Business Management.  She continues her studies at the University of Texas at Tyler to obtain her Bachelor of Business Administration in Management.  Angela has twenty years of experience in accounting, small business management, and consulting.  </p><p>She grew up in Irving, Texas and relocated to Lindale in 2008 with her two children Tyler and Tobias.  She loves the outdoors including hiking, camping, sailing, and the beach.  She also enjoys baking and spending time with friends and family.  Angela is a member of Christ Central Church and has joyfully served in the areas of worship, children’s ministry, and women’s leadership.</p><p>Angela feels blessed to have the love of God in her life.  Her goal is to be an inspiration to women, to encourage them to believe in themselves, and to be empowered to live an abundant life in Jesus.</p><p>Isaiah 61:1-3</p>"
-  started_on: 15-12-2018
-  suffix:
-  image_url: employees/angela.jpg
-
 - name: AJ Evans
   email: aevans
   extension: 000
