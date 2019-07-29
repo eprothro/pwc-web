@@ -42,14 +42,6 @@
   started_on: 15-12-1998
   image_url: employees/penny.jpg
 
-- name: Brenda Staples
-  email: bstaples
-  extension: 114
-  bio: "<p>Brenda joined the firm in January 1999. Her accounting experience has involved federal and state tax returns, trust and estate returns, non-profit returns and payroll tax reporting. She continues to provide reporting and compliance work for individuals, corporations, partnerships and fiduciaries as well as for not-for-profit organizations. Her extensive research of the various tax and reporting changes continues to assist clients and staff to stay informed. </p><p>Brenda received her Bachelor Degree in Business Administration from the University of Tennessee, Knoxville. Following extensive experience in the areas of payroll tax and thrift plans for a large oil company, she returned to school and received her Master’s in Professional Accounting from the University of Texas in Arlington.. She is currently a member of the Texas Society of Certified Public Accountants and the East Texas Chapter of Certified Public Accountants. </p><p>Brenda semi-retired in 2016, but remains on staff for special projects. She enjoys traveling, skiing, and college football (Go Vols!—Go TCU Horned Frogs!—Roll Tide!).</p>"
-  started_on: 15-1-1999
-  image_url: employees/brenda.jpg
-  suffix: CPA
-
 - name: Daredeth Korkmas
   email: dkorkmas
   extension: 131
@@ -86,14 +78,6 @@
   bio: "<p>Barbara joined the firm as the Billing Coordinator and Administrative Assistant. She brings over 40 years of experience as an office manager and full charge bookkeeper. Her distinctive ability to multi-task and organize provide tremendous internal support for the staff and partners of the firm.</p><p>She was born in Illinois, and grew up in Albuquerque, New Mexico. She moved to Tyler in 1979 where she enjoys time with her three beautiful daughters and their families. She has 6 precious grandchildren, 1 great-grandson and 2 cats. She enjoys arts and crafts, games, reading and spending time with her family and friends.</p>"
   started_on: 15-11-2013
   image_url: employees/barbara.jpg
-
-- name: Kyle Davidson
-  email: kdavidson
-  extension: 120
-  bio: "<p>Kyle joined the firm as a Staff Accountant after relocating from his hometown of Abilene, Texas. Kyle graduated from McMurry University of Abilene in May of 2013 with a Bachelors of Business Administration Degree in Finance. After graduation, he began his career with a local firm in Abilene. His areas of practice include internal and compliance audits for financial institutions, trust departments, governmental entities, and medical clinics.</p><p>Kyle grew up in the small town of Hawley, Texas where he graduated from Hawley High School. A former member of the McMurry University’s music department, Kyle enjoys playing and creating music. In August of 2014, he moved to Tyler where he loves spending time with family and friends, sports, and being outdoors.</p>"
-  started_on: 15-8-2014
-  suffix:
-  image_url: employees/kyle.jpg
 
 - name: April Ocker
   email: aocker
