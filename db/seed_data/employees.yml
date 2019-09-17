@@ -87,22 +87,6 @@
   suffix:
   image_url: employees/april.jpg
 
-- name: Kindle Chapman
-  email: kchapman
-  extension: 121
-  bio: "<p>Kindle graduated from the University of Texas at Tyler with her Bachelors of Business in Accounting, her Masters of Accountancy, and is a licensed CPA.</p><p>Her areas of practice include audits of financial statements for local governments and not-for-profit organizations. She also performs internal and compliance audits for financial institutions and medical clinics. In addition, she provides tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Kindle is a member of Colonial Hills Baptist Church. She enjoys participating in volunteer and ministry activities in the local community. She likes to spend time with family and friends, and in her free time she likes to do CrossFit and participate in local weightlifting meets.</p>"
-  started_on: 15-5-2017
-  suffix: CPA
-  image_url: employees/kindle.jpg
-
-- name: Josh Olney
-  email: jolney
-  extension: 134
-  bio: "<p>Josh joined the firm after moving from California to Tyler with his family. He graduated with a Bachelor of Science in Administration with a concentration in Accounting from California State University, San Bernardino in 2009. While at CSUSB, he was the Vice-President of the Iota Eta chapter of Beta Alpha Psi.</p><p>Josh is a licensed CPA in the State of California having received his license in 2011. His work experience includes both public and private accounting. He has performed tax planning and preparation for individuals, partnerships, corporations, cooperative associations, and not-for-profit organizations. He also has experience with financial statement audits, reviews, and compilations in businesses, and financial statement audits of local governments, not-for-profit organizations, and employee benefit plans.</p><p>He previously held the position of Accounting Manager for an internet retail company with operations in the United States and China selling to all 50 states and over 170 different countries. Other industries served include agricultural cooperatives, construction, automotive, and manufacturing.</p><p>Josh enjoys spending time with his wife and two daughters. He also enjoys outdoor activities such as fishing, hiking, dirt-bike riding, and camping. Josh was baptized in 2016 alongside both of his daughters.</p>"
-  started_on: 15-6-2017
-  suffix: CPA
-  image_url: employees/josh.jpg
-
 - name: Chance Chapman
   email: cchapman
   extension: 157
