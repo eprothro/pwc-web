@@ -62,7 +62,7 @@ module PWCWeb
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
 
-    if true#ENV['REQUIRE_AUTH'] == 'true'
+    if ENV['REQUIRE_AUTH'] == 'true'
       config.middleware.use(::Rack::Auth::Basic, "Demo") do |u, p|
         if ENV['BASIC_AUTH_USER'].present? && ENV['BASIC_AUTH_PASSWORD'].present?
           [u, p] == [ENV['BASIC_AUTH_USER'], ENV['BASIC_AUTH_PASSWORD']]
