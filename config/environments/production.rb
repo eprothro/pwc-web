@@ -1,16 +1,6 @@
 PWCWeb::Application.configure do
   # Settings specified here will take precedence over those in config/application.rb
 
-  if ENV['REQUIRE_AUTH'] == 'true'
-    config.middleware.insert_after(::Rack::Lock, "::Rack::Auth::Basic", "Demo") do |u, p|
-      if ENV['BASIC_AUTH_USER'].present? && ENV['BASIC_AUTH_PASSWORD'].present?
-        [u, p] == [ENV['BASIC_AUTH_USER'], ENV['BASIC_AUTH_PASSWORD']]
-      else
-        [u, p] == ['pwc', 'pwc']
-      end
-    end
-  end
-
   # Code is not reloaded between requests
   config.cache_classes = true
 
