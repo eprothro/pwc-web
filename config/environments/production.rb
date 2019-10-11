@@ -6,7 +6,7 @@ PWCWeb::Application.configure do
       if ENV['BASIC_AUTH_USER'].present? && ENV['BASIC_AUTH_PASSWORD'].present?
         [u, p] == [ENV['BASIC_AUTH_USER'], ENV['BASIC_AUTH_PASSWORD']]
       else
-        [u, p] == ['pwc', 'matthew633']
+        [u, p] == ['pwc', 'pwc']
       end
     end
   end
@@ -38,7 +38,9 @@ PWCWeb::Application.configure do
   # config.action_dispatch.x_sendfile_header = 'X-Accel-Redirect' # for nginx
 
   # Force all access to the app over SSL, use Strict-Transport-Security, and use secure cookies.
-  config.force_ssl = true
+  unless ENV['ALLOW_HTTP'] == 'true'
+    config.force_ssl = true
+  end
 
   # See everything in the log (default is :info)
   config.log_level = ENV["LOG_LEVEL"].to_sym if %w(debug info warn error fatal).include? ENV["LOG_LEVEL"]
