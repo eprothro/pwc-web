@@ -13,9 +13,17 @@
           .span10.offset1
             %ul
               %li.news
+                %span= link_to 'AJ Evans', Employee.find_by_name('AJ Evans')
+                %span was selected to participate in the Leadership Tyler Core Program, Class 33.
+              %li.news
+                %span= link_to 'Ben Nafe', Employee.find_by_name('Ben Nafe')
+                %span has received his CPA certification.
+              %li.news
                 %span= link_to 'John Mitchell', Employee.find_by_name('John Mitchell')
-                %span received the Outstanding Undergraduate award at the annual Accounting Banquet at UT Tyler.
-
+                %span has received his CPA certification.
+              %li.news
+                %span= link_to 'Erin McNeill', Employee.find_by_name('Erin McNeill')
+                %span has been promoted to Senior Associate.
 
         %h3 Advertising
         .row-fluid

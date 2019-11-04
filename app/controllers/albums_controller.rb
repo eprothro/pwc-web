@@ -1,5 +1,4 @@
 class AlbumsController < ApplicationController
-  caches_action :index, :show unless Rails.env.development?
 
   def index
     @albums = Album.preload(:events)
