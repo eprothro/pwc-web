@@ -7,7 +7,7 @@ ruby '~> 2.3.4'
 gem 'rails',                    '~> 3.2'
 
 # web server
-gem 'puma',                     '~> 2.14.0'
+gem 'puma',                     '~> 3.12.2'
 
 # gem 'asset_sync',               '~> 0.5.3'
 gem 'aws-sdk',                  '~> 1.7.1'
