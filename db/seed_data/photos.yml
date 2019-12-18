@@ -45,11 +45,100 @@ Involvement Around Town:
         - car_show/3.jpg
         - car_show/4.jpg
         - car_show/5.jpg
-
+    - name: Call Her Blessed 2019
+      cover: blessed/1.png
+      photos:
+        - blessed/1.png
+    - name: UT Tyler Million Dollar Hole In One 2019
+      cover: million/all.jpg
+      photos:
+        - million/a.jpg
+        - million/file1-15.jpeg
+        - million/file2-12.jpeg
+        - million/file3-13.jpeg
+        - million/p.JPG
+        - million/w.JPG
+        - million/all.jpg
+        - million/file-23.jpeg
+    - name: Hope Blooms Brunch 2019
+      cover: hope/1.jpg
+      photos:
+        - hope/1.jpg
+    - name: Fresh 15 2019
+      cover: fresh/cover.jpg
+      photos:
+        - fresh/4.jpg
+        - fresh/3.jpg
+        - fresh/2.jpg
+        - fresh/1.jpg
 Activities Around the Office:
   cover: breaks/20.JPG
   events:
-
+    - name: Leadership Tyler 2019
+      cover: leadership/3.jpg
+      photos:
+        - leadership/1.jpg
+        - leadership/2.jpg
+        - leadership/3.jpg
+    - name: Lindale Area Golf Tournament 2019
+      cover: lindale/cover.JPG
+      photos:
+        - lindale/IMG_7231.JPG
+        - lindale/IMG_7232.JPG
+        - lindale/IMG_7234.JPG
+    - name: Staff Outing 2019
+      cover: outing/1.jpeg
+      photos:
+        - outing/1.jpeg
+        - outing/2.jpeg
+        - outing/2.jpg
+        - outing/3.jpeg
+        - outing/4.jpeg
+        - outing/12.jpeg
+        - outing/6.png
+        - outing/7.jpeg
+        - outing/8.jpeg
+        - outing/9.jpeg
+        - outing/10.jpeg
+        - outing/11.jpeg
+        - outing/5.jpg
+        - outing/13.jpeg
+        - outing/14.jpg
+        - outing/15.jpg
+        - outing/16.jpeg
+        - outing/17.jpg
+        - outing/IMG_0277.jpg
+        - outing/IMG_0280.jpg
+        - outing/IMG_0282.jpg
+        - outing/IMG_0283.jpg
+    - name: 2019 Tax Lunch
+      cover: tax_lunch/file3-8.jpeg
+      photos:
+        - tax_lunch/file3-10.jpeg
+        - tax_lunch/file1-9.png
+        - tax_lunch/file1-10.jpeg
+        - tax_lunch/file1-11.jpeg
+        - tax_lunch/file3-8.jpeg
+        - tax_lunch/file3-9.jpeg
+        - tax_lunch/file1-12.jpeg
+    - name: 2019 Tax Breakfast
+      cover: tax_breakfast/cover.jpeg
+      photos:
+        - tax_breakfast/file4-5.jpeg
+        - tax_breakfast/file-12.jpeg
+        - tax_breakfast/file1-7.jpeg
+        - tax_breakfast/file2-6.jpeg
+        - tax_breakfast/file3-6.jpeg
+    - name: 2019 March Madness
+      cover: march/1.jpg
+      photos:
+        - march/1.jpg
+        - march/2.jpg
+    - name: Kona Ice with South Side Bank
+      cover: kona/file-44.jpeg
+      photos:
+        - kona/file-44.jpeg
+        - kona/file1-19.jpeg
     - name: 17th Annual PWC Putt-Putt Classic
       cover: putt-putt/Golf 1.JPG
       photos:
