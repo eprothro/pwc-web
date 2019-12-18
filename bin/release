@@ -1,1 +1,1 @@
-git push production master && heroku pg:reset --confirm pwc-production -r production && heroku run rake db:schema:load db:seed cache:clear -r production
+git push production master && heroku pg:reset --confirm pwc-production -r production && heroku run rake db:schema:load db:seed -r production
