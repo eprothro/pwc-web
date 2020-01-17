@@ -71,5 +71,16 @@ module PWCWeb
         end
       end
     end
+
+    if ENV['APEX_REDIRECT']
+      canonical = ENV['APEX_REDIRECT'] # www.example.com
+      apex = canonical.split('.').drop(1).join('.') # example.com
+      protocol = 'http'
+      protocol = 'https' if config.force_ssl
+
+      config.middleware.insert_before(Rack::Lock, Rack::Rewrite) do
+        moved_permanently /.*/, "#{protocol}://#{canonical}$&", if: ->(env){env['SERVER_NAME'] == apex}
+      end
+    end
   end
 end
