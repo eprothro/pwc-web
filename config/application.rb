@@ -78,7 +78,7 @@ module PWCWeb
       protocol = 'http'
       protocol = 'https' if config.force_ssl
 
-      config.middleware.insert_before(Rack::Lock, Rack::Rewrite) do
+      config.middleware.use(Rack::Rewrite) do
         moved_permanently /.*/, "#{protocol}://#{canonical}$&", if: ->(env){env['SERVER_NAME'] == apex}
       end
     end
