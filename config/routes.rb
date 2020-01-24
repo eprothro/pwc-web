@@ -1,5 +1,9 @@
 PWCWeb::Application.routes.draw do
 
+  constraints subdomain: "" do
+    match "(*any)" => redirect { |params, request| URI.parse(request.url).tap { |uri| uri.host = uri.host.prepend("www.") }.to_s }
+  end
+
   resources :employees, path: 'staff'
   resources :services
   resources :albums, only: [:index, :show]
