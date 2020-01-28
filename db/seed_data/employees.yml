@@ -135,14 +135,6 @@
   suffix:
   image_url: employees/marsha.jpg
 
-- name: Jade Burks
-  email:  jburks
-  extension: 116
-  bio: "<p>Jade joined the firm after moving to Tyler with her family. She graduated from Texas A&M University with a Bachelor of Business Administration in Accounting and a Master of Science in Finance in 2015. While at TAMU, she was involved in Christian Business Leaders and served on staff as the Special Events Committee Chair.</p><p>Jade is a licensed CPA. Her previous work experience includes integrated audits for public companies specializing in financial companies, internal audit for both public and private companies, SOX implementation for IPO, and IT Audit for public and private clients. She has experience in a wide-range of industries including financial, real estate, airline, and health. She previously worked for EY in the Risk Advisory/ Internal Audit practice in the Dallas office. Her current areas of practice include audits of financial statements for local governments, not-for-profit organizations, employee benefit plans, and audits of service organization controls (SOC).</p><p>Jade enjoys spending time with her family, traveling, reading, and gardening! She is also passionate about health and fitness and enjoys strength training, running, biking, and watersports.</p>"
-  started_on: 15-8-2018
-  suffix: CPA
-  image_url: employees/jade.jpg
-
 - name: Parker Baskin
   email: pbaskin
   extension: 000
