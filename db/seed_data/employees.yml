@@ -175,14 +175,6 @@
   suffix: CPA
   image_url: employees/royce.jpg
 
-- name: Josh Betts
-  email: jbetts
-  extension: 000
-  bio: "<p>Josh graduated from Kansas State University in 2012 with a bachelor’s degree in horticulture.  He obtained his Masters of Accountancy degree in 2018 from the University of Texas at Tyler and is currently in pursuit of his CPA certification. He worked in the landscape industry from Kansas City to Denver and was promoted to department manager. He moved to Tyler in 2010 to work in the field of managing stock portfolios.   His areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Josh enjoys spending time with his wife, Stacy, and their new daughter.  He enjoys hiking and skydiving and indoor rock climbing. He practices Krav Maga, of which he is also an instructor.</p>"
-  started_on: 15-1-2019
-  suffix:
-  image_url: employees/jbetts.jpg
-
 - name: Erin McNeill
   email: emcneill
   extension: 000

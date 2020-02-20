@@ -14,11 +14,10 @@ Our Office:
         - office/29.jpg
         - office/lights.jpg
         - office/snow.jpg
-
 Involvement Around Town:
   cover: team.png
   events:
-    - name: 2019 Literacy Council Spelling Bee
+    - name: Literacy Council Spelling Bee
       cover: bee/9.jpg
       photos:
         - bee/1.jpg
@@ -31,7 +30,6 @@ Involvement Around Town:
         - bee/8.jpg
         - bee/9.jpg
         - bee/10.jpg
-
     - name: KTBB Scholastic All-Stars
       cover: involvement/scholastic_1.jpg
       photos:
@@ -45,11 +43,11 @@ Involvement Around Town:
         - car_show/3.jpg
         - car_show/4.jpg
         - car_show/5.jpg
-    - name: Call Her Blessed 2019
+    - name: Call Her Blessed
       cover: blessed/1.png
       photos:
         - blessed/1.png
-    - name: UT Tyler Million Dollar Hole In One 2019
+    - name: UT Tyler Million Dollar Hole In One
       cover: million/all.jpg
       photos:
         - million/a.jpg
@@ -60,11 +58,11 @@ Involvement Around Town:
         - million/w.JPG
         - million/all.jpg
         - million/file-23.jpeg
-    - name: Hope Blooms Brunch 2019
+    - name: Hope Blooms Brunch
       cover: hope/1.jpg
       photos:
         - hope/1.jpg
-    - name: Fresh 15 2019
+    - name: Fresh 15
       cover: fresh/cover.jpg
       photos:
         - fresh/4.jpg
@@ -74,19 +72,19 @@ Involvement Around Town:
 Activities Around the Office:
   cover: breaks/20.JPG
   events:
-    - name: Leadership Tyler 2019
+    - name: Leadership Tyler
       cover: leadership/3.jpg
       photos:
         - leadership/1.jpg
         - leadership/2.jpg
         - leadership/3.jpg
-    - name: Lindale Area Golf Tournament 2019
+    - name: Lindale Area Golf Tournament
       cover: lindale/cover.JPG
       photos:
         - lindale/IMG_7231.JPG
         - lindale/IMG_7232.JPG
         - lindale/IMG_7234.JPG
-    - name: Staff Outing 2019
+    - name: Staff Outing
       cover: outing/1.jpeg
       photos:
         - outing/1.jpeg
@@ -111,7 +109,7 @@ Activities Around the Office:
         - outing/IMG_0280.jpg
         - outing/IMG_0282.jpg
         - outing/IMG_0283.jpg
-    - name: 2019 Tax Lunch
+    - name: Tax Lunch
       cover: tax_lunch/file3-8.jpeg
       photos:
         - tax_lunch/file3-10.jpeg
@@ -121,7 +119,7 @@ Activities Around the Office:
         - tax_lunch/file3-8.jpeg
         - tax_lunch/file3-9.jpeg
         - tax_lunch/file1-12.jpeg
-    - name: 2019 Tax Breakfast
+    - name: Tax Breakfast
       cover: tax_breakfast/cover.jpeg
       photos:
         - tax_breakfast/file4-5.jpeg
@@ -129,133 +127,13 @@ Activities Around the Office:
         - tax_breakfast/file1-7.jpeg
         - tax_breakfast/file2-6.jpeg
         - tax_breakfast/file3-6.jpeg
-    - name: 2019 March Madness
+    - name: March Madness
       cover: march/1.jpg
       photos:
         - march/1.jpg
         - march/2.jpg
-    - name: Kona Ice with South Side Bank
+    - name: Kona Ice with Southside Bank
       cover: kona/file-44.jpeg
       photos:
         - kona/file-44.jpeg
         - kona/file1-19.jpeg
-    - name: 17th Annual PWC Putt-Putt Classic
-      cover: putt-putt/Golf 1.JPG
-      photos:
-        - putt-putt/Golf 1.JPG
-        - putt-putt/Golf 2.JPG
-        - putt-putt/Golf 3.JPG
-        - putt-putt/Golf 4.JPG
-        - putt-putt/Golf 5.JPG
-        - putt-putt/Golf 6.JPG
-        - putt-putt/Golf 7.JPG
-        - putt-putt/Golf 8.JPG
-        - putt-putt/Golf 9.JPG
-        - putt-putt/Golf 10.JPG
-        - putt-putt/Golf 11.JPG
-        - putt-putt/Golf 12.JPG
-        - putt-putt/Golf 13.JPG
-        - putt-putt/Golf 15.JPG
-        - putt-putt/Golf 16.JPG
-        - putt-putt/Golf 17.JPG
-        - putt-putt/Golf 18.JPG
-        - putt-putt/Golf 19.JPG
-        - putt-putt/Golf 21.JPG
-        - putt-putt/Golf 22.JPG
-        - putt-putt/Golf 23.JPG
-        - putt-putt/Golf 24.JPG
-    - name: Employee Celebrations
-      cover: celebrations/Anniversary 1.JPG
-      photos:
-        - celebrations/Anniversary 1.JPG
-        - celebrations/Anniversary 2.JPG
-        - celebrations/Anniversary 3.JPG
-        - celebrations/Anniversary 4.JPG
-        - celebrations/Anniversary 5.JPG
-        - celebrations/Anniversary 6.JPG
-        - celebrations/Anniversary 9.JPG
-        - celebrations/Anniversary 10.JPG
-        - celebrations/Kasey 1.JPG
-        - celebrations/Kasey 2.JPG
-        - celebrations/Tom.jpg
-    - name: Quarterly Birthdays
-      cover: birthdays/3Q Lunch 2.jpg
-      photos:
-        - birthdays/Quarterly 1.JPG
-        - birthdays/Quarterly 2.JPG
-        - birthdays/Quarterly 3.JPG
-        - birthdays/3Q Lunch 1.jpg
-        - birthdays/3Q Lunch 2.jpg
-        - birthdays/3Q Lunch 3.jpg
-        - birthdays/3Q Lunch 4.jpg
-        - birthdays/Quarterly Birthday 3.jpg
-        - birthdays/Quarterly Birthday 4.jpg
-        - birthdays/Quarterly Birthday 6.jpg
-        - birthdays/Q2 - 2.jpg
-        - birthdays/Q2 - 4.jpg
-        - birthdays/Q2 - 6.jpg
-        - birthdays/Birthday 2.JPG
-    - name: Tax Season Breaks
-      cover: breaks/20.JPG
-      photos:
-        - breaks/1.JPG
-        - breaks/2.JPG
-        - breaks/3.JPG
-        - breaks/4.JPG
-        - breaks/5.JPG
-        - breaks/6.JPG
-        - breaks/7.JPG
-        - breaks/8.JPG
-        - breaks/9.JPG
-        - breaks/10.JPG
-        - breaks/11.JPG
-        - breaks/12.JPG
-        - breaks/16.JPG
-        - breaks/17.JPG
-        - breaks/18.JPG
-        - breaks/19.JPG
-        - breaks/20.JPG
-    - name: Christmas Party
-      cover: christmas/1.JPG
-      photos:
-        - christmas/1.JPG
-        - christmas/2.JPG
-        - christmas/3.JPG
-        - christmas/4.JPG
-        - christmas/5.JPG
-        - christmas/6.JPG
-        - christmas/7.JPG
-        - christmas/8.JPG
-        - christmas/9.JPG
-        - christmas/10.JPG
-        - christmas/11.JPG
-        - christmas/12.JPG
-        - christmas/13.JPG
-        - christmas/14.JPG
-        - christmas/15.JPG
-        - christmas/16.JPG
-    - name: Thanksgiving Luncheon
-      cover: thanksgiving/Thanksgiving 1.JPG
-      photos:
-        - thanksgiving/Thanksgiving 1.JPG
-        - thanksgiving/Thanksgiving 2.JPG
-        - thanksgiving/Thanksgiving 3.JPG
-        - thanksgiving/Thanksgiving 4.JPG
-        - thanksgiving/Thanksgiving 5.JPG
-    - name: 6th Annual PW Chili Cook-Off
-      cover: chili/Chili-Cook 13.jpg
-      photos:
-        - chili/Chili-Cook 1.jpg
-        - chili/Chili-Cook 2.jpg
-        - chili/Chili-Cook 3.jpg
-        - chili/Chili-Cook 4.jpg
-        - chili/Chili-Cook 5.jpg
-        - chili/Chili-Cook 6.jpg
-        - chili/Chili-Cook 7.jpg
-        - chili/Chili-Cook 8.jpg
-        - chili/Chili-Cook 9.jpg
-        - chili/Chili-Cook 10.jpg
-        - chili/Chili-Cook 11.jpg
-        - chili/Chili-Cook 12.jpg
-        - chili/Chili-Cook 13.jpg
-        - chili/Chili-Cook 14.jpg
