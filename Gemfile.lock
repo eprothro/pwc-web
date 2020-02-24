@@ -143,7 +143,7 @@ GEM
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     newrelic_rpm (3.5.7.59)
-    nokogiri (1.10.4)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     pg (0.18.4)
     pg_search (0.5.7)
