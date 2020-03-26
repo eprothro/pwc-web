@@ -1,32 +1,44 @@
 .row-fluid#home
-  .span4
-    .panel.clearfix
-      .row-fluid
-        .span12
-          / = render "pages/home/careers"
-          = render "pages/home/hiring"
+  .row-fluid
+    .span12
+      .panel.update.clearfix
+        .row-fluid
+          .span12
+            %strong
+              COVID-19 Update:
+            Prothro, Wilhelmi and Company is closely monitoring information
+            available regarding the Coronavirus and we are compiling
+            information to help our clients manage their accounting needs.
+            = link_to "Learn more", coronavirus_path
+  .row-fluid
+    .span4
+      .panel.clearfix
+        .row-fluid
+          .span12
+            / = render "pages/home/careers"
+            = render "pages/home/hiring"
 
-    .panel.clearfix
-      .row-fluid
-        .span10.offset1.text-center
-          = render "pages/home/facebook"
-  .span4
-    .hero-unit.clearfix.text-center
-      = render partial: 'carousel', locals: {slides: @slides, employees: @employees}
-    .bbb
-      = link_to(image_tag("bbb_black.png"), 'https://www.bbb.org/east-texas/business-reviews/accountants/prothro-wilhelmi-and-co-pllc-in-tyler-tx-3001265', target: '_blank')
+      .panel.clearfix
+        .row-fluid
+          .span10.offset1.text-center
+            = render "pages/home/facebook"
+    .span4
+      .hero-unit.clearfix.text-center
+        = render partial: 'carousel', locals: {slides: @slides, employees: @employees}
+      .bbb
+        = link_to(image_tag("bbb_black.png"), 'https://www.bbb.org/east-texas/business-reviews/accountants/prothro-wilhelmi-and-co-pllc-in-tyler-tx-3001265', target: '_blank')
 
-  .span4
-    .panel.clearfix
-      .row-fluid
-        .span10.offset1.text-center
-          / = render "pages/home/cycle_show"
-          = render "pages/home/bee"
-    .panel.clearfix
-      .row-fluid
-        .span10.offset1.text-center
-          .video-container
-            %iframe.ad-video{width: "46", height: "35", allowfullscreen: true, frameborder: "0", src: 'https://www.youtube.com/embed/TTWmBAZWj9g?&modestbranding=0&controls=1&rel=0&showinfo=0'}
+    .span4
+      .panel.clearfix
+        .row-fluid
+          .span10.offset1.text-center
+            / = render "pages/home/cycle_show"
+            = render "pages/home/bee"
+      .panel.clearfix
+        .row-fluid
+          .span10.offset1.text-center
+            .video-container
+              %iframe.ad-video{width: "46", height: "35", allowfullscreen: true, frameborder: "0", src: 'https://www.youtube.com/embed/TTWmBAZWj9g?&modestbranding=0&controls=1&rel=0&showinfo=0'}
 
 .row-fluid#home
   .span12

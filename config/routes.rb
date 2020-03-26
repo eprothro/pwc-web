@@ -11,6 +11,7 @@ PWCWeb::Application.routes.draw do
 
   root :to => 'pages#home'
   get 'about' => 'pages#about'
+  get 'coronavirus' => 'pages#coronavirus'
   get 'error' => 'pages#error'
   get 'news' => 'pages#news'
   get 'community' => 'pages#community'

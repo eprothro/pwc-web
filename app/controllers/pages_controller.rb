@@ -29,6 +29,9 @@ class PagesController < ApplicationController
   def header
   end
 
+  def coronavirus
+  end
+
   def email_signature
     render layout: "html_tag"
   end
