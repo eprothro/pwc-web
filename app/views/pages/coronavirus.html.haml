@@ -1,23 +1,77 @@
 .row-fluid#about
   .span10.offset1
-    %h2 COVID-19 Update
+    %h2 COVID-19 Updates
 
     .row-fluid
       %h3 Tax Day now July 15
-      %h4 Treasury, IRS extend filing deadline and federal tax payments regardless of amount owed
-      %p The federal income tax filing due date is automatically extended from April 15, 2020, to July 15, 2020. Taxpayers will still be able to request an automatic extension if they need additional time to file after July 15.
-      %p Taxpayers can also defer federal income tax payments due on April 15, 2020, to July 15, 2020, without penalties and interest, regardless of the amount owed. This deferment applies to all taxpayers, including individuals, trusts and estates, corporations and other non-corporate tax filers as well as those who pay self-employment tax.
-      %p Taxpayers do not need to file any additional forms or call the IRS to qualify for this automatic federal tax filing and payment relief. 
-
-    .row-fluid
-      %h3 Families First Coronavirus Response Act
-      %p President Trump has signed into law the Families First Coronavirus Response Act. Among other things, the new law temporarily requires certain employers to provide expanded paid sick and family leave for employees affected by the coronavirus (COVID-19) pandemic. Employers’ increased costs will be offset by new tax credits, which also may be available to self-employed individuals. 
-      %p These provisions include multiple details in how they are applicable to individual circumstances, and accordingly, should be discussed with a tax and/or legal professional in more detail.
-
-    .row-fluid
-      %h3 COVID-19 Scams
-      %p Be aware that criminals are attempting to exploit COVID-19 worldwide through a variety of scams. If you receive calls, emails, or other communications claiming to be from the Treasury Department and offering COVID-19 related grants or stimulus payments in exchange for personal financial information, or an advance fee, tax, or charge of any kind, including the purchase of gift cards, please DO NOT respond.
       %p
-        If you receive any of the previously mentioned scams, please contact the FBI at
-        =link_to("www.ic3.gov", "https://www.ic3.gov", target: "_blank")
-        so that the scammers can be tracked and stopped.
+        The federal income tax filing due date has been extended from April 15, 2020, to July 15, 2020. Please read
+        = link_to("the most up to date information from the IRS", "https://www.irs.gov/newsroom/tax-day-now-july-15-treasury-irs-extend-filing-deadline-and-federal-tax-payments-regardless-of-amount-owed", target: "_blank") + "."
+
+    .row-fluid
+      %br
+      %h3 Coronavirus Aid, Relief, and Economy Security Act (CARES Act)
+      %p
+        The CARES Act was signed into law to provide financial “emergency relief” to individuals and businesses caused by the Coronavirus pandemic.  This Act provides relief to:
+
+        %ul
+          %li Individuals
+          %li Businesses
+          %li State and local governments
+          %li The health care system
+
+        Below are some of the major provisions in the law for businesses, individuals, stimulus checks, loans, grants and more.
+      %br
+      %h4 Paycheck Protection Programs Loans (PPP)
+
+      %p
+        Please read
+
+        =link_to("the latest information from the Treasury", "https://home.treasury.gov/policy-issues/top-priorities/cares-act/assistance-for-small-businesses", target: "_blank") + '.'
+
+      %p We recommend using local community banks for these loans.
+
+      %h4 Economic Injury Disaster Loans
+
+      %p
+        Please read
+
+        =link_to("the latest information from the Chamber of Commerce", "https://www.uschamber.com/report/guide-sbas-economic-injury-disaster-loans", target: "_blank") + '.'
+
+      %p  We recommend using local community banks for these loans.
+
+      %h4 Individual Stimulus Checks (Economic Impact Payments)
+
+      %p
+        Please read
+
+        =link_to("the latest information from the IRS", "https://www.irs.gov/newsroom/economic-impact-payments-what-you-need-to-know", target: "_blank") + "."
+
+      %h4 Individual & Business Tax Provisions
+
+      %p
+
+        Please view, print, or share our
+        =link_to "PW CARES FAQ", asset_path("PW_Cares_FAQ.pdf"), target: "_blank"
+
+    .row-fluid
+      %br
+      %h3 Families First Coronavirus Response Act (FFCRA)
+
+      %p
+        The FFCRA requires certain employers to provide their employees with paid sick leave or expanded family and medical leave for specified reasons related to COVID-19. The Department of Labor’s (Department) Wage and Hour Division (WHD) administers and enforces the new law’s paid leave requirements. These provisions will apply from the effective date through December 31, 2020.
+      %p
+        Please read
+        = link_to "the latest information from the Department of Labor", "https://www.dol.gov/agencies/whd/pandemic/ffcra-employee-paid-leave", target: "_blank"
+        as well as our
+        =link_to "PW FFCRA FAQ", asset_path("PW_FFCRA_FAQ.pdf"), target: "_blank"
+
+    .row-fluid
+      %br
+      %h3 COVID-19 Scams
+
+      %p
+        The IRS has issued warnings about Coronavirus-related scams. Please read
+
+        = link_to("the latest information from the IRS", "https://www.irs.gov/newsroom/irs-issues-warning-about-coronavirus-related-scams-watch-out-for-schemes-tied-to-economic-impact-payments", target: "_blank") + "."
+
