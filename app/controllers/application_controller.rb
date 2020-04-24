@@ -9,6 +9,7 @@ class ApplicationController < ActionController::Base
   private
 
   def generic_error(exception)
+    Raven.capture_exception(exception)
     return render "pages/error", status: 500
   end
   def record_not_found(exception)

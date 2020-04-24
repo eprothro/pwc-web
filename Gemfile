@@ -6,6 +6,8 @@ source 'https://rubygems.org'
 ruby '~> 2.3.4'
 gem 'rails',                    '~> 3.2'
 
+gem 'bundler',                  '~> 1.0'
+
 # web server
 gem 'puma',                     '~> 2.14.0'
 
@@ -15,7 +17,7 @@ gem 'bluecloth',                '~> 2.2.0'
 gem 'cache_digests',            '~> 0.2.0'
 gem 'cancan',                   '~> 1.6.8'
 gem 'compass-rails',            '~> 1.0.3'
-gem 'dalli',                    '~> 2.6.2'
+# gem 'dalli',                    '~> 2.6.2'
 # gem 'devise',                   '~> 2.1.0'
 # gem 'devise-async',             '~> 0.5.1'
 gem 'haml-rails',               '~> 0.3.4'
@@ -34,7 +36,7 @@ gem 'rack-timeout',             '~> 0.0.3'
 gem 'rails_12factor',           '~> 0.0.3'
 gem 'redis',                    '~> 3.0.2'
 gem 'rolify',                   '~> 3.2.0'
-gem 'sentry-raven',             '~> 0.4.3'
+gem 'sentry-raven',             '~> 0.15.6'
 gem 'sinatra',                  '~> 1.3.0', require: nil
 gem 'sidekiq',                  '~> 2.7.3'
 gem 'sidekiq-failures',         '~> 0.1.0'
