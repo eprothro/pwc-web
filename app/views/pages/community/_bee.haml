@@ -2,7 +2,7 @@
 .row-fluid
   .span5
     %p.text-center
-      - event = Event.find_by_slug('2019-literacy-council-spelling-bee')
+      - event = Event.find_by_slug('literacy-council-spelling-bee')
       = link_to event_path(event), title: 'See more photos from the Spelling Bee' do
         - image_tag 'bee/community_1.jpg', class: 'img-polaroid'
       = link_to event_path(event), title: 'See more photos from the Spelling Bee' do

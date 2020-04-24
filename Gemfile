@@ -6,6 +6,7 @@ source 'https://rubygems.org'
 ruby '~> 2.3.4'
 gem 'rails',                    '~> 3.2'
 
+# FYI, rails 3.2 depends on bundler 1.0
 gem 'bundler',                  '~> 1.0'
 
 # web server
