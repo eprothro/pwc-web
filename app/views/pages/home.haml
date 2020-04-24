@@ -27,8 +27,11 @@
     .span4
       .hero-unit.clearfix.text-center
         = render partial: 'carousel', locals: {slides: @slides, employees: @employees}
-      .bbb
-        = link_to(image_tag("bbb_black.png"), 'https://www.bbb.org/east-texas/business-reviews/accountants/prothro-wilhelmi-and-co-pllc-in-tyler-tx-3001265', target: '_blank')
+      .panel.clearfix
+        .row-fluid
+          .span12
+            / = render "pages/home/careers"
+            = render "pages/home/hiring"
 
     .span4
       .panel.clearfix
