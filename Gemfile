@@ -10,7 +10,7 @@ gem 'rails',                    '~> 3.2'
 gem 'bundler',                  '~> 1.0'
 
 # web server
-gem 'puma',                     '~> 2.14.0'
+gem 'puma',                     '~> 3.12.4'
 
 # gem 'asset_sync',               '~> 0.5.3'
 gem 'aws-sdk',                  '~> 1.7.1'
