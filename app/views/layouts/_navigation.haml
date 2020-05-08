@@ -1,22 +1,23 @@
 %header
   .header
     .brand-container.row-fluid
-      .hidden-desktop
-        .mobile
-          .logo
+      =link_to root_path do
+        .hidden-desktop
+          .mobile
+            .logo
+              = image_tag 'logo_with_motto.svg'
+            .anniversary
+              = image_tag '25_year_logo_black_maroon.svg'
+        .visible-desktop
+          .logo.span5
             = image_tag 'logo_with_motto.svg'
-          .anniversary
+          .anniversary.span2
             = image_tag '25_year_logo_black_maroon.svg'
-      .visible-desktop
-        .logo.span5
-          = image_tag 'logo_with_motto.svg'
-        .anniversary.span2
-          = image_tag '25_year_logo_black_maroon.svg'
-        .office.span5
-          .office-container
-            .left-blur
-            = image_tag("office_crop_747x350.jpg")
-            .right-blur
+          .office.span5
+            .office-container
+              .left-blur
+              = image_tag("office_crop_747x350.jpg")
+              .right-blur
 
   .navbar
     .navbar-inner.pull-center
@@ -25,8 +26,6 @@
           %span{style: 'color: #333; text-shadow: 0px 1px 0px #AAA;'} Menu
         .nav-collapse.collapse.links
           %ul.nav
-            %li= link_to 'Home', root_path
-            %li.divider-vertical
             %li= link_to 'About', about_path
             %li.divider-vertical
             %li= link_to 'Services', services_path
@@ -44,3 +43,5 @@
             %li= link_to 'Careers', careers_path
             %li.divider-vertical
             %li= link_to 'Client Portal', portal_path
+            %li.divider-vertical
+            %li= link_to 'Pay Online', pay_path

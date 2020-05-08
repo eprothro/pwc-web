@@ -21,6 +21,7 @@ PWCWeb::Application.routes.draw do
   get 'header' => 'pages#header'
   get 'sig' => 'pages#email_signature'
   get 'signature' => 'pages#download_email_signature'
+  get 'pay' => 'pages#pay'
 
   mount_sextant if Rails.env.development?
 
