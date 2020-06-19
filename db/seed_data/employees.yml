@@ -103,14 +103,6 @@
   suffix:
   image_url: employees/justin.jpg
 
-- name: Ben Nafe
-  email: bnafe
-  extension: 130
-  bio: "<p>Ben joined the firm as a graduate of Tabor College and is currently pursuing his CPA certification. His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Ben grew up in Alabama on a small horse farm. After receiving a football scholarship, he relocated to Hillsboro, Kansas to attend Tabor College focusing his studies on Accounting and Finance. After graduating, he worked as the assistant director of Financial Aid for Tabor College.</p><p>Ben, along with his wife Laurie, moved to Tyler in July of 2017. They are active members of South Spring Baptist Church. They enjoy biking, hiking, board games, and other competitive hobbies. Ben and Laurie are also sports enthusiasts. You might catch a glimpse of them on the jumbotron at a Cowboys or Astros game cheering on their favorite teams</p>"
-  started_on: 15-9-2017
-  suffix: CPA
-  image_url: employees/ben.jpg
-
 - name: Stephanie Gurrola
   email: sgurrola
   extension: 122
@@ -142,14 +134,6 @@
   started_on: 15-8-2018
   suffix:
   image_url: employees/parker.jpg
-
-- name: Jennifer Averitt
-  email: javeritt
-  extension: 000
-  bio: "<p>Jennifer joined the firm’s Accounting and Reporting Services team with over 24 years of experience in public and private accounting. She has experience in full-charge bookkeeping, payroll and payroll tax returns, sales tax returns, and individual tax returns. She is also a Certified QuickBooks Pro Advisor specializing in training and operations of QuickBooks.</p><p>She earned her Associate of Applied Science in Accounting from Kilgore College where she became a life time member of Phi Theta Kappa for maintaining high GPA requirements. She is currently attending LeTourneau University to complete her Bachelor of Science in accounting degree.</p><p>In addition to spending time with her husband and their three children, Jennifer enjoys reading, fishing, hunting, playing with the family dogs, and attending self-defense training classes.</p>"
-  started_on: 15-11-2018
-  suffix:
-  image_url: employees/jennifer.jpg
 
 - name: Nancy Gray
   email: ngray
