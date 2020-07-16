@@ -98,7 +98,7 @@
 - name: Justin Schaefer
   email: mailto:jschaefer
   extension: 135
-  bio: "<p>Justin joined the firm with experience from a local accounting firm he joined in 2012, where he gained experience and knowledge in the practice areas of tax preparation, audits of financial statements, performance of Single Audits for local governments and non-profit organizations, and forensic accounting. He has served as Treasurer and Campaign Manager for local political campaigns and has experience in the area of Campaign Finance. His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Justin enjoys spending time with his family and friends. He also enjoys creating and recording music, hunting, sports, and playing guitar. Justin is an active member of his church where he serves in various ministries, including being a member of the church music team.</p>"
+  bio: "<p>Justin began his career at a local accounting firm in 2012, where he gained experience and knowledge in the areas of tax preparation, audits of local governments and non-profit organizations, and forensic accounting. He has served as Treasurer and Campaign Manager for local political campaigns and has experience in the area of Campaign Finance. His current areas of practice include audits of financial statements and Single Audits for local governments and non-profit organizations, employee benefit plan audits, campaign finance reporting, and audits of financial statements subject to International Financial Reporting Standards.</p><p>A native of Tyler, Justin graduated from Grace Community School and completed his Bachelor of Business Administration degree in Accounting at the University of Texas at Tyler. In September of 2018, Justin obtained an AICPA Advanced Single Audit Certification.</p><p>Justin enjoys spending time with his family and friends, mixing and recording music, hunting, playing guitar, and sports. Justin is an active member of his church where he serves in various ministries, including the music team.</p>"
   started_on: 15-9-2017
   suffix:
   image_url: employees/justin.jpg
@@ -183,7 +183,53 @@
   suffix:
   image_url: employees/abby.jpg
 
+- name: Shelby Cannon
+  email: scannon
+  extension:
+  bio: "<p>Shelby is a native East Texan, born and raised in Longview. She recently graduated Magna Cum Laude from Baylor University with her Bachelor of Business Administration in Accounting and Master of Accountancy, and is currently pursuing her CPA certification. Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts as well as audits of financial statements for local governments and not-for-profit organizations.</p><p>Shelby enjoys reading, softball, traveling, and spending time with friends and family.</p>"
+  started_on: 15-1-2020
+  suffix:
+  image_url: employees/shelby.jpg
 
+- name: Jessica Caswell
+  email: jcaswell
+  extension:
+  bio: "<p>Jessica graduated from Stephen F. Austin State University with her Bachelors in Business Administration and her Masters in Professional Accountancy and is currently pursuing her CPA certification.</p><p>Her areas of practice include audits of financial statements for local governments, not-for-profit organizations, employee benefit plans, and audits of service organization controls (SOC).</p><p>Jessica enjoys spending time with her dog, family, and friends. She enjoys watching movies, reading, cooking, spending time at local coffee shops, and attending community events, to promote and support local businesses.</p>"
+  started_on: 15-1-2020
+  suffix:
+  image_url: employees/jessica.jpg
+
+- name: Jack Wright
+  email: jwright
+  extension:
+  bio: "<p>Jack was born in Amarillo, Texas and moved to Tyler in 2003. He is currently attending the University of Texas at Tyler and will graduate with both his Bachelor of Business Administration in Accounting and his Master of Accountancy at degrees in May of 2021. Jack will begin to pursue his CPA certification in the fall of 2020. </p><p>His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Jack is President of the Beta Alpha Psi Mu Kappa Chapter, a serving Board Member for the Educational Foundation for Women in Accounting, and a member of the Hispanic Professionals Association of Tyler.</p><p>Jack enjoys traveling with his wife, watching hockey, and spending time with his family. </p>"
+  started_on: 15-1-2020
+  suffix:
+  image_url: employees/jack.jpg
+
+- name: Cheryl Kirby
+  email: ckirby
+  extension:
+  bio: "<p>Cheryl joined the firm as a member of the Accounting and Reporting Services team. She has over 20 years of bookkeeping experience in both private sector and non-profit organizations. She recently received her certification as a ProAdvisor for QuickBooks Online. Her responsibilities include bookkeeping, preparation of financial statements, payroll tax returns and sales tax returns.</p><p>Cheryl was born in South Louisiana but has lived in East Texas most of her adult life. She is a member of Grace Community Church where she enjoys volunteering in the Audio/Visual Department. She also enjoys reading, being outdoors and spending time with her dogs.</p>"
+  started_on: 15-1-2020
+  suffix:
+  image_url: employees/cheryl.jpg
+
+- name: Stevie Clewett
+  email: sclewett
+  extension:
+  bio: "<p>Stevie was born and raised in the Katy, Texas area. She graduated Magna Cum Laude from the University of Texas at Tyler with her Bachelor of Business Administration in Accounting. She is currently pursuing her Master of Accountancy degree and thereafter, her CPA certification.</p><p>Her areas of practice include audits of financial statements for local governments and not-for-profit organizations, and internal and compliance audit engagements for financial institutions, medical clinics, and governmental entities.</p><p>Stevie enjoys playing golf, DIY projects, and spending time with friends.</p>"
+  started_on: 15-1-2020
+  suffix:
+  image_url: employees/stevie.jpg
+
+- name: Virginia Granados
+  email: vgranados
+  extension:
+  bio: "<p>Virginia is currently attending classes at The University of Texas at Tyler, and is a member of Beta Alpha Psi. She is currently working to obtain her Bachelor of Business Administration in Accounting, her Master of Accountancy degree, and thereafter plans to sit for the CPA exam. Her areas of practice include tax return preparation and tax processing support.</p><p>Virginia likes to travel, read, listen to music, and spend time with her friends and family. </p>"
+  started_on: 15-1-2020
+  suffix:
+  image_url: employees/virginia.jpg
 
 # - name:
 #   email:
