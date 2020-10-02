@@ -17,7 +17,9 @@ Web home for Prothro Wilhelmi and Company
 
 ### batch
 #### staff images (300 x 375)
-`mogrify -quality 90 -resize 300X375^ -crop 300X375 import/*.jpg`
+
+1. place images in import/staff
+2. `bin/import_staff_images`
 
 #### gallery images
 

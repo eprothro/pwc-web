@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+require 'fileutils'
+include FileUtils
+
+# path to your application root.
+APP_ROOT = File.expand_path('..', __dir__)
+
+def system!(*args)
+  system(*args) || abort("\n== Command #{args} failed ==")
+end
+
+chdir APP_ROOT do
+
+  system('bundle check') || system!('bundle install')
+  staff_path = "#{APP_ROOT}/import/staff"
+  Dir.glob('import/staff/*').select do |filename|
+    puts "Cropping #{filename}"
+    system! "mogrify -quality 90 -resize 300X375^ -crop 300X375 #{filename}"
+  end
+
+  puts "Optimizing images at #{staff_path}"
+  system! "/Applications/ImageOptim.app/Contents/MacOS/ImageOptim #{staff_path}"
+
+  Dir.glob('import/staff/*').select do |filename|
+    name = filename.split('/').last
+    puts "moving #{filename} to app/assets/images/employees/#{name}"
+    FileUtils.mv(filename, "app/assets/images/employees/#{name}")
+  end
+end
