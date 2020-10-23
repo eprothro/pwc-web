@@ -1,11 +1,11 @@
 PWCWeb::Application.routes.draw do
 
   constraints subdomain: "" do
-    match "(*any)" => redirect { |params, request| URI.parse(request.url).tap { |uri| uri.host = uri.host.prepend("www.") }.to_s }
+    match "(*any)" => redirect { |params, request| URI.parse(request.url).tap { |uri| uri.host = uri.host.prepend("www.") }.to_s }, via: :all
   end
 
-  resources :employees, path: 'staff'
-  resources :services
+  resources :employees, only: [:index, :show], path: 'staff'
+  resources :services, only: [:index, :show]
   resources :albums, only: [:index, :show]
   resources :events, only: [:show]
 
@@ -23,8 +23,6 @@ PWCWeb::Application.routes.draw do
   get 'signature' => 'pages#download_email_signature'
   get 'pay' => 'pages#pay'
 
-  mount_sextant if Rails.env.development?
-
-  match '*path', :to => 'pages#not_found'
+  match '*path', :to => 'pages#not_found', via: :all
 
 end

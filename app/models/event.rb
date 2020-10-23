@@ -1,5 +1,4 @@
 class Event < ActiveRecord::Base
-  attr_accessible :cover_asset, :name
 
   belongs_to :album
   has_many :images, dependent: :destroy

@@ -1,10 +1,6 @@
 class Service < ActiveRecord::Base
-  attr_accessible :name, :description
 
   belongs_to :service_group
-  has_and_belongs_to_many :contacts, class_name: 'Employee'
-
-  before_destroy { contacts.clear }
 
   validates_presence_of :name, :service_group
   validates_uniqueness_of :slug

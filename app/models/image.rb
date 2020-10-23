@@ -1,5 +1,4 @@
 class Image < ActiveRecord::Base
-  attr_accessible :asset
 
   belongs_to :event
 
