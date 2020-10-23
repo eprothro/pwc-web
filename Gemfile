@@ -40,12 +40,11 @@ gem 'sentry-raven',             '~> 0.15.6'
 #some stupid rails issue back on 3.2.x
 # gem 'test-unit',              '~> 3.0'
 
-gem 'sqlite3', '~> 1.3.9'
-
 group :development do
   gem 'better_errors'
   # gem 'mailcatcher',            '~> 0.5.10'
   gem 'quiet_assets'
+  gem 'sqlite3', '~> 1.3.9'
 end
 
 group :development, :test do
