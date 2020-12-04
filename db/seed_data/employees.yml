@@ -199,14 +199,6 @@
   suffix:
   image_url: employees/jessica.jpg
 
-- name: Jack Wright
-  email: jwright
-  extension:
-  bio: "<p>Jack was born in Amarillo, Texas and moved to Tyler in 2003. He is currently attending the University of Texas at Tyler and will graduate with both his Bachelor of Business Administration in Accounting and his Master of Accountancy at degrees in May of 2021. Jack will begin to pursue his CPA certification in the fall of 2020. </p><p>His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Jack is President of the Beta Alpha Psi Mu Kappa Chapter, a serving Board Member for the Educational Foundation for Women in Accounting, and a member of the Hispanic Professionals Association of Tyler.</p><p>Jack enjoys traveling with his wife, watching hockey, and spending time with his family. </p>"
-  started_on: 15-1-2020
-  suffix:
-  image_url: employees/jack.jpg
-
 - name: Cheryl Kirby
   email: ckirby
   extension:
