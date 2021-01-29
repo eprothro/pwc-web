@@ -1,0 +1,10 @@
+#!/bin/bash
+#!/bin/bash
+
+foreman -v > /dev/null 2>&1
+if [ $? -ne 0 ];then gem install foreman;fi
+
+echo
+echo "* Starting App Processes defined in Procfile.dev *"
+echo ""
+foreman start -f Procfile.dev
