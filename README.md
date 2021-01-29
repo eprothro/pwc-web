@@ -8,7 +8,22 @@ Web home for Prothro Wilhelmi and Company
 * Place images in appropriate locations in app/images
 * run `rake db:reset`
 
-## Deployment
+### Deployments
+
+Deployments are performed via pushes to Heroku git remotes.
+
+Add the snippet below to your `.git/config` file to set up remotes for easy `git` deploys and `heroku` command execution.
+
+```
+[heroku]
+  remote = stage
+[remote "stage"]
+  url = https://git.heroku.com/pwc-staging.git
+  fetch = +refs/heads/*:refs/remotes/heroku/*
+[remote "prod"]
+  url = https://git.heroku.com/pwc-production.git
+  fetch = +refs/heads/*:refs/remotes/heroku/*
+```
 
 * `bin/stage`
 * `bin/release`
