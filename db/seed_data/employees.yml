@@ -215,14 +215,6 @@
   suffix:
   image_url: employees/virginia.jpg
 
-- name: John LeGard
-  email: jlegard
-  extension:
-  bio: "<p>John joined the firm after moving back to native East Texas to be closer to his children and family. A graduate of the University of Texas at Tyler, he began his career in Houston with a large mid-size firm and one of the Big Four where he focused primarily on tax.  After several years in Houston, he moved back to Athens and worked with a local firm in the areas of tax and governmental audits.</p><p>With over 15 years of tax experience, John’s current areas of practice include tax preparation for individuals, partnerships, corporations, trusts, estates, and non-for-profit organizations. He also brings over 11 years of experience in the areas of financial statement audits for local governments, not-for-profit organizations, and employee benefit plans.</p><p>In his free time, John enjoys spending time with his four children, friends, and family doing anything from camping and hiking, to cooking out.  </p>"
-  started_on: 15-8-2020
-  suffix:
-  image_url: employees/john_l.jpg
-
 - name: Mark Jumes
   email: mark
   extension:
@@ -230,8 +222,6 @@
   started_on: 15-11-2020
   suffix:
   image_url: employees/mark_j.jpg
-
-
 
 # - name:
 #   email:
