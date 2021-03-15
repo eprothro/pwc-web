@@ -3,24 +3,22 @@
     .span12
       .panel.update.clearfix
         .row-fluid
-          .span12.px-1
+          .span12
             .text-center
-              %h4 COVID-19 Update - PW CARES
-            Stay up to date on the CARES Act (Paycheck Protection Program), the Families First Coronavirus Response Act (FFCRA), Individual and Business Tax Provisions, and more by reading
-            = link_to "PW's COVID-19 updates", coronavirus_path
+              %h4= link_to "Latest COVID Update - PW CARES", coronavirus_path, {style: "color:#eeeeee;"}
 
   .row-fluid
     .span4
       .panel.clearfix
         .row-fluid
-          .span12
+          .span10.offset1
             / = render "pages/home/careers"
             / = render "pages/home/hiring"
             = render "pages/home/lobby_closed"
 
       .panel.clearfix
         .row-fluid
-          .span10.offset1.text-center
+          .span10.offset1.text-center{style: "padding-top:15px; padding-bottom:15px"}
             .video-container
               %iframe.ad-video{width: "46", height: "35", allowfullscreen: true, frameborder: "0", src: 'https://www.youtube.com/embed/TTWmBAZWj9g?&modestbranding=0&controls=1&rel=0&showinfo=0'}
 
@@ -29,7 +27,7 @@
         = render partial: 'carousel', locals: {slides: @slides, employees: @employees}
       .panel.clearfix
         .row-fluid
-          .span12
+          .span10.offset1
             / = render "pages/home/careers"
             = render "pages/home/hiring"
 
