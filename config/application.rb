@@ -45,6 +45,9 @@ module PWCWeb
     # Enable escaping HTML in JSON.
     config.active_support.escape_html_entities_in_json = true
 
+    # migrate existing Rails 4.0 Marshal-serialized cookies into the new JSON-based format.
+    config.action_dispatch.cookies_serializer = :hybrid
+
     # Use SQL instead of Active Record's schema dumper when creating the database.
     # This is necessary if your schema can't be completely dumped by the schema dumper,
     # like if you have constraints or database-specific column types
@@ -52,6 +55,7 @@ module PWCWeb
 
     # Enable the asset pipeline
     config.assets.enabled = true
+    config.assets.quiet = true
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'

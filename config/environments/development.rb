@@ -26,6 +26,7 @@ PWCWeb::Application.configure do
 
   # Fallback to assets pipeline if a precompiled asset is missed
   config.assets.compile = true
+  config.assets.quiet = true
 
   # Do not compress assets
   config.assets.compress = false
