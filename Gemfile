@@ -3,6 +3,7 @@ HOST_OS = RbConfig::CONFIG['host_os']
 
 source 'https://rubygems.org'
 
+# see .tool-versions
 ruby '2.3.4'
 
 # framework
