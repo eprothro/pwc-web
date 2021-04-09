@@ -4,7 +4,7 @@ HOST_OS = RbConfig::CONFIG['host_os']
 source 'https://rubygems.org'
 
 # see .tool-versions
-ruby '2.3.4'
+ruby '2.4.10'
 
 # framework
 gem 'rails',                    '~> 4.0.13'
