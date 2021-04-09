@@ -10,7 +10,7 @@ ruby '2.4.10'
 gem 'rails',                    '~> 4.2.11'
 
 # web server
-gem 'puma',                     '~> 2.14.0'
+gem 'puma',                     '~> 5.2.2'
 
 # front-end
 gem 'bluecloth',                '~> 2.2.0'
