@@ -87,14 +87,6 @@
   suffix:
   image_url: employees/april.jpg
 
-- name: Chance Chapman
-  email: cchapman
-  extension: 157
-  bio: "<p>Chance was born and raised in Mount Pleasant, TX, and graduated Magna Cum Laude from Texas A&M University with a Bachelor of Science degree in Agricultural Economics and a Master’s degree in Agribusiness. Prior to joining the firm, his experience included personal banking for a regional bank in Bryan, Texas.</p><p>Chance currently holds the Certified Internal Auditor designation from the Institute of Internal Auditors and was promoted to Senior Risk Advisory Associate. His current areas of practice include internal audits, regulatory and compliance audits, and risk assessments. He primarily works with financial institutions, medical clinics, and government entities.</p><p>Chance and his wife, Alexis, enjoy dreaming up their next vacation, trying new restaurants, and spending time with friends and family.</p>"
-  started_on: 15-2-2018
-  suffix: CIA
-  image_url: employees/chance.jpg
-
 - name: Stephanie Gurrola
   email: sgurrola
   extension: 122
