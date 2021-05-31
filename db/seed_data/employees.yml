@@ -199,14 +199,6 @@
   suffix:
   image_url: employees/stevie.jpg
 
-- name: Virginia Granados
-  email: vgranados
-  extension:
-  bio: "<p>Virginia is currently attending classes at The University of Texas at Tyler, and is a member of Beta Alpha Psi. She is currently working to obtain her Bachelor of Business Administration in Accounting, her Master of Accountancy degree, and thereafter plans to sit for the CPA exam. Her areas of practice include tax return preparation and tax processing support.</p><p>Virginia likes to travel, read, listen to music, and spend time with her friends and family. </p>"
-  started_on: 15-1-2020
-  suffix:
-  image_url: employees/virginia.jpg
-
 - name: Mark Jumes
   email: mark
   extension:
