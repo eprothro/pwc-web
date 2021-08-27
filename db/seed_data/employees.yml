@@ -143,14 +143,6 @@
   suffix: CPA
   image_url: employees/erin.jpg
 
-- name: Daniel Medina
-  email: dmedina
-  extension: 000
-  bio: "<p>Daniel is a Tyler native and is currently attending classes at the University of Texas at Tyler. He is working to obtain a Bachelor of Business Administration in Accounting, a Master of Accountancy degree, and soon thereafter plans to sit for the CPA exam. He is a student member of the Texas Society of Certified Public Accountants and a member of the Institute of Management Accountants. His areas of practice include tax return preparation and tax processing support.</p><p>Daniel enjoys a balanced life between family, work, church, and friends. He spends his free time having a cup of coffee, cooking, reading, or going for a jog.</p>"
-  started_on: 15-1-2019
-  suffix:
-  image_url: employees/daniel.jpg
-
 - name: Amanda Halter
   email: ahalter
   extension: 000
@@ -206,6 +198,22 @@
   started_on: 15-11-2020
   suffix:
   image_url: employees/mark_j.jpg
+
+- name: Jennifer Coon
+  email: jcoon
+  extension:
+  bio: "<p>Jennifer holds a Bachelor of Business Administration and a Master of Professional Accountancy degree from Stephen F. Austin State University. She is a Certified Internal Auditor and Certified Fraud Examiner with a variety of experience in the fields of tax, assurance, consulting, and client accounting services. </p><p>Her areas of practice include internal audit and risk advisory services for financial institutions.  Jennifer is also an accounting, economics, and personal finance professor for a local junior college. </p><p>Jennifer, her husband Michael and their family enjoy traveling as much as they can. She enjoys spending time with family and being outdoors in her spare time.</p>"
+  started_on: 15-8-2021
+  suffix: CPA
+  image_url: employees/jcoon.jpg
+
+- name: Emma Little
+  email: elittle
+  extension:
+  bio: "<p>Emma graduated Magna Cum Laude from Harding University in Searcy, Arkansas with her Bachelor’s in Business Administration in Accounting. She is currently studying for her CPA certification. She moved home to Tyler to be close to family. </p><p>Her areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>In her free time, Emma enjoys traveling, reading, swimming, and spending time with friends and family. </p>"
+  started_on: 15-8-2021
+  suffix:
+  image_url: employees/elittle.jpg
 
 # - name:
 #   email:
