@@ -17,120 +17,76 @@ Our Office:
 Involvement Around Town:
   cover: team.png
   events:
-    - name: Literacy Council Spelling Bee
-      cover: bee/9.jpg
+    - name: LACC Banquet and Auction
+      cover: involvement/lacc auction/2.jpg
       photos:
-        - bee/1.jpg
-        - bee/2.jpg
-        - bee/3.jpg
-        - bee/4.jpg
-        - bee/5.jpg
-        - bee/6.jpg
-        - bee/7.jpg
-        - bee/8.jpg
-        - bee/9.jpg
-        - bee/10.jpg
-    - name: KTBB Scholastic All-Stars
-      cover: involvement/scholastic_1.jpg
+        - involvement/lacc auction/1.jpg
+        - involvement/lacc auction/2.jpg
+    - name: Spelling Bee
+      cover: involvement/bee/8.jpg
       photos:
-        - involvement/scholastic_1.jpg
-        - involvement/scholastic_2.jpg
-    - name: East Texas Crisis Center<br />Auto & Cycle Show
-      cover: car_show/1.jpg
+        - involvement/bee/1.jpg
+        - involvement/bee/2.jpg
+        - involvement/bee/3.jpg
+        - involvement/bee/4.jpg
+        - involvement/bee/5.jpg
+        - involvement/bee/6.jpg
+        - involvement/bee/7.jpg
+        - involvement/bee/8.jpg
+    - name: First Tee Skills Challenge
+      cover: involvement/tee/2.jpg
       photos:
-        - car_show/1.jpg
-        - car_show/2.jpg
-    - name: Call Her Blessed
-      cover: blessed/1.png
+        - involvement/tee/1.jpg
+        - involvement/tee/2.jpg
+    - name: TJC Foundation Golf Tournament
+      cover: involvement/tjc golf/1.jpg
       photos:
-        - blessed/1.png
-    - name: UT Tyler Million Dollar Hole In One
-      cover: million/all.jpg
+        - involvement/tjc golf/1.jpg
+    - name: SFA Accounting Fair
+      cover: involvement/sfa/cover.jpg
       photos:
-        - million/a.jpg
-        - million/file1-15.jpeg
-        - million/file2-12.jpeg
-        - million/file3-13.jpeg
-        - million/p.JPG
-        - million/w.JPG
-        - million/all.jpg
-        - million/file-23.jpeg
-    - name: Hope Blooms Brunch
-      cover: hope/1.jpg
+        - involvement/sfa/1.jpg
+        - involvement/sfa/2.jpg
+    - name: Longview Area Chamber of Commerce Golf Tournament
+      cover: involvement/longview golf/2.jpg
       photos:
-        - hope/1.jpg
-    - name: Fresh 15
-      cover: fresh/cover.jpg
+        - involvement/longview golf/1.jpg
+        - involvement/longview golf/2.jpg
+        - involvement/longview golf/3.jpg
+        - involvement/longview golf/4.jpg
+        - involvement/longview golf/5.jpg
+        - involvement/longview golf/6.jpg
+    - name: Leadership Live Luncheon
+      cover: involvement/leadership tyler/cover.jpg
       photos:
-        - fresh/4.jpg
-        - fresh/3.jpg
-        - fresh/2.jpg
-        - fresh/1.jpg
+        - involvement/leadership tyler/1.jpg
+        - involvement/leadership tyler/2.jpg
 Activities Around the Office:
   cover: breaks/20.JPG
   events:
-    - name: Leadership Tyler
-      cover: leadership/3.jpg
+    - name: Kona Ice – Summer Treat
+      cover: activities/kona/cover.jpg
       photos:
-        - leadership/1.jpg
-        - leadership/2.jpg
-        - leadership/3.jpg
-    - name: Lindale Area Golf Tournament
-      cover: lindale/cover.JPG
+        - activities/kona/1.jpg
+        - activities/kona/2.jpg
+        - activities/kona/3.jpg
+        - activities/kona/4.jpg
+    - name: Kristi’s 50th Birthday
+      cover: activities/birthday/5.jpg
       photos:
-        - lindale/IMG_7231.JPG
-        - lindale/IMG_7232.JPG
-        - lindale/IMG_7234.JPG
-    - name: Staff Outing
-      cover: outing/1.jpeg
+        - activities/birthday/1.jpg
+        - activities/birthday/2.jpg
+        - activities/birthday/3.jpg
+        - activities/birthday/4.jpg
+        - activities/birthday/5.jpg
+    - name: Tax Lunch at Fresh
+      cover: activities/tax lunch/3.jpg
       photos:
-        - outing/1.jpeg
-        - outing/2.jpeg
-        - outing/2.jpg
-        - outing/3.jpeg
-        - outing/4.jpeg
-        - outing/12.jpeg
-        - outing/6.png
-        - outing/7.jpeg
-        - outing/8.jpeg
-        - outing/9.jpeg
-        - outing/10.jpeg
-        - outing/11.jpeg
-        - outing/5.jpg
-        - outing/13.jpeg
-        - outing/14.jpg
-        - outing/15.jpg
-        - outing/16.jpeg
-        - outing/17.jpg
-        - outing/IMG_0277.jpg
-        - outing/IMG_0280.jpg
-        - outing/IMG_0282.jpg
-        - outing/IMG_0283.jpg
-    - name: Tax Lunch
-      cover: tax_lunch/file3-8.jpeg
-      photos:
-        - tax_lunch/file3-10.jpeg
-        - tax_lunch/file1-9.png
-        - tax_lunch/file1-10.jpeg
-        - tax_lunch/file1-11.jpeg
-        - tax_lunch/file3-8.jpeg
-        - tax_lunch/file3-9.jpeg
-        - tax_lunch/file1-12.jpeg
-    - name: Tax Breakfast
-      cover: tax_breakfast/cover.jpeg
-      photos:
-        - tax_breakfast/file4-5.jpeg
-        - tax_breakfast/file-12.jpeg
-        - tax_breakfast/file1-7.jpeg
-        - tax_breakfast/file2-6.jpeg
-        - tax_breakfast/file3-6.jpeg
+        - activities/tax lunch/1.jpg
+        - activities/tax lunch/2.jpg
+        - activities/tax lunch/3.jpg
     - name: March Madness
-      cover: march/1.jpg
+      cover: activities/march madness/1.jpg
       photos:
-        - march/1.jpg
-        - march/2.jpg
-    - name: Kona Ice with Southside Bank
-      cover: kona/file-44.jpeg
-      photos:
-        - kona/file-44.jpeg
-        - kona/file1-19.jpeg
+        - activities/march madness/1.jpg
+        - activities/march madness/2.jpg

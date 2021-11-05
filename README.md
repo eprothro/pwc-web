@@ -39,7 +39,7 @@ Add the snippet below to your `.git/config` file to set up remotes for easy `git
 #### gallery images
 
 horizontal are 500x333 (3:2)
-vertical are 375x500 (4:3)
+vertical are 375x500 (3:4)
 need 3 of same orientation/size per gallery row
 
 force width 500
@@ -53,7 +53,7 @@ force horizontal (crop center)
 force horizontal (crop bottom out)
 `mogrify -quality 90 -resize 500x333^ -crop 500x333+0+0 *.jpg`
 force horizontal (crop top out)
-`mogrify -quality 90 -resize 500x333^ -gravity North -crop 500x333+0+0 *.jpg`
+`mogrify -quality 90 -resize 500x333^ -gravity South -crop 500x333+0+0 *.jpg`
 
 force vertical (crop bottom out)
 `mogrify -quality 90 -resize 375x500^ -crop 375x500+0+0 *.jpg`

@@ -7,13 +7,19 @@
             .logo
               = image_tag 'logo_with_motto.svg'
         .visible-desktop
-          .logo.span7
+          .span3
+            .badge-container
+              = image_tag '2021_best_in_town_tyler.png'
+          .logo.span6
             = image_tag 'logo_with_motto.svg'
-          .office.span5
-            .office-container
-              .left-blur
-              = image_tag("office_crop_747x350.jpg")
-              .right-blur
+          .span3
+            .badge-container
+              = image_tag '2021_best_in_town_tyler.png'
+          -# .office.span5
+          -#   .office-container
+          -#     .left-blur
+          -#     = image_tag("office_crop_747x350.jpg")
+          -#     .right-blur
 
   .navbar
     .navbar-inner.pull-center

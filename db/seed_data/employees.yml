@@ -87,14 +87,6 @@
   suffix:
   image_url: employees/april.jpg
 
-- name: Stephanie Gurrola
-  email: sgurrola
-  extension: 122
-  bio: "<p>Stephanie joined the firm as the Receptionist and Administrative Assistant. With over 5 years of administrative and client relations experience, through her previous position with a large regional hospital, Stephanie has the unique ability to make people feel valued and welcome. She is currently attending Tyler Junior College working on her Associate’s Degree in Public Relations and Advertising.</p><p>Stephanie was born in Houston, and raised in Tyler. In her spare time she enjoys attending Houston sporting events (Go Astros, Texans, Rockets and Coogs!), traveling, and spending time with her friends, family, and favorite pup, Gus.</p>"
-  started_on: 15-11-2017
-  suffix:
-  image_url: employees/stephanie_g.jpg
-
 - name: John Mitchell
   email: jmitchell
   extension: 155
@@ -214,6 +206,30 @@
   started_on: 15-8-2021
   suffix:
   image_url: employees/elittle.jpg
+
+- name: Trent Pierce
+  email: tpierce
+  extension:
+  bio: "<p>Trent is a native East Texan, born and raised in Gilmer, Texas. He is currently attending Southern Arkansas University in Magnolia, Arkansas and will graduate with his Bachelor of Business Administration in Accounting in May of 2022. Soon thereafter, Trent plans to pursue his CPA certification.</p><p>His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Trent enjoys spending time with his fiancé, hunting, fishing, and watching baseball.</p>"
+  started_on: 15-9-2021
+  suffix:
+  image_url: employees/trent.jpg
+
+- name: Kyndall Morgan
+  email: kmorgan
+  extension:
+  bio: "<p>Kyndall, a graduate of Whitehouse High School, attended Cameron University in Lawton, Oklahoma, obtaining her Bachelor of Business Administration in Accounting. She was on the Women’s golf team for 5 years, winning several awards including 2017-2018 and 2020-2021 WGCA All-American Scholar. She is currently pursuing her Master of Business Administration and will graduate in December 2021. </p><p>His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Kyndall enjoys playing golf on the weekends with her parents, cooking, and spending time with family. </p>"
+  started_on: 15-9-2021
+  suffix:
+  image_url: employees/kyndall.jpg
+
+- name: Haley Fenley
+  email:
+  extension:
+  bio: "<p>Haley joined our firm as the receptionist and administrative assistant.  She graduated from Texas A&M University with a Bachelor of Arts in Communication and a minor in Agricultural Leadership Development. Her previous work experience was in vocational ministry at a local church in College Station, where she was involved in administration, worship, and youth ministry. She decided to relocate to Tyler to be near family and to enjoy interacting with and welcoming the clients of Prothro, Wilhelmi and Co.</p><p>She finds joy in spending time with family and friends, playing sports with her husband Rob, and cheering on the Texas Aggies (GIG'EM)! Haley loves playing board games and being outside with her black lab, Lucy. She is very thankful to be back in her hometown of Tyler and is excited for what the Lord has in store for her family.</p>"
+  started_on: 15-9-2021
+  suffix:
+  image_url: employees/haley.jpg
 
 # - name:
 #   email:
