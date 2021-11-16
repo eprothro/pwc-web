@@ -103,14 +103,6 @@
   suffix:
   image_url: employees/marsha.jpg
 
-- name: Parker Baskin
-  email: pbaskin
-  extension: 000
-  bio: "<p>Parker was born and raised in the Tyler area. He is currently attending the University of Texas at Tyler and will graduate with his Bachelor of Business Administration in Accounting in May of 2019. He plans to obtain his Master of Accountancy degree in the fall of 2020 and thereafter, to pursue his CPA certification.</p><p>His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Parker enjoys working out, playing golf, and hanging out with friends.</p>"
-  started_on: 15-8-2018
-  suffix:
-  image_url: employees/parker.jpg
-
 - name: Nancy Gray
   email: ngray
   extension: 000
