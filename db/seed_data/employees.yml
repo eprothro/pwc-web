@@ -183,14 +183,6 @@
   suffix: CPA
   image_url: employees/jcoon.jpg
 
-- name: Emma Little
-  email: elittle
-  extension:
-  bio: "<p>Emma graduated Magna Cum Laude from Harding University in Searcy, Arkansas with her Bachelor’s in Business Administration in Accounting. She is currently studying for her CPA certification. She moved home to Tyler to be close to family. </p><p>Her areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>In her free time, Emma enjoys traveling, reading, swimming, and spending time with friends and family. </p>"
-  started_on: 15-8-2021
-  suffix:
-  image_url: employees/elittle.jpg
-
 - name: Trent Pierce
   email: tpierce
   extension:
