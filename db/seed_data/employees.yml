@@ -103,14 +103,6 @@
   suffix:
   image_url: employees/marsha.jpg
 
-- name: Nancy Gray
-  email: ngray
-  extension: 000
-  bio: "<p>Nancy Gray holds a Bachelor of Business Administration in Accounting from The University of Texas at Tyler.  A licensed CPA with over thirty years of accounting experience in private industry with a local cable television multiple-system operator, she has held positions of Assistant Controller and Director.  Her experience includes accrual accounting, acquisition and divestiture accounting, audit compliance, data and metric analysis, financial reporting, procure to pay processes, SOX implementation and compliance, and supervision of numerous teams.</p><p>Nancy is a proud resident of Bullard, Texas and grew up in the Baptist church.  She is married to husband David and is the mother of two children, Natalie and Weston.  She loves spending time with family and friends, physical fitness and reading, as well as enjoying the great outdoors including traveling, boating, and sports.  </p><p>Nancy is grateful for the many blessings that God continues to provide for her and her family, all with impeccable timing and which never cease to amaze.</p><p>Job 5:9</p>"
-  started_on: 15-11-2018
-  suffix: CPA
-  image_url: employees/nancy.jpg
-
 - name: AJ Evans
   email: aevans
   extension: 000
@@ -159,14 +151,6 @@
   suffix:
   image_url: employees/jessica.jpg
 
-- name: Cheryl Kirby
-  email: ckirby
-  extension:
-  bio: "<p>Cheryl joined the firm as a member of the Accounting and Reporting Services team. She has over 20 years of bookkeeping experience in both private sector and non-profit organizations. She recently received her certification as a ProAdvisor for QuickBooks Online. Her responsibilities include bookkeeping, preparation of financial statements, payroll tax returns and sales tax returns.</p><p>Cheryl was born in South Louisiana but has lived in East Texas most of her adult life. She is a member of Grace Community Church where she enjoys volunteering in the Audio/Visual Department. She also enjoys reading, being outdoors and spending time with her dogs.</p>"
-  started_on: 15-1-2020
-  suffix:
-  image_url: employees/cheryl.jpg
-
 - name: Stevie Clewett
   email: sclewett
   extension:
@@ -200,12 +184,28 @@
   image_url: employees/kyndall.jpg
 
 - name: Haley Fenley
-  email:
+  email: hfenley
   extension:
   bio: "<p>Haley joined our firm as the receptionist and administrative assistant.  She graduated from Texas A&M University with a Bachelor of Arts in Communication and a minor in Agricultural Leadership Development. Her previous work experience was in vocational ministry at a local church in College Station, where she was involved in administration, worship, and youth ministry. She decided to relocate to Tyler to be near family and to enjoy interacting with and welcoming the clients of Prothro, Wilhelmi and Co.</p><p>She finds joy in spending time with family and friends, playing sports with her husband Rob, and cheering on the Texas Aggies (GIG'EM)! Haley loves playing board games and being outside with her black lab, Lucy. She is very thankful to be back in her hometown of Tyler and is excited for what the Lord has in store for her family.</p>"
   started_on: 15-9-2021
   suffix:
   image_url: employees/haley.jpg
+
+- name: Michael Daley
+  email: mdaley
+  extension:
+  bio: "<p>Michael is a native East Texan who originally attended East Texas Baptist University to play football and study kinesiology. He then transferred to the University of North Texas where he studied accounting and received his master’s degree in taxation. Michael is currently pursuing his CPA certification.</p><p>His areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Although Michael cherishes his memories from time spent in North Texas, he is very excited to return home to East Texas and serve the community he loves.</p>"
+  started_on: 15-12-2021
+  suffix:
+  image_url: employees/michael.jpg
+
+- name: Katelyn Williams
+  email: kwilliams
+  extension:
+  bio: "<p>Katelyn joined the firm as a Client Services Manager and serves as a member of the Accounting and Reporting Services (ARS) team.  She graduated from California State University – Northridge with a Bachelor of Science in Information Technology and is currently studying for the CPA exam. Katelyn has 10 years of experience in accounting including hospitality, manufacturing, real-estate, technology, and medical industries as well as with family offices, high net worth individuals and trusts. She enjoys teaching clients how to manage their books and simplify technology for everyday use.</p><p>Her current areas of practice include QuickBooks consulting and training, financial consulting and analysis, consulting and training on various software and integrations and developing and implementing best practices and procedures. Katelyn’s experience also includes preparation of financial statements, payroll and related payroll tax reporting and bookkeeping services.</p><p>Katelyn has recently moved to her farm in Athens where she raises livestock, gardens, and has many do-it-yourself projects in the works. Her hobbies also include horseback riding, photography, sewing and cooking. She is a member of Grace Bible Fellowship Canton where she helps with the technology team for Sunday services.</p><p>1 Timothy 4:12-16</p>"
+  started_on: 15-12-2021
+  suffix:
+  image_url: employees/katelyn.jpg
 
 # - name:
 #   email:
