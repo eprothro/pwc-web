@@ -58,9 +58,8 @@ force horizontal (crop top out)
 force vertical (crop bottom out)
 `mogrify -quality 90 -resize 375x500^ -crop 375x500+0+0 *.jpg`
 force vertical (crop center)
-`mogrify -quality 90 -resize 375x500^ -gravity Center -crop 375x500+0+0 *.jpg`
-force vertical (crop center)
-`mogrify -quality 90 -resize 375x500^ -gravity South -crop 375x500+0+0 *.jpg`
+`mogrify -quality 90 -geometry 500x375^ -gravity center -crop 500x375+0+0 -auto-orient *.jpg`
+
 
 #### covers
 

@@ -90,8 +90,30 @@ Activities Around the Office:
         - activities/tax lunch/1.jpg
         - activities/tax lunch/2.jpg
         - activities/tax lunch/3.jpg
-    - name: March Madness
-      cover: activities/march madness/1.jpg
+    - name: Roseman Wealth bringing Tom’s Coffee
+      cover: activities/coffee/3.jpg
       photos:
-        - activities/march madness/1.jpg
-        - activities/march madness/2.jpg
+        - activities/coffee/1.jpg
+        - activities/coffee/2.jpg
+        - activities/coffee/3.jpg
+        - activities/coffee/4.jpg
+    - name: 2021 Chili Cook Off
+      cover: activities/chili/3.jpg
+      photos:
+        - activities/chili/1.jpg
+        - activities/chili/2.jpg
+        - activities/chili/3.jpg
+    - name: 2021 Thanksgiving Luncheon
+      cover: activities/thanksgiving/cover.jpg
+      photos:
+        - activities/thanksgiving/1.jpg
+        - activities/thanksgiving/2.jpg
+        - activities/thanksgiving/3.jpg
+        - activities/thanksgiving/4.jpg
+        - activities/thanksgiving/5.jpg
+        - activities/thanksgiving/6.jpg
+    - name: 2021 Christmas Party
+      cover: activities/christmas/2.jpg
+      photos:
+        - activities/christmas/1.jpg
+        - activities/christmas/2.jpg
