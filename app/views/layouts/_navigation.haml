@@ -2,17 +2,24 @@
   .header
     =link_to root_path do
       .brand-container.row-fluid
-        .hidden-desktop
-          .mobile
-            .logo
-              = image_tag 'logo_with_motto.svg'
+        .mobile.hidden-desktop
+          .force3
+            .badge-container
+              = image_tag '30_years_logo.png'
+          .logo.force6
+            = image_tag 'logo_without_mottos.png'
+          .force3
+            .badge-container
+              = image_tag '30_years_logo.png'
         .visible-desktop
           .span3
+            .badge-container
+              = image_tag '30_years_logo.png'
           .logo.span6
             = image_tag 'logo_with_motto.svg'
           .span3
             .badge-container
-              = image_tag '2021_best_in_town.png'
+              = image_tag '30_years_logo.png'
           -# .office.span5
           -#   .office-container
           -#     .left-blur

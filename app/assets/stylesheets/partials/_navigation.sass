@@ -7,16 +7,6 @@
     max-width: 1400px
     margin-left: auto
     margin-right: auto
-  .mobile
-    .logo
-      width: 100%
-      margin: auto
-      max-width: 480px
-      svg, img
-        padding: 5px
-        margin-bottom: 5px
-        margin-top: 5px
-        float: none
 
   .logo
     text-align: center
@@ -26,8 +16,33 @@
 
   .badge-container
     img
-      max-height: 135px
-      padding: 15px
+      max-height: 173px
+      padding: 0px
+  .mobile
+    [class*="force"]
+      display: block
+      min-height: 30px
+      -webkit-box-sizing: border-box
+      -moz-box-sizing: border-box
+      box-sizing: border-box
+      float: left
+    .force3
+      width: 25%
+    .force6
+      width: 50%
+    .logo
+      margin: auto
+      max-width: 480px
+      padding-left: 5px
+      padding-right: 5px
+      svg, img
+        margin-bottom: 5px
+        margin-top: 5px
+        float: none
+    .badge-container
+      img
+        max-height: 135px
+        padding: 0px
 
   .office
     width: 45.2%

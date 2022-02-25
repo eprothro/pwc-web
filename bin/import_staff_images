@@ -15,7 +15,7 @@ chdir APP_ROOT do
   staff_path = "#{APP_ROOT}/import/staff"
   Dir.glob('import/staff/*').select do |filename|
     puts "Cropping #{filename}"
-    system! "mogrify -quality 90 -resize 300X375^ -crop 300X375 #{filename}"
+    system! "mogrify -quality 90 -resize 300X375^ -crop 300X375+0+0 +repage #{filename}"
   end
 
   puts "Optimizing images at #{staff_path}"
