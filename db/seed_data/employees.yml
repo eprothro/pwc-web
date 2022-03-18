@@ -215,6 +215,14 @@
   suffix:
   image_url: employees/terri.jpg
 
+- name: Matt Fate
+  email: mfate
+  extension:
+  bio: "<p>Matt joined the firm as an Associate in Risk Advisory. He joins the firm with a diverse background. He has several years of accounting experience, was previously an Independent Petroleum Landman, and he continues to hold his real estate license, working with his best team member, his wife, Whitney. Matt also spent several years as an Assistant Golf Professional at two local golf clubs.  </p><p>His areas of practice include audits of financial statements for local governments and not-for-profit organizations, and internal and compliance audit engagements for financial institutions, medical clinics, and governmental entities.</p><p>Matt was born in Ohio, but he has lived in Tyler most his life (his wife says he is a Texan now).  He loves spending family time with Whitney and three sons, Riley, Sam, and Griffin.  Matt enjoys playing golf, fishing, and watching sports. You may see him coaching his boys on the baseball field or golf course.</p>"
+  started_on: 22-3-2022
+  suffix:
+  image_url: employees/matt.jpg
+
 # - name:
 #   email:
 #   extension:
