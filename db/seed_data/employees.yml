@@ -215,6 +215,22 @@
   suffix:
   image_url: employees/matt.jpg
 
+- name: Rosa Perez
+  email: rperez
+  extension:
+  bio: "<p>Rosa, an East Texas native who grew up in Jacksonville, is currently attending Stephen F. Austin State University and plans to graduate with her Bachelor of Business Administration in Accounting. She then plans to pursue her CPA certification.</p><p>Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Rosa attends Our Lady of Sorrows Church and enjoys reading, exercising, and spending time with friends and family.</p><p>Luke 1:37</p>"
+  started_on: 22-5-2022
+  suffix:
+  image_url: employees/rosa.jpg
+
+- name: Tom Walter
+  email: twalter
+  extension:
+  bio: "<p>Tom graduated from Oklahoma State University in Stillwater, Oklahoma with a bachelor's in Business Administration in Accounting.  He began his career at an International Accounting Firm in Houston, Texas where he specialized in audit engagements of large and mid-sized companies. He has previous experience as a Financial Controller at several companies in the Dallas area and owned his own printing company in Addison, Texas for twelve years. He has performed as a team leader on several software installations and has a wide range of experience in accounting and finance.</p><p>His areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>In his free time, Tom enjoys serving at Grace Creek Community Church and volunteers at Tyler State Park. He enjoys hiking, 10 speed biking, and spending time with his friends and family.</p>"
+  started_on: 24-5-2022
+  suffix:
+  image_url: employees/tom-w.jpg
+
 # - name:
 #   email:
 #   extension:

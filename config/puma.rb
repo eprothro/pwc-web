@@ -17,6 +17,8 @@ threads Integer(ENV['WEB_THREADS_PER_FORK_MIN']), Integer(ENV['WEB_THREADS_PER_F
 preload_app!
 
 rackup      DefaultRackup
+puts "***"
+puts ENV['PORT']
 port        ENV['PORT']     || 3000
 environment ENV['RACK_ENV'] || 'development'
 
