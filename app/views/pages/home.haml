@@ -10,12 +10,6 @@
             / = render "pages/home/lobby_closed"
             = render "pages/home/tax_schedule"
 
-      .panel.clearfix
-        .row-fluid
-          .span10.offset1.text-center{style: "padding-top:15px; padding-bottom:15px"}
-            .video-container
-              %iframe.ad-video{allowfullscreen: true, frameborder: "0", allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", src: 'https://www.youtube.com/embed/oUZENUrSu3Y?modestbranding=1&autohide=1&controls=1&rel=0&showinfo=0'}
-
     .span4
       .hero-unit.clearfix.text-center
         = render partial: 'carousel', locals: {slides: @slides, employees: @employees}
@@ -24,6 +18,11 @@
           .span10.offset1
             / = render "pages/home/careers"
             = render "pages/home/hiring"
+      .panel.clearfix
+        .row-fluid
+          .span10.offset1.text-center{style: "padding-top:15px; padding-bottom:15px"}
+            .video-container
+              %iframe.ad-video{allowfullscreen: true, frameborder: "0", allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", src: 'https://www.youtube.com/embed/oUZENUrSu3Y?modestbranding=1&autohide=1&controls=1&rel=0&showinfo=0'}
 
     .span4
       .panel.clearfix
