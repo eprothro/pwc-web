@@ -22,7 +22,8 @@
         .row-fluid
           .span10.offset1.text-center{style: "padding-top:15px; padding-bottom:15px"}
             .video-container
-              %iframe.ad-video{allowfullscreen: true, frameborder: "0", allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", src: 'https://www.youtube.com/embed/oUZENUrSu3Y?modestbranding=1&autohide=1&controls=1&rel=0&showinfo=0'}
+              - video_id = "cNiUtOlLENY"
+              %iframe.ad-video{allowfullscreen: true, frameborder: "0", allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture", src: "https://www.youtube.com/embed/#{video_id}?modestbranding=1&autohide=1&controls=1&rel=0&showinfo=0"}
 
     .span4
       .panel.clearfix
