@@ -87,14 +87,6 @@
   suffix:
   image_url: employees/april.jpg
 
-- name: John Mitchell
-  email: jmitchell
-  extension: 155
-  bio: "<p>John joined the firm after he graduated Summa Cum Laude from the University of Texas at Tyler with his Bachelors of Business Administration majoring in both Accounting and Finance in May 2018 . He received his CPA certification in September of 2019, and is currently a member of the Texas Society of Certified Public Accountants. His areas of practice include tax preparation for individuals, partnerships, corporations, trusts, and non-profits.</p><p>John is a native East Texan, born in Longview. His military service, along with the service of his wife and father, have often caused them to leave East Texas but they always return home. </p><p>John, and his wife Joanna, moved to Tyler in March of 2017. They enjoy Caldwell Zoo, games, and sitting outside with books and tea.</p>"
-  started_on: 15-2-2018
-  suffix: CPA
-  image_url: employees/john.jpg
-
 - name: Marsha Ballard
   email: mballard
   extension: 127
