@@ -159,14 +159,6 @@
   suffix: CIA, CFE
   image_url: employees/jcoon.jpg
 
-- name: Trent Pierce
-  email: tpierce
-  extension:
-  bio: "<p>Trent is a native East Texan, born and raised in Gilmer, Texas. He is currently attending Southern Arkansas University in Magnolia, Arkansas and will graduate with his Bachelor of Business Administration in Accounting in May of 2022. Soon thereafter, Trent plans to pursue his CPA certification.</p><p>His areas of practice include audits of financial statements for local governments and not-for-profit organizations.</p><p>Trent enjoys spending time with his fiancé, hunting, fishing, and watching baseball.</p>"
-  started_on: 15-9-2021
-  suffix:
-  image_url: employees/trent.jpg
-
 - name: Haley Fenley
   email: hfenley
   extension:
@@ -174,14 +166,6 @@
   started_on: 15-9-2021
   suffix:
   image_url: employees/haley.jpg
-
-- name: Michael Daley
-  email: mdaley
-  extension:
-  bio: "<p>Michael is a native East Texan who originally attended East Texas Baptist University to play football and study kinesiology. He then transferred to the University of North Texas where he studied accounting and received his master’s degree in taxation. Michael is currently pursuing his CPA certification.</p><p>His areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Although Michael cherishes his memories from time spent in North Texas, he is very excited to return home to East Texas and serve the community he loves.</p>"
-  started_on: 15-12-2021
-  suffix:
-  image_url: employees/michael.jpg
 
 - name: Matt Fate
   email: mfate
