@@ -75,4 +75,4 @@ force vertical (crop center)
 convert test.jpg -resize x333 -quality 90 -background '#9a8b7a' -gravity center -extent 500x333 test.jpg
 
 ##### slideshow (vertical)
-convert test.jpg -resize 300 -quality 90 -background '#675b4d' -gravity center -extent 300x376 test.jpg
+convert test.jpg -resize 300 -quality 100 -background '#675b4d' -gravity center -extent 300x376 test.jpg

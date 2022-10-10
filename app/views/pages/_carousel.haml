@@ -2,20 +2,23 @@
 #myCarousel.carousel.slide
   .carousel-inner
     = link_to about_path, class: 'item partners active' do
-      .title
+      .title.partners-title
         PW Partners
       .image
         = image_tag('slideshow/partners_300x376.jpg')
       .names-container
         .names
-          .name Bob Roseman, CPA
-          .name.text-right Tom Prothro, CPA
-          .name Kristi Moore, CPA
-          .name.text-right Walter Wilhelmi, CPA
+          .row-fluid
+            .span6
+              Walter Wilhelmi, CPA
+            .span6
+              Tom Prothro, CPA
+          .row-fluid
+            .span12
+              Kristi Moore, CPA
 
-    - employees.each do |e|
-      = link_to employee_path(e), class: 'item employee' do
-        = image_tag(e.image_url)
-        .name
-          = e.name
-
+    -# - employees.each do |e|
+    -#   = link_to employee_path(e), class: 'item employee' do
+    -#     = image_tag(e.image_url)
+    -#     .name
+    -#       = e.name
