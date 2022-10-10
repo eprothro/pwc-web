@@ -191,6 +191,22 @@
   suffix:
   image_url: employees/tom-w.jpg
 
+- name: Amie Regester
+  email: aregester
+  extension:
+  bio: "<p>Amie, a native of Tyler, will graduate from the University of Texas at Tyler with a Bachelor of Business Administration in Accounting. She will then obtain her Master of Business Administration (MBA). Upon achieving her MBA, she plans to pursue her CPA license.</p><p>Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>As the Campus Outreach Leader for Delight Ministries at UTT, and as a member at CrossPointe Church, where she serves on the welcoming team, Amie loves actively serving her community and seeing others grow in their walk with Christ. She enjoys quality time with friends and family, reading, and learning how to play tennis.</p><p>Jeremiah 29:11</p>"
+  started_on: 15-7-2022
+  suffix:
+  image_url: employees/amie.jpg
+
+- name: Jaclyn Snelling
+  email: jsnelling
+  extension:
+  bio: "<p>Jaclyn joined the firm as a member of the Accounting and Reporting Services (ARS) team. She is currently enrolled at Tyler Junior College and is working towards her Associates in Business Administration and her Bookkeeping Certification. </p><p>Her areas of practice include bookkeeping, preparation of financial statements, payroll tax returns, sales tax returns and property renditions.</p><p>Originally from Haskell, Texas, Jaclyn relocated to Tyler in 2020, and has fallen in love with East Texas. In her free time, Jaclyn enjoys playing with her German Shepherd, painting, and listening to music.</p>"
+  started_on: 15-7-2022
+  suffix:
+  image_url: employees/jaclyn.jpg
+
 - name: Garrett Pendergast
   email: gpendergast
   extension:
