@@ -191,6 +191,14 @@
   suffix:
   image_url: employees/tom-w.jpg
 
+- name: Garrett Pendergast
+  email: gpendergast
+  extension:
+  bio: "<p>Garrett is a graduate of Texas A&M University. Currently he is pursuing his Masters of Business Administration at the University of North Texas with plans to pursue his CPA certification soon after.</p><p>Garrett enjoys spending time with friends and family, doing anything outdoors, playing sports, and watching football.</p>"
+  started_on: 15-9-2022
+  suffix:
+  image_url: employees/garrett.jpg
+
 # - name:
 #   email:
 #   extension:
