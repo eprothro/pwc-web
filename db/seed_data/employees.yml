@@ -72,13 +72,6 @@
   started_on: 15-3-2013
   image_url: employees/kristen.jpg
 
-- name: Barbara Opstedal
-  email: bopstedal
-  extension: 117
-  bio: "<p>Barbara joined the firm as the Billing Coordinator and Administrative Assistant. She brings over 40 years of experience as an office manager and full charge bookkeeper. Her distinctive ability to multi-task and organize provide tremendous internal support for the staff and partners of the firm.</p><p>She was born in Illinois, and grew up in Albuquerque, New Mexico. She moved to Tyler in 1979 where she enjoys time with her three beautiful daughters and their families. She has 6 precious grandchildren, 1 great-grandson and 2 cats. She enjoys arts and crafts, games, reading and spending time with her family and friends.</p>"
-  started_on: 15-11-2013
-  image_url: employees/barbara.jpg
-
 - name: April Ocker
   email: aocker
   extension: 119
@@ -142,14 +135,6 @@
   started_on: 15-1-2020
   suffix:
   image_url: employees/jessica.jpg
-
-- name: Stevie Clewett
-  email: sclewett
-  extension:
-  bio: "<p>Stevie was born and raised in the Katy, Texas area. She graduated Magna Cum Laude from the University of Texas at Tyler with her Bachelor of Business Administration in Accounting. She is currently pursuing her Master of Accountancy degree and thereafter, her CPA certification.</p><p>Her areas of practice include audits of financial statements for local governments and not-for-profit organizations, and internal and compliance audit engagements for financial institutions, medical clinics, and governmental entities.</p><p>Stevie enjoys playing golf, DIY projects, and spending time with friends.</p>"
-  started_on: 15-1-2020
-  suffix:
-  image_url: employees/stevie.jpg
 
 - name: Jennifer Coon
   email: jcoon
