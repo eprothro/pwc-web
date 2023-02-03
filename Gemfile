@@ -4,7 +4,7 @@ HOST_OS = RbConfig::CONFIG['host_os']
 source 'https://rubygems.org'
 
 # see .tool-versions
-ruby '2.4.10'
+ruby '2.7.6'
 
 # framework
 gem 'rails',                    '~> 4.2.11'
@@ -22,11 +22,14 @@ gem 'uglifier',                 '~> 1.3.0'
 gem 'jquery-rails',             '~> 3.1.5'
 
 # back-end
-gem 'pg',                       '~> 0.18.4'
+gem 'pg',                       '~> 0.18'
 gem 'rack-rewrite',             '~> 1.3.3'
 gem 'rack-timeout',             '~> 0.0.3'
 gem 'rails_12factor',           '~> 0.0.3'
 gem 'sentry-raven',             '~> 0.15.6'
+
+# workarounds
+gem 'bigdecimal', '1.3.5'
 
 
 group :development do
