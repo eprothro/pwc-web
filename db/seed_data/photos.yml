@@ -15,19 +15,15 @@ Our Office:
         - office/lights.jpg
         - office/snow.jpg
 Involvement Around Town:
-  cover: involvement/bee/8.jpg
+  cover: involvement/cover.jpg
   events:
     - name: Spelling Bee
-      cover: involvement/bee/8.jpg
+      cover: involvement/bee/cover.jpg
       photos:
         - involvement/bee/1.jpg
         - involvement/bee/2.jpg
         - involvement/bee/3.jpg
-        - involvement/bee/4.jpg
-        - involvement/bee/5.jpg
-        - involvement/bee/6.jpg
-        - involvement/bee/7.jpg
-        - involvement/bee/8.jpg
+        - involvement/bee/cover.jpg
     - name: First Tee Skills Challenge
       cover: involvement/tee/2.jpg
       photos:
@@ -55,13 +51,16 @@ Involvement Around Town:
 Activities Around the Office:
   cover: breaks/20.JPG
   events:
-    - name: 2021 Chili Cook Off
-      cover: activities/chili/3.jpg
+    - name: Chili Cook Off
+      cover: activities/chili/cover.jpg
       photos:
         - activities/chili/1.jpg
         - activities/chili/2.jpg
         - activities/chili/3.jpg
-    - name: 2021 Thanksgiving Luncheon
+        - activities/chili/4.jpg
+        - activities/chili/5.jpg
+        - activities/chili/cover.jpg
+    - name: Thanksgiving Luncheon
       cover: activities/thanksgiving/cover.jpg
       photos:
         - activities/thanksgiving/1.jpg
@@ -70,8 +69,20 @@ Activities Around the Office:
         - activities/thanksgiving/4.jpg
         - activities/thanksgiving/5.jpg
         - activities/thanksgiving/6.jpg
-    - name: 2021 Christmas Party
-      cover: activities/christmas/2.jpg
+        - activities/thanksgiving/cover.jpg
+    - name: Christmas Party
+      cover: activities/christmas/cover.jpg
       photos:
         - activities/christmas/1.jpg
         - activities/christmas/2.jpg
+        - activities/christmas/cover.jpg
+    - name: Staff Appreciation Day
+      cover: activities/appreciation/cover.jpg
+      photos:
+        - activities/appreciation/cover.jpg
+        - activities/appreciation/2.jpg
+        - activities/appreciation/3.jpg
+        - activities/appreciation/4.jpg
+        - activities/appreciation/5.jpg
+        - activities/appreciation/6.jpg
+        - activities/appreciation/7.jpg

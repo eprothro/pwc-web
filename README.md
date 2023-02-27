@@ -42,6 +42,10 @@ horizontal are 500x333 (3:2)
 vertical are 375x500 (3:4)
 need 3 of same orientation/size per gallery row
 
+take into photos app and crop to 3:2 or 4:3
+then copy to import directory and mogrify
+imageoptim then move into asset location
+
 force width 500
 `mogrify -quality 90 -resize 500 *.jpg`
 force height 375
