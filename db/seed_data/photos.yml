@@ -17,11 +17,6 @@ Our Office:
 Involvement Around Town:
   cover: involvement/bee/8.jpg
   events:
-    - name: LACC Banquet and Auction
-      cover: involvement/lacc auction/2.jpg
-      photos:
-        - involvement/lacc auction/1.jpg
-        - involvement/lacc auction/2.jpg
     - name: Spelling Bee
       cover: involvement/bee/8.jpg
       photos:
@@ -52,15 +47,6 @@ Involvement Around Town:
       photos:
         - involvement/sfa/1.jpg
         - involvement/sfa/2.jpg
-    - name: Lindale Area Chamber of Commerce Golf Tournament
-      cover: involvement/longview golf/2.jpg
-      photos:
-        - involvement/longview golf/1.jpg
-        - involvement/longview golf/2.jpg
-        - involvement/longview golf/3.jpg
-        - involvement/longview golf/4.jpg
-        - involvement/longview golf/5.jpg
-        - involvement/longview golf/6.jpg
     - name: Leadership Live Luncheon
       cover: involvement/leadership tyler/cover.jpg
       photos:
@@ -69,34 +55,6 @@ Involvement Around Town:
 Activities Around the Office:
   cover: breaks/20.JPG
   events:
-    - name: Kona Ice – Summer Treat
-      cover: activities/kona/cover.jpg
-      photos:
-        - activities/kona/1.jpg
-        - activities/kona/2.jpg
-        - activities/kona/3.jpg
-        - activities/kona/4.jpg
-    - name: Kristi’s 50th Birthday
-      cover: activities/birthday/5.jpg
-      photos:
-        - activities/birthday/1.jpg
-        - activities/birthday/2.jpg
-        - activities/birthday/3.jpg
-        - activities/birthday/4.jpg
-        - activities/birthday/5.jpg
-    - name: Tax Lunch at Fresh
-      cover: activities/tax lunch/3.jpg
-      photos:
-        - activities/tax lunch/1.jpg
-        - activities/tax lunch/2.jpg
-        - activities/tax lunch/3.jpg
-    - name: Roseman Wealth Brings Tom’s Coffee
-      cover: activities/coffee/3.jpg
-      photos:
-        - activities/coffee/1.jpg
-        - activities/coffee/2.jpg
-        - activities/coffee/3.jpg
-        - activities/coffee/4.jpg
     - name: 2021 Chili Cook Off
       cover: activities/chili/3.jpg
       photos:
