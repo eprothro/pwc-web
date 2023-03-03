@@ -201,14 +201,6 @@
   suffix:
   image_url: employees/garrett.jpg
 
-- name: Melanie Garcia
-  email: mgarcia
-  extension:
-  bio: "<p>Melanie is a graduate of the University of Texas at Tyler with a Bachelor’s degree in Accounting. She brings with her over 20 years of experience in the financial services industry.</p><p>Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts. She will also assist with internal and compliance audit engagements for financial institutions, medical clinics, and governmental entities.  </p><p>She is a lifelong East Texas resident and enjoys spending time with her husband, Jose and their two daughters, Kaitlyn and Kelsey.  Melanie loves watching the Dallas Cowboys and Kansas City Chiefs.</p><p>She is a member of Rose Heights Church in Tyler.</p>"
-  started_on: 15-1-2023
-  suffix:
-  image_url: employees/melanie.jpg
-
 - name: Amber Howard
   email: ahoward
   extension:
@@ -225,7 +217,6 @@
   suffix:
   image_url: employees/david.jpg
 
-
 - name: Kyndall Morgan
   email: kmorgan
   extension:
@@ -233,6 +224,30 @@
   started_on: 15-1-2023
   suffix:
   image_url: employees/kyndall.jpg
+
+- name: Jackson Peer
+  email: jpeer
+  extension:
+  bio: "<p>Jackson is a graduate from the University of Texas at Tyler and is currently pursuing his Master of Accountancy and thereafter plans to sit for the CPA exam.</p><p>His areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Jackson is a member of South Spring Baptist Church, where he serves as a middle school adult leader in the youth group. He is involved with Boathouse Ministry, a local college group, where he serves on the welcome team. Jackson loves to play all kinds of sports including pickleball, volleyball, and spikeball. He enjoys having time with his friends and taking fun and spontaneous trips with them. He is very thankful for the community the Lord has placed around him in Tyler. </p>"
+  started_on: 18-1-2023
+  suffix:
+  image_url: employees/jackson_p.jpg
+
+- name: Brianna Brandenburg
+  email: bbrandenburg
+  extension:
+  bio: "<p>Brianna is an East Texas native who grew up in Lindale and currently attends Tyler Junior College.  She plans to complete her general business degree and will continue her studies to obtain a degree in accounting.</p><p>She has joined the firm as an administrative assistant and receptionist.</p><p>Brianna enjoys spending time with family, friends, and her puppy Chupy. She enjoys Sunday morning church and afternoon football. </p><p>Psalm 121:7-8</p>"
+  started_on: 7-2-2023
+  suffix:
+  image_url: employees/brianna_b.jpg
+
+- name: Brant Brister
+  email: bbrister
+  extension:
+  bio: "<p>Brant joined the firm after working several years as an Investment Analyst in Dallas, Texas. He performed comprehensive quantitative and qualitative analysis on current and prospective fund managers, including research and recommendations regarding fund structure and composition. Brant graduated from Oklahoma State University with a bachelor’s degree in finance with a minor in accounting. <p><p>His areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.<p><p>Brant and his wife Kaylee are actively involved in the local church and community. He also enjoys football, golf and the outdoors.<p>"
+  started_on: 22-2-2023
+  suffix:
+  image_url: employees/brant_b.jpg
 
 # - name:
 #   email:
