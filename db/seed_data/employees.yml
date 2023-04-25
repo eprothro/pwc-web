@@ -72,7 +72,6 @@
   started_on: 15-3-2013
   image_url: employees/kristen.jpg
 
-
 - name: April Cloud
   email: acloud
   extension: 119
@@ -192,14 +191,6 @@
   started_on: 15-9-2022
   suffix:
   image_url: employees/garrett.jpg
-
-- name: Amber Howard
-  email: ahoward
-  extension:
-  bio: "<p>Amber is a senior at The University of Texas at Tyler, completing a Bachelor of Business Administration in Accounting. She will continue her studies by obtaining her Master of Accountancy and then plans to sit for the CPA exam.</p><p>She graduated from Troup High School and earned an associate degree in general studies at Tyler Junior College. She has 9 years of previous experience in the automotive industry where she performed various office administration skills.</p><p>Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts. She will also perform various administrative duties for the firm.</p><p>Amber is a lifelong East Texas native. She is married to the love of her life, John, and together they attend Flint Baptist Church. Her spare time is spent with her loved ones and being outdoors at her family farm in Troup, Texas. She gives all glory to God.</p>"
-  started_on: 15-1-2023
-  suffix:
-  image_url: employees/amber.jpg
 
 - name: David Porter
   email: dporter
