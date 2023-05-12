@@ -168,14 +168,6 @@
   suffix:
   image_url: employees/rosa.jpg
 
-- name: Amie Regester
-  email: aregester
-  extension:
-  bio: "<p>Amie, a native of Tyler, will graduate from the University of Texas at Tyler with a Bachelor of Business Administration in Accounting. She will then obtain her Master of Business Administration (MBA). Upon achieving her MBA, she plans to pursue her CPA license.</p><p>Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>As the Campus Outreach Leader for Delight Ministries at UTT, and as a member at CrossPointe Church, where she serves on the welcoming team, Amie loves actively serving her community and seeing others grow in their walk with Christ. She enjoys quality time with friends and family, reading, and learning how to play tennis.</p><p>Jeremiah 29:11</p>"
-  started_on: 15-7-2022
-  suffix:
-  image_url: employees/amie.jpg
-
 - name: Jaclyn Snelling
   email: jsnelling
   extension:
