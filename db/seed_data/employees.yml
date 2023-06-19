@@ -112,14 +112,6 @@
   suffix:
   image_url: employees/amanda.jpg
 
-- name: Abby Fair
-  email: afair
-  extension:
-  bio: "<p>Abby graduated Summa Cum Laude from Harding University in Searcy, Arkansas with her Bachelor of Business Administration in Accounting. She moved back home to East Texas to be near family in 2019 and has since obtained her CPA license. Abby was recently promoted to Assurance Senior.</p><p>Her areas of practice include audits on financial statements for local governments, not-for-profit organizations, and employee benefit plans. </p><p>Abby attends a local church of Christ and enjoys spending time on her family’s ranch and cheering on the Fightin’ Texas Aggie football team!</p>"
-  started_on: 15-9-2019
-  suffix: CPA
-  image_url: employees/abby.jpg
-
 - name: Shelby Cannon
   email: scannon
   extension:
