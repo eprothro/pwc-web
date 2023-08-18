@@ -11,7 +11,7 @@
 - name: Walter Wilhelmi
   email: walter
   extension: 112
-  bio: "<p>Walter joined the firm on August 1, 1999 after working for a large regional firm. He became a partner in 2002. His areas of practice include financial statement audits, internal audit and risk advisory consulting for small and large companies, governmental entities, financial institutions, health care organizations, and non-profit organizations. He performs tax planning and compliance services for individuals, corporations, partnerships and trusts. Additionally, he performs forensic and fraud examinations for a diverse client base.</p><p>His love for Tyler is reflected in his community involvement. He is a founding board member of the First Tee of Greater Tyler. This organization, founded in 2011, teaches children and youth, life skills and core values through the game of golf.</p><p>Walter currently serves as Treasurer on the board of directors of the Lindale Area Chamber of Commerce, and he has served many years on the Tyler Junior College Foundation Scholarship Golf Tournament Committee. He continues to serve on the steering committee of the Earl Campbell Tyler Rose Award. Established in 2012 by the Tyler Chamber of Commerce, the award recognizes the nation’s offensive player of the year and honors the legacy of Earl Campbell.</p><p>He served two terms on the board of directors of the Tyler Economic Development Council, as well as the Tyler 1st Steering Committee. He served on the City’s original 'Tyler 21 Comprehensive Plan' Steering Committee and chaired the Parks, Lakes & Open Space working group.</p><p>Walter is past Chairman of the Board of the Tyler Area Chamber of Commerce, he served the Chamber as Treasurer, and chaired the Membership Services Council. He was a member of the Chamber’s contact club for 7 years and earned the Johnny Wright Life Membership Award. He is past Chairman of SPORTyler, an organization that promotes sports tourism in the Tyler area. Walter is also a founding board member of the Hispanic Business Alliance whose mission is to foster and grow Hispanic owned businesses in the Tyler area. He is a member of Leadership Tyler Class X.</p><p>Walter grew up in Paris, Texas, graduated from Texas Tech University \"Wreck 'em\", and has lived in Tyler since January 1988. He and his wife Ashley have three children, Riley, Madison and Christopher, and three granddaughters, Juliana, Avery, and Mia Claire. Walter and Ashley are active members of Marvin United Methodist Church in Tyler. He enjoys spending time with his family and playing golf.</p><p>Walter is very thankful for the opportunities God has given him to serve our community, but he is most thankful for the opportunities to share his faith in his Lord and Savior Jesus Christ. He realizes that he could not have accomplished the above without God’s grace and strength. 2 Corinthians 12:9</p><p>\"But seek first the kingdom of God and His righteousness, and all these things will be added to you.\" — Matthew 6:33</p>"
+  bio: '<p>Walter joined the firm on August 1, 1999 after working for a large regional firm. He became a partner in 2002. His areas of practice include financial statement audits, internal audit and risk advisory consulting for small and large companies, governmental entities, financial institutions, health care organizations, and non-profit organizations. He performs tax planning and compliance services for individuals, corporations, partnerships and trusts. Additionally, he performs forensic and fraud examinations for a diverse client base.</p><p>His love for Tyler is reflected in his community involvement. He is a founding board member of the First Tee of Greater Tyler. This organization, founded in 2011, teaches children and youth, life skills and core values through the game of golf.</p><p>Walter currently serves as Treasurer on the board of directors of the Lindale Area Chamber of Commerce, and he has served many years on the Tyler Junior College Foundation Scholarship Golf Tournament Committee. He continues to serve on the steering committee of the Earl Campbell Tyler Rose Award. Established in 2012 by the Tyler Chamber of Commerce, the award recognizes the nation’s offensive player of the year and honors the legacy of Earl Campbell.</p><p>He served two terms on the board of directors of the Tyler Economic Development Council, as well as the Tyler 1st Steering Committee. He served on the City’s original ''Tyler 21 Comprehensive Plan'' Steering Committee and chaired the Parks, Lakes & Open Space working group.</p><p>Walter is past Chairman of the Board of the Tyler Area Chamber of Commerce, he served the Chamber as Treasurer, and chaired the Membership Services Council. He was a member of the Chamber’s contact club for 7 years and earned the Johnny Wright Life Membership Award. He is past Chairman of SPORTyler, an organization that promotes sports tourism in the Tyler area. Walter is also a founding board member of the Hispanic Business Alliance whose mission is to foster and grow Hispanic owned businesses in the Tyler area. He is a member of Leadership Tyler Class X.</p><p>Walter grew up in Paris, Texas, graduated from Texas Tech University "Wreck ''em", and has lived in Tyler since January 1988. He and his wife Ashley have three children, Riley, Madison and Christopher, and three granddaughters, Juliana, Avery, and Mia Claire. Walter and Ashley are active members of Marvin United Methodist Church in Tyler. He enjoys spending time with his family and playing golf.</p><p>Walter is very thankful for the opportunities God has given him to serve our community, but he is most thankful for the opportunities to share his faith in his Lord and Savior Jesus Christ. He realizes that he could not have accomplished the above without God’s grace and strength. 2 Corinthians 12:9</p><p>"But seek first the kingdom of God and His righteousness, and all these things will be added to you." — Matthew 6:33</p>'
   started_on: 15-8-1999
   image_url: employees/walter.jpg
   suffix: CPA
@@ -128,14 +128,6 @@
   suffix:
   image_url: employees/jessica.jpg
 
-- name: Jennifer Coon
-  email: jcoon
-  extension:
-  bio: "<p>Jennifer holds a Bachelor of Business Administration and a Master of Professional Accountancy degree from Stephen F. Austin State University. She is a Certified Internal Auditor and Certified Fraud Examiner with a variety of experience in the fields of tax, assurance, consulting, and client accounting services. </p><p>Her areas of practice include internal audit and risk advisory services for financial institutions.  Jennifer is also an accounting, economics, and personal finance professor for a local junior college. </p><p>Jennifer, her husband Michael and their family enjoy traveling as much as they can. She enjoys spending time with family and being outdoors in her spare time.</p>"
-  started_on: 15-8-2021
-  suffix: CIA, CFE
-  image_url: employees/jcoon.jpg
-
 - name: Haley Fenley
   email: hfenley
   extension:
@@ -216,6 +208,22 @@
   suffix:
   image_url: employees/brant_b.jpg
 
+- name: Shelby Bookout
+  email: sbookout
+  extension:
+  bio: "<p>Shelby is a graduate of The University of Texas at Tyler and is currently a Master of Accountancy student and a member of Beta Alpha Psi.  After graduation, she plans to pursue her CPA certification. </p><p>Her current areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>She loves spending time with friends and family. Her interests include reading, music, and arts and crafts. </p>"
+  started_on: 15-7-2023
+  suffix:
+  image_url: employees/sbookout.jpg
+#
+# - name:
+#   email:
+#   extension:
+#   bio: ""
+#   started_on:
+#   suffix:
+#   image_url: employees/.jpg
+#
 # - name:
 #   email:
 #   extension:

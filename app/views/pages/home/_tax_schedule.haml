@@ -8,44 +8,54 @@
 
 %h4.text-center Upcoming Tax Filing and Payment Schedule
 .text-center
-  %strong March 15, 2023
-  %div Partnership (Forms 1065) Tax Returns
-  %div S Corporation (Forms 1102S) Tax Returns
+  %strong
+    %div{style: "margin-bottom:5px"} September 15, 2023
+  %div C Corporations Estimated Tax Payment
+  %div Individual Estimated Tax Payment
+  %div S Corporation (Form 1102S) Extended Tax Return
+  %div Partnership (Form 1065) Extended Tax Return
 
   %div{style: "margin-bottom:15px"}
 
-  %strong April 18, 2023
-  %div C Corporation (Forms 1102) Tax Returns
-  %div Individual (Forms 1040) Tax Returns
-  %div Trust and Estate (Forms 1041) Tax Returns
-  %div Estimated Tax Payment for C Corporations
-  %div Estimated Tax Payment for Individuals
+  %strong
+    %div{style: "margin-bottom:5px"} October 2, 2023
+  %div Trust & Estate (Form 1041) Extended Tax Returns
 
   %div{style: "margin-bottom:15px"}
 
-  %strong May 15, 2023
-  %div Tax-Exempt Organizations (Form 990)
+  %strong
+    %div{style: "margin-bottom:5px"}October 16, 2023
+  %div Individual (Form 1040) Extended Tax Returns
+  %div C Corporation (Form 1102) Extended Tax Returns
 
   %div{style: "margin-bottom:15px"}
 
-  %strong June 15, 2023
-  %div Estimated Tax Payment for C Corporations
-  %div Estimated Tax Payment for Individuals
+  %strong
+    %div{style: "margin-bottom:5px"} November 15, 2023
+  %div Tax-Exempt Orgs (Form 990) Extended Filing
+
+  %div{style: "margin-bottom:15px"}
+
+  %strong
+    %div{style: "margin-bottom:5px"} December 15, 2023
+  %div C Corporations Estimated Tax Payment
 
   %small.text-center{style: "display: block; margin-top:15px; font-style: italic"}
     The above is not an all-inclusive list. Additional tax returns and documents may be required.
 
 %h4.text-center{style: "margin-top:25px"} IRS Direct Pay with Bank Account
 .text-center
-  %div Use this secure service to pay your taxes for Form 1040 series, estimated taxes or other associated forms directly from your checking or savings account at no cost to you.
   %div
-    =link_to "https://www.irs.gov/payments/direct-pay", "See IRS Direct Pay Site"
+    Use the
+    =link_to "IRS Direct Pay Site", "https://www.irs.gov/payments/direct-pay"
+    to securely pay your taxes for Form 1040 series, estimated taxes or other associated forms directly from your checking or savings account at no cost to you.
 
 %h4.text-center{style: "margin-top:25px"} IRS Online Account
 .text-center
-  %div Access your individual account information including balance, payments, tax records and more.
   %div
-    =link_to "https://www.irs.gov/payments/your-online-account", "Establish your online account and to find out more information"
+    Access your individual
+    =link_to "IRS Online Account", "https://www.irs.gov/payments/your-online-account"
+    to securely access your balance, payments, tax records and more.
 
 %p{style: "margin-top:25px"}
   Please contact our office at #{phone_number_link("903.534.8811")} or email us at #{mail_to 'info@pw-tx.com', 'info@pw-tx.com', subject: "Message for PW from website"} if you have any questions.
