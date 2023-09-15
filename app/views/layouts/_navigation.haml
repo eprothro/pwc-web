@@ -3,12 +3,12 @@
     =link_to root_path do
       .brand-container.row-fluid
         .mobile.hidden-desktop
-          .force3
+          .force.force3
             .badge-container
               = image_tag '30_years_logo.png'
-          .logo.force6
+          .logo.force.force6
             = image_tag 'logo_without_mottos.png'
-          .force3
+          .force.force3
             .badge-container
               = image_tag '30_years_logo.png'
         .visible-desktop
@@ -29,26 +29,25 @@
   .navbar
     .navbar-inner.pull-center
       .container
-        %a.btn.btn-navbar{"data-toggle" => "collapse", "data-target" => ".nav-collapse", style: 'margin-top: 2px;'}
-          %span{style: 'color: #333; text-shadow: 0px 1px 0px #AAA;'} Menu
+        %a.btn.btn-navbar{"data-toggle" => "collapse", "data-target" => ".nav-collapse", style: 'margin: 2px 0px;'}
+          %span{style: 'color: #333; text-shadow: 0px 1px 0px #AAA;'}
+            %icon{style: 'display: block; font-size: 25px; line-height: 22px; margin-bottom: 3px'} ☰
         .nav-collapse.collapse.links
-          %ul.nav
-            %li= link_to 'About', about_path
-            %li.divider-vertical
-            %li= link_to 'Services', services_path
-            %li.divider-vertical
-            %li= link_to 'Staff', employees_path
-            %li.divider-vertical
-            %li= link_to 'News', news_path
-            %li.divider-vertical
-            %li= link_to 'Community', community_path
-            %li.divider-vertical
-            %li= link_to 'Photos', albums_path
-            %li.divider-vertical
-            %li= link_to 'Contact', contact_path
-            %li.divider-vertical
-            %li= link_to 'Careers', careers_path
-            %li.divider-vertical
+          %ul.nav.text-lg
+
             %li= link_to 'Client Portal', portal_path
             %li.divider-vertical
             %li= link_to 'Pay Online', pay_path
+            %li.divider-vertical
+            %li= link_to 'Services', services_path
+            %li.divider-vertical
+            %li= link_to 'Careers', careers_path
+            %li.divider-vertical
+            %li= link_to 'Staff', employees_path
+            %li.divider-vertical
+            %li= link_to 'Media', media_path
+            %li.divider-vertical
+            %li= link_to 'About', about_path
+
+            -# %li.divider-vertical
+            -# %li= link_to 'Contact', contact_path

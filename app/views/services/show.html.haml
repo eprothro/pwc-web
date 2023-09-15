@@ -1,7 +1,7 @@
 .row-fluid#services
   %ul.breadcrumb{style: "font-size: 14px"}
     %li
-      = link_to "PW Services", services_path
+      = link_to "Services", services_path
       %span.divider /
     %li.active
       %strong= @service.service_group.name
@@ -18,4 +18,3 @@
           - # not great, but better than WET in views
           - Array(@contacts).each do |name, role|
             = render 'employees/avatar', employee: employee(name), role: role
-

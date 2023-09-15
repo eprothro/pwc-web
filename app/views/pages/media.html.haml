@@ -1,0 +1,25 @@
+.row-fluid
+  .span10.offset1
+    .row-fluid
+      %h2 Photos
+    .row-fluid.mb-2
+      - @albums.each_slice(3) do |albums|
+        .row-fluid
+          - albums.each do |album|
+            .span4
+              .text-center
+                - if album.events.length > 1
+                  = link_to(image_tag(album.cover_asset, class: 'img-polaroid'), album_path(album))
+                - else
+                  = link_to(image_tag(album.cover_asset, class: 'img-polaroid'), event_path(album.events.first))
+
+              .subtitle.text-center
+                %strong= album.name.html_safe
+    .row-fluid
+      %h2 Community Spotlight
+    .row-fluid.mb-2
+      = render "pages/community/bee"
+    .row-fluid
+      %h2 News
+    .row-fluid.mb-2
+      = render 'facebook_timeline'

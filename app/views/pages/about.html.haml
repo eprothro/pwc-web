@@ -8,12 +8,12 @@
           = image_tag 'employees/partners.jpg'
         .names-container
           .names
+            .full.name.text-center Kristi Moore, CPA
             .name Walter Wilhelmi, CPA
             .name.text-right Tom Prothro, CPA
-            .name Kristi Moore, CPA
-            .name.filler.text-right .
-        .caption.text-center
-          Prothro, Wilhelmi, & Company Partners
+
+        .text-center.text-base
+          Partners
       .span7
         %p
           Prothro, Wilhelmi and Company was founded in 1992 by
@@ -21,3 +21,9 @@
           CPA. Since then, our firm has grown from a sole entrepreneur to an experienced, professional team. Our firm is committed to providing clients with quality services that continue to adapt to meet individual and business needs.
         %p
           We believe that by possessing ethical and “eternal values”, a business has “infinite potential” to succeed.
+        %p.row-fluid
+          %strong E-mail:
+          %span= mail_to 'info@pw-tx.com', 'info@pw-tx.com', subject: "Message from PW website"
+          %span (Visit our
+          %span= link_to 'staff page', employees_path
+          %span to reach an individual staff member.)

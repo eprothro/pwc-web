@@ -6,15 +6,17 @@ PWCWeb::Application.routes.draw do
 
   resources :employees, only: [:index, :show], path: 'staff'
   resources :services, only: [:index, :show]
-  resources :albums, only: [:index, :show]
+  resources :albums, only: [:show]
   resources :events, only: [:show]
 
   root :to => 'pages#home'
   get 'about' => 'pages#about'
   get 'coronavirus' => 'pages#coronavirus'
   get 'error' => 'pages#error'
-  get 'news' => 'pages#news'
-  get 'community' => 'pages#community'
+  get 'albums' => redirect('/media')
+  get 'news' => redirect('/media')
+  get 'community' => redirect('/media')
+  get 'media' => 'pages#media'
   get 'contact' => 'pages#contact'
   get 'careers' => 'pages#careers'
   get 'portal' => 'pages#portal'

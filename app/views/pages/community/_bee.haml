@@ -1,10 +1,5 @@
-%h3.community-title  Literacy Council of Tyler 31st Annual Corporate Spelling Bee
+%h4.text.mb-3  Literacy Council of Tyler 31st Annual Corporate Spelling Bee
 .row-fluid
-  .span5
-    %p.text-center
-      - event = Event.find_by_slug('spelling-bee')
-      = link_to event_path(event), title: 'See more photos from the Spelling Bee' do
-        - image_tag 'involvement/bee/cover.jpg', class: 'img-polaroid'
   .span7
     %p
       Prothro Wilhelmi & Company was delighted to participate once again in the  31st Annual Corporate Spelling Bee, benefiting the adult education programs offered by the Literacy Council of Tyler.
@@ -18,3 +13,8 @@
       PW is proud to participate in the Corporate Spelling Bee but more importantly support the service
       = link_to('Literacy Council', 'http://lcotyler.org', target: '_blank')
       provides to adult learners in our community.
+  .span5
+    %p.text-center
+      - event = Event.find_by_slug('spelling-bee')
+      = link_to event_path(event), title: 'See more photos from the Spelling Bee' do
+        - image_tag 'involvement/bee/cover.jpg', class: 'img-polaroid'

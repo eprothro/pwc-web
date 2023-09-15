@@ -1,5 +1,5 @@
 .row#footer
-  .about.text-center
+  .about.text-center.text-white
     %small
       .visible-desktop
         = @section_1 = capture do
@@ -27,7 +27,7 @@
         %div= @section_2
         %div= @section_3
   - if current_page?(root_path)
-    .uhc-disclosure.text-center
+    .uhc-disclosure.text-center.text-gray-400
       %small
         -# UnitedHealthcare has made
         -# = link_to "machine-readable files", "https://transparency-in-coverage.uhc.com", target: :_blank

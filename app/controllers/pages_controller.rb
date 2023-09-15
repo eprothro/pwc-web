@@ -11,13 +11,8 @@ class PagesController < ApplicationController
     @employees = Employee.order('created_at ASC')
   end
 
-  def news
-  end
-
-  def community
-  end
-
-  def contact
+  def media
+    @albums = Album.preload(:events)
   end
 
   def careers
