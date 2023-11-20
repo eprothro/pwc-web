@@ -215,6 +215,16 @@
   started_on: 15-8-2023
   suffix:
   image_url: employees/tifany.jpg
+
+- name: Addie Liles
+  email: aliles
+  extension:
+  bio: "<p>Addie is a graduate of Stephen F. Austin State University with a Master's in Professional Accountancy and she has plans to sit for the CPA exam.</p><p>Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Addie hopes to grow her walk with the Lord as she moves to Tyler. Her interests include spending time outdoors with her horses and dogs and playing basketball and pickleball.</p>"
+  started_on: 15-11-2023
+  suffix:
+  image_url: employees/addie.jpg
+
+
 #
 # - name:
 #   email:
