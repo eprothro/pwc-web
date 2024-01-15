@@ -3,8 +3,12 @@
 development:
   adapter: postgresql
   database: pwc-web_development
+  host: localhost
   pool: 5
   timeout: 5000
+  username: <%= ENV.fetch("POSTGRES_USER") { "postgres" } %>
+  password: <%= ENV.fetch("POSTGRES_PASSWORD") { "postgres" } %>
+  
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
@@ -12,8 +16,11 @@ development:
 test:
   adapter: postgresql
   database: pwc-web_test
+  host: localhost
   pool: 5
   timeout: 5000
+  username: <%= ENV.fetch("POSTGRES_USER") { "postgres" } %>
+  password: <%= ENV.fetch("POSTGRES_PASSWORD") { "postgres" } %>
 
 production:
   adapter: postgresql

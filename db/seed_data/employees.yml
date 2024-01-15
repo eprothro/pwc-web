@@ -223,8 +223,14 @@
   started_on: 15-11-2023
   suffix:
   image_url: employees/addie.jpg
-
-
+  
+- name: Joseph Vera
+  email: jvera
+  extension: 
+  bio: "<p>Joseph is a graduate from The University of Texas at Tyler with a bachelor's in business administration in Accounting. He is currently pursuing his Master of Accountancy and then plans to sit for the CPA exam upon completion.</p><p>His areas of practice include internal audit and risk advisory services for financial institutions and audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>Joseph and his fiancé Shelby have lived in Tyler since 2019 and will be married in the Spring of 2024. In his free time, he enjoys watching sports and spending time with friends and family.</p>" 
+  started_on: 15-11-2023
+  suffix: 
+  image_url: employees/joseph.jpg
 #
 # - name:
 #   email:

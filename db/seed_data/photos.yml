@@ -35,8 +35,9 @@ Involvement Around Town:
         - involvement/tee/1.jpg
         - involvement/tee/2.jpg
     - name: TJC Foundation Golf Tournament
-      cover: involvement/tjc golf/1.jpg
+      cover: involvement/tjc golf/cover.jpg
       photos:
+        - involvement/tjc golf/cover.jpg
         - involvement/tjc golf/1.jpg
     - name: Tyler Area Chamber of Commerce Golf Tournament
       cover: involvement/tyler golf/2.jpg
@@ -46,41 +47,52 @@ Involvement Around Town:
     - name: SFA Accounting Fair
       cover: involvement/sfa/cover.jpg
       photos:
+        - involvement/sfa/cover.jpg
         - involvement/sfa/1.jpg
-        - involvement/sfa/2.jpg
-    - name: Leadership Live Luncheon
-      cover: involvement/leadership tyler/cover.jpg
+    - name: Lindale Area Chamber of Commerce Golf Tournament
+      cover: involvement/lacc/cover.jpg
       photos:
-        - involvement/leadership tyler/1.jpg
-        - involvement/leadership tyler/2.jpg
+        - involvement/lacc/cover.jpg
 Activities Around the Office:
   cover: breaks/20.JPG
   events:
     - name: Chili Cook Off
       cover: activities/chili/cover.jpg
       photos:
+        - activities/chili/cover.jpg
         - activities/chili/1.jpg
         - activities/chili/2.jpg
         - activities/chili/3.jpg
         - activities/chili/4.jpg
         - activities/chili/5.jpg
-        - activities/chili/cover.jpg
+        - activities/chili/6.jpg
     - name: Thanksgiving Luncheon
       cover: activities/thanksgiving/cover.jpg
       photos:
+        - activities/thanksgiving/cover.jpg
         - activities/thanksgiving/1.jpg
         - activities/thanksgiving/2.jpg
         - activities/thanksgiving/3.jpg
         - activities/thanksgiving/4.jpg
         - activities/thanksgiving/5.jpg
         - activities/thanksgiving/6.jpg
-        - activities/thanksgiving/cover.jpg
+        - activities/thanksgiving/7.jpg
     - name: Christmas Party
       cover: activities/christmas/cover.jpg
       photos:
+        - activities/christmas/cover.jpg
         - activities/christmas/1.jpg
         - activities/christmas/2.jpg
-        - activities/christmas/cover.jpg
+        - activities/christmas/3.jpg
+        - activities/christmas/4.jpg
+        - activities/christmas/5.jpg
+        - activities/christmas/6.jpg
+        - activities/christmas/7.jpg
+        - activities/christmas/8.jpg
+        - activities/christmas/9.jpg
+        - activities/christmas/10.jpg
+        - activities/christmas/11.jpg
+        - activities/christmas/12.jpg
     - name: Staff Appreciation Day
       cover: activities/appreciation/cover.jpg
       photos:
@@ -91,3 +103,7 @@ Activities Around the Office:
         - activities/appreciation/5.jpg
         - activities/appreciation/6.jpg
         - activities/appreciation/7.jpg
+        - activities/appreciation/8.jpg
+        - activities/appreciation/9.jpg
+        - activities/appreciation/10.jpg
+        - activities/appreciation/11.jpg
