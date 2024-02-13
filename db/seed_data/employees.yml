@@ -192,14 +192,6 @@
   suffix:
   image_url: employees/brianna_b.jpg
 
-- name: Brant Brister
-  email: bbrister
-  extension:
-  bio: "<p>Brant joined the firm after working several years as an Investment Analyst in Dallas, Texas. He performed comprehensive quantitative and qualitative analysis on current and prospective fund managers, including research and recommendations regarding fund structure and composition. Brant graduated from Oklahoma State University with a bachelor’s degree in finance with a minor in accounting. <p><p>His areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.<p><p>Brant and his wife Kaylee are actively involved in the local church and community. He also enjoys football, golf and the outdoors.<p>"
-  started_on: 22-2-2023
-  suffix:
-  image_url: employees/brant_b.jpg
-
 - name: Shelby Bookout
   email: sbookout
   extension:
@@ -223,13 +215,13 @@
   started_on: 15-11-2023
   suffix:
   image_url: employees/addie.jpg
-  
+
 - name: Joseph Vera
   email: jvera
-  extension: 
-  bio: "<p>Joseph is a graduate from The University of Texas at Tyler with a bachelor's in business administration in Accounting. He is currently pursuing his Master of Accountancy and then plans to sit for the CPA exam upon completion.</p><p>His areas of practice include internal audit and risk advisory services for financial institutions and audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>Joseph and his fiancé Shelby have lived in Tyler since 2019 and will be married in the Spring of 2024. In his free time, he enjoys watching sports and spending time with friends and family.</p>" 
+  extension:
+  bio: "<p>Joseph is a graduate from The University of Texas at Tyler with a bachelor's in business administration in Accounting. He is currently pursuing his Master of Accountancy and then plans to sit for the CPA exam upon completion.</p><p>His areas of practice include internal audit and risk advisory services for financial institutions and audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>Joseph and his fiancé Shelby have lived in Tyler since 2019 and will be married in the Spring of 2024. In his free time, he enjoys watching sports and spending time with friends and family.</p>"
   started_on: 15-11-2023
-  suffix: 
+  suffix:
   image_url: employees/joseph.jpg
 #
 # - name:
