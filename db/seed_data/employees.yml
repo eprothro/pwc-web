@@ -152,14 +152,6 @@
   suffix:
   image_url: employees/rosa.jpg
 
-- name: Jaclyn Snelling
-  email: jsnelling
-  extension:
-  bio: "<p>Jaclyn joined the firm as a member of the Accounting and Reporting Services (ARS) team. She is currently enrolled at Tyler Junior College and is working towards her Associates in Business Administration and her Bookkeeping Certification. </p><p>Her areas of practice include bookkeeping, preparation of financial statements, payroll tax returns, sales tax returns and property renditions.</p><p>Originally from Haskell, Texas, Jaclyn relocated to Tyler in 2020, and has fallen in love with East Texas. In her free time, Jaclyn enjoys playing with her German Shepherd, painting, and listening to music.</p>"
-  started_on: 15-7-2022
-  suffix:
-  image_url: employees/jaclyn.jpg
-
 - name: Garrett Pendergast
   email: gpendergast
   extension:
@@ -231,6 +223,16 @@
   started_on: 15-2-2024
   suffix: CPA
   image_url: employees/anna.jpg
+
+- name: Tanner Fowler
+  email: tfowler
+  extension:
+  bio: "<p>Tanner is a graduate of Tyler Junior College and is currently attending The University of Texas at Tyler where he plans to graduate with his Bachelor of Business Administration in Accounting. Thereafter, he will pursue his Master of Accountancy and sit for the CPA exam.</p><p>His areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Tanner attends Bullard Southern Baptist Church in Bullard. In his free time, Tanner enjoys working out, running, fishing, and spending time with his friends and family.</p>"
+  started_on : 15-2-2024
+  suffix:
+  image_url: employees/tanner.jpg
+
+
 #
 # - name:
 #   email:
