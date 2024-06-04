@@ -152,14 +152,6 @@
   suffix:
   image_url: employees/rosa.jpg
 
-- name: Garrett Pendergast
-  email: gpendergast
-  extension:
-  bio: "<p>Garrett is a graduate of Texas A&M University with a bachelor’s in Business Administration in Accounting. He is currently pursuing his Master of Business Administration at the University of North Texas and thereafter plans to sit for the CPA exam.</p><p>His areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>Garrett enjoys spending time with friends and family, doing anything outdoors, playing sports, and watching football.</p>"
-  started_on: 15-9-2022
-  suffix:
-  image_url: employees/garrett.jpg
-
 - name: David Porter
   email: dporter
   extension:
