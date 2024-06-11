@@ -120,14 +120,6 @@
   suffix: CPA
   image_url: employees/shelby.jpg
 
-- name: Jessica Heathcock
-  email: jheathcock
-  extension:
-  bio: "<p>Jessica graduated from Stephen F. Austin State University with her Bachelor's in Business Administration and her Master’s in Professional Accountancy and is currently pursuing her CPA certification. She was recently promoted to Assurance Senior.</p><p>Her areas of practice include audits of financial statements for local governments, not-for-profit organizations, and audits of service organization controls (SOC).</p><p>Jessica enjoys spending time with her dog, family, and friends. She enjoys watching movies, live music, reading, cooking, spending time at local coffee shops, and attending community events, to promote and support local businesses.</p>"
-  started_on: 15-1-2020
-  suffix:
-  image_url: employees/jessica.jpg
-
 - name: Haley Fenley
   email: hfenley
   extension:
