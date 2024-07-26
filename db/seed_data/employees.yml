@@ -200,6 +200,13 @@
   suffix:
   image_url: employees/tanner.jpg
 
+- name: Kyndel Fuller
+  email: kfuller
+  extension:
+  bio: "<p>Kyndel is a graduate of Tyler Junior College and The University of Texas at Tyler. She will pursue her Master of Science in Professional Accountancy from The University of Texas at Tyler and will begin sitting for the CPA exam thereafter.</p><p>Her areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>Kyndel is a member of Central Baptist Church in Tyler. She is also involved in Boathouse Ministry, a local student ministry, where she serves on the hospitality team.</p><p>In Kyndel's free time, she enjoys spending quality time with friends and family, reading, playing pickleball, and traveling.</p>"
+  started_on: 15-7-2024
+  suffix:
+  image_url: employees/kyndel.jpg
 
 #
 # - name:
