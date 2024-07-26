@@ -168,14 +168,6 @@
   suffix:
   image_url: employees/brianna_b.jpg
 
-- name: Shelby Bookout
-  email: sbookout
-  extension:
-  bio: "<p>Shelby is a graduate of The University of Texas at Tyler and is currently a Master of Accountancy student and a member of Beta Alpha Psi.  After graduation, she plans to pursue her CPA certification. </p><p>Her current areas of practice include audits of financial statements for local governments, not-for-profit organizations, and employee benefit plans.</p><p>She loves spending time with friends and family. Her interests include reading, music, and arts and crafts. </p>"
-  started_on: 15-7-2023
-  suffix:
-  image_url: employees/sbookout.jpg
-
 - name: Addie Liles
   email: aliles
   extension:
