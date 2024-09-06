@@ -11,14 +11,24 @@
           Partners
       .span7
         %p
-          Prothro, Wilhelmi and Company was founded in 1992 by
-          = link_to('Tom Prothro', Employee.find_by_name('Tom Prothro')) + ','
-          CPA. Since then, our firm has grown from a sole entrepreneur to an experienced, professional team. Our firm is committed to providing clients with quality services that continue to adapt to meet individual and business needs.
+          Prothro, Wilhelmi & Company, PLLC (PW) is a leading certified public accounting firm based in Tyler, Texas. The firm was founded in 1992 by Thomas G. Prothro, CPA who grew the firm from a sole entrepreneur to an experienced, professional team who provides outstanding personalized service to individuals and businesses in the East Texas area.
         %p
-          We believe that by possessing ethical and “eternal values”, a business has “infinite potential” to succeed.
+          The firm’s partners bring unique and diverse experience in an ever-changing tax and accounting environment. They believe that client relationships based on respect and trust, implemented with the utmost confidentiality, set the standard for service and represent the core values of the firm. The dedication of the partners to their talented staff empowers the firm to provide extraordinary service and expertise in practice areas ranging from income tax planning, and preparation, to accounting and reporting services, to other services such as audits of financial statements, internal audit and forensic consulting, strategic business planning, and estate income tax planning.
+        %p
+          PW is a faith-based company to which the partners and staff are fully committed. Emblazoned on the wall outside the front door of the office building, and marking the bottom of every page on the website you will find the scripture verse Matthew 6:33: “But seek first the kingdom of God and His righteousness, and all these things will be added to you.” By actively pursuing these values each day, PW has been able to serve their clients in a manner that has contributed to the firm’s rapid growth in size and influence.
+
+        %h4.mt-3 Mission Statement
+        .panel
+          We believe that by possessing ethical and eternal values, a business has infinite potential to succeed.
+
+        %h4.mt-3 Contact Us
         %p.row-fluid
           %strong E-mail:
           %span= mail_to 'info@pw-tx.com', 'info@pw-tx.com', subject: "Message from PW website"
           %span (Visit our
           %span= link_to 'staff page', employees_path
           %span to reach an individual staff member.)
+        %p.row-fluid
+          %strong Phone:
+          %span.info
+            = phone_number_link("903.534.8811")
