@@ -152,14 +152,6 @@
   suffix:
   image_url: employees/david.jpg
 
-- name: Jackson Peer
-  email: jpeer
-  extension:
-  bio: "<p>Jackson is a graduate from the University of Texas at Tyler and is currently pursuing his Master of Accountancy and thereafter plans to sit for the CPA exam.</p><p>His areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Jackson is a member of South Spring Baptist Church, where he serves as a middle school adult leader in the youth group. He is involved with Boathouse Ministry, a local college group, where he serves on the welcome team. Jackson loves to play all kinds of sports including pickleball, volleyball, and spikeball. He enjoys having time with his friends and taking fun and spontaneous trips with them. He is very thankful for the community the Lord has placed around him in Tyler. </p>"
-  started_on: 18-1-2023
-  suffix:
-  image_url: employees/jackson_p.jpg
-
 - name: Brianna Brandenburg
   email: bbrandenburg
   extension:
@@ -167,14 +159,6 @@
   started_on: 7-2-2023
   suffix:
   image_url: employees/brianna_b.jpg
-
-- name: Addie Liles
-  email: aliles
-  extension:
-  bio: "<p>Addie is a graduate of Stephen F. Austin State University with a Master's in Professional Accountancy and she has plans to sit for the CPA exam.</p><p>Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Addie hopes to grow her walk with the Lord as she moves to Tyler. Her interests include spending time outdoors with her horses and dogs and playing basketball and pickleball.</p>"
-  started_on: 15-11-2023
-  suffix:
-  image_url: employees/addie.jpg
 
 - name: Joseph Vera
   email: jvera
