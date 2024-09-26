@@ -31,7 +31,19 @@
             %li.divider-vertical
             %li= link_to 'Pay Online', pay_path
             %li.divider-vertical
-            %li= link_to 'Services', services_path
+            %li
+              .dropdown
+                %a.dropdown-toggle{data: {toggle: 'dropdown'}, href: '#'} Services
+                -# <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+                -#   <li><a tabindex="-1" href="#">Action</a></li>
+                -#   <li><a tabindex="-1" href="#">Another action</a></li>
+                -# </ul>
+                %ul.dropdown-menu{role: 'menu', 'aria-labelledby' => 'dropdownMenu'}
+                  %li
+                    %a{href: '#', tabindex: '-1'} Action
+                  %li
+                    %a{href: '#', tabindex: '-1'} Another action
+
             %li.divider-vertical
             %li= link_to 'Careers', careers_path
             %li.divider-vertical
