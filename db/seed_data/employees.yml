@@ -192,6 +192,16 @@
   suffix:
   image_url: employees/kyndel.jpg
 
+- name: Madison Moore
+  email: mmoore
+  extension:
+  bio: "<p>Madison is an East Texas native, who grew up in Tyler. She currently attends The University of Texas at Tyler pursuing a degree in Behavioral Psychology.</p><p>She has joined the firm as an administrative assistant and receptionist.</p> <p>Maddie loves spending time with family and friends, reading, and exploring new opportunities.</p>"
+  started_on: 15-9-2024
+  suffix:
+  image_url: employees/maddie.jpg
+
+
+
 #
 # - name:
 #   email:
