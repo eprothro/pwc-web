@@ -9,67 +9,71 @@
 # from scratch. The latter is a flawed and unsustainable approach (the more migrations
 # you'll amass, the slower it'll run and the greater likelihood for issues).
 #
-# It's strongly recommended to check this file into your version control system.
+# It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20150618153314) do
+ActiveRecord::Schema.define(version: 20150618153314) do
 
-  create_table "albums", :force => true do |t|
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
+  create_table "albums", force: :cascade do |t|
     t.string   "cover_asset"
     t.string   "name"
-    t.datetime "created_at",  :null => false
-    t.datetime "updated_at",  :null => false
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
     t.string   "slug"
   end
 
-  create_table "employees", :force => true do |t|
+  create_table "employees", force: :cascade do |t|
     t.string   "name"
     t.text     "bio"
     t.string   "email"
     t.integer  "extension"
     t.date     "started_on"
-    t.datetime "created_at",     :null => false
-    t.datetime "updated_at",     :null => false
+    t.datetime "created_at",     null: false
+    t.datetime "updated_at",     null: false
     t.string   "preferred_name"
     t.string   "image_url"
     t.string   "suffix"
     t.string   "subtitle"
     t.string   "slug"
+    t.integer  "order"
   end
 
-  create_table "employees_services", :id => false, :force => true do |t|
+  create_table "employees_services", id: false, force: :cascade do |t|
     t.integer "employee_id"
     t.integer "service_id"
   end
 
-  create_table "events", :force => true do |t|
+  create_table "events", force: :cascade do |t|
     t.string   "cover_asset"
     t.integer  "album_id"
     t.string   "name"
-    t.datetime "created_at",  :null => false
-    t.datetime "updated_at",  :null => false
+    t.datetime "created_at",  null: false
+    t.datetime "updated_at",  null: false
     t.string   "slug"
   end
 
-  create_table "images", :force => true do |t|
+  create_table "images", force: :cascade do |t|
     t.string   "asset"
     t.integer  "event_id"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
     t.text     "caption"
   end
 
-  create_table "service_groups", :force => true do |t|
+  create_table "service_groups", force: :cascade do |t|
     t.string   "name"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
-  create_table "services", :force => true do |t|
+  create_table "services", force: :cascade do |t|
     t.integer  "service_group_id"
     t.string   "name"
     t.text     "description"
-    t.datetime "created_at",       :null => false
-    t.datetime "updated_at",       :null => false
+    t.datetime "created_at",       null: false
+    t.datetime "updated_at",       null: false
     t.string   "slug"
   end
 

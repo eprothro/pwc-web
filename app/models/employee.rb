@@ -10,6 +10,7 @@ class Employee < ActiveRecord::Base
   def image_title
     title = first_name
     title = "#{title}, #{suffix}" if suffix.present?
+    title = "#{title} - #{subtitle}" if subtitle.present?
     title
   end
 

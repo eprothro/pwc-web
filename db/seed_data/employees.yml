@@ -1,13 +1,3 @@
-- name: Tom Prothro
-  email: tom
-  extension: 115
-  bio: "<p>Tom founded a one-man CPA firm in 1992 with the faith of family and friends and a vision for dedication to clients. With over 35 years of accounting experience, Tom remains a visionary and entrepreneur in the firm currently named Prothro, Wilhelmi & Company, PLLC. Tom’s practice with the firm includes financial statement audits of small to medium-¬sized businesses, entities subject to The Department of Education audit requirements, not-for-profit entities and entities subject to Yellow Book and Single Audit requirements. Tom works with individuals, corporations, partnerships and fiduciaries in preparation of income tax returns and related planning. He serves as the firm’s Managing Partner.</p><p>Tom is a member of the American Institute of Certified Public Accountants, the Texas Society of Certified Public Accountants and the East Texas Chapter of Certified Public Accountants. He is an Associate Member of the National Association of State Boards of Accountancy (NASBA), where he serves on the Audit Committee. He is a past member of the statewide Peer Review Committee of the Texas Society of Certified Public Accountants, a position where he helped evaluate hundreds of accounting practices in Texas. He served on the board of the Texas State Board of Public Accountancy from 2009 to 2015, and served as the Presiding Officer from 2013 to 2015.</p><p>In 2013, Tom earned the Chartered Advisor in Philanthropy (CAP) professional designation from the Richard D. Irwin Graduate School of the American College. The CAP program provides professionals in the nonprofit and financial services fields with the tools needed to help clients reach their charitable giving objectives, while also helping them meet their estate planning and wealth management goals. He also holds various securities and insurance licenses. Tom is involved with his church, Bethel Bible Church of Tyler, having served as Treasurer, Deacon and Elder Board Chairman. He currently is involved with the church’s weekly worship service as a video engineer. </p><p>An active member in the community, Tom is a graduate of Leadership Tyler Class II, past president of Rose City Kiwanis, and a current member of the City of Tyler Tax Abatement Committee. Tom also serves as a member of the audit committee of the local Boy Scouts of America chapter. </p><p>Tom is a 1979 graduate of The University of Texas at Austin. He is married to the former Kimberly Burt of Tyler and celebrated his thirty-fifth wedding anniversary in 2015. Kimberly obtained a Masters of Theology degree at Dallas Theological Seminary in 2013. His daughter, Ashley Trant, was deceased in 2013; his married son, Evan, lives in Flint, Texas. He enjoys his seven grandchildren, playing golf, racquetball, riding his 2007 Harley Davidson Street Glide and learning about any of the latest technologies. He has Private and Commercial Pilot Certificates and holds an Instrument Rating. In 2012, he earned / passed his SCUBA certification.</p>"
-  started_on: 15-5-1992
-  preferred_name: Tom
-  image_url: employees/tom.jpg
-  suffix: CPA
-  subtitle: Managing Partner
-
 - name: Walter Wilhelmi
   email: walter
   extension: 112
@@ -26,6 +16,25 @@
   suffix: CPA
   subtitle: Partner
 
+- name: AJ Evans
+  email: aevans
+  extension: 000
+  bio: "<p>AJ joined Prothro, Wilhelmi & Company in January 2019 and currently serves the firm as an Assurance Manager.</p><p>AJ completed his CPA examinations and licensure in the state of Louisiana in June 2018 and is now the fourth CPA within two generations of his family. He began his career at a large regional firm in Shreveport, Louisiana, where he focused on governmental, not-for-profit, and financial institution audits. His current areas of practice include audits of financial statements for local governments, school districts, not-for-profit organizations, and employee benefit plans. Additionally, he assists with internal audit and consulting engagements for several local financial institutions.</p><p>As a native of Tyler, he graduated from Grace Community School and completed his undergraduate and graduate degrees at Louisiana Tech University in Ruston, LA. In the summers during his college years, AJ was on staff at Pine Cove Christian Camps, where he enjoyed serving campers with other college staff.</p><p>AJ currently serves as a board member for the Heart of Tyler and the East Texas Chapter of the Texas Society of Certified Public Accountants. He is also an alumnus of Leadership Tyler Class 33.</p>"
+  started_on: 15-1-2019
+  suffix: CPA
+  subtitle: Partner
+  image_url: employees/aj.jpg
+
+- name: Tom Prothro
+  email: tom
+  extension: 115
+  bio: "<p>Tom founded a one-man CPA firm in 1992 with the faith of family and friends and a vision for dedication to clients. With over 35 years of accounting experience, Tom remains a visionary and entrepreneur in the firm currently named Prothro, Wilhelmi & Company, PLLC. Tom’s practice with the firm includes financial statement audits of small to medium-¬sized businesses, entities subject to The Department of Education audit requirements, not-for-profit entities and entities subject to Yellow Book and Single Audit requirements. Tom works with individuals, corporations, partnerships and fiduciaries in preparation of income tax returns and related planning. He serves as the firm’s Managing Partner.</p><p>Tom is a member of the American Institute of Certified Public Accountants, the Texas Society of Certified Public Accountants and the East Texas Chapter of Certified Public Accountants. He is an Associate Member of the National Association of State Boards of Accountancy (NASBA), where he serves on the Audit Committee. He is a past member of the statewide Peer Review Committee of the Texas Society of Certified Public Accountants, a position where he helped evaluate hundreds of accounting practices in Texas. He served on the board of the Texas State Board of Public Accountancy from 2009 to 2015, and served as the Presiding Officer from 2013 to 2015.</p><p>In 2013, Tom earned the Chartered Advisor in Philanthropy (CAP) professional designation from the Richard D. Irwin Graduate School of the American College. The CAP program provides professionals in the nonprofit and financial services fields with the tools needed to help clients reach their charitable giving objectives, while also helping them meet their estate planning and wealth management goals. He also holds various securities and insurance licenses. Tom is involved with his church, Bethel Bible Church of Tyler, having served as Treasurer, Deacon and Elder Board Chairman. He currently is involved with the church’s weekly worship service as a video engineer. </p><p>An active member in the community, Tom is a graduate of Leadership Tyler Class II, past president of Rose City Kiwanis, and a current member of the City of Tyler Tax Abatement Committee. Tom also serves as a member of the audit committee of the local Boy Scouts of America chapter. </p><p>Tom is a 1979 graduate of The University of Texas at Austin. He is married to the former Kimberly Burt of Tyler and celebrated his thirty-fifth wedding anniversary in 2015. Kimberly obtained a Masters of Theology degree at Dallas Theological Seminary in 2013. His daughter, Ashley Trant, was deceased in 2013; his married son, Evan, lives in Flint, Texas. He enjoys his seven grandchildren, playing golf, racquetball, riding his 2007 Harley Davidson Street Glide and learning about any of the latest technologies. He has Private and Commercial Pilot Certificates and holds an Instrument Rating. In 2012, he earned / passed his SCUBA certification.</p>"
+  started_on: 15-5-1992
+  preferred_name: Tom
+  image_url: employees/tom.jpg
+  suffix: CPA
+  subtitle: Founder
+
 - name: Bob Roseman
   email: broseman
   extension: 118
@@ -33,7 +42,7 @@
   started_on: 15-2-2002
   image_url: employees/bob.jpg
   suffix: CPA
-  subtitle: Partner
+  subtitle: Consultant
 
 - name: Penny Urwiller
   email: purwiller
@@ -87,14 +96,6 @@
   started_on: 15-7-2018
   suffix:
   image_url: employees/marsha.jpg
-
-- name: AJ Evans
-  email: aevans
-  extension: 000
-  bio: "<p>AJ joined Prothro, Wilhelmi & Company in January 2019 and currently serves the firm as an Assurance Manager.</p><p>AJ completed his CPA examinations and licensure in the state of Louisiana in June 2018 and is now the fourth CPA within two generations of his family. He began his career at a large regional firm in Shreveport, Louisiana, where he focused on governmental, not-for-profit, and financial institution audits. His current areas of practice include audits of financial statements for local governments, school districts, not-for-profit organizations, and employee benefit plans. Additionally, he assists with internal audit and consulting engagements for several local financial institutions.</p><p>As a native of Tyler, he graduated from Grace Community School and completed his undergraduate and graduate degrees at Louisiana Tech University in Ruston, LA. In the summers during his college years, AJ was on staff at Pine Cove Christian Camps, where he enjoyed serving campers with other college staff.</p><p>AJ currently serves as a board member for the Heart of Tyler and the East Texas Chapter of the Texas Society of Certified Public Accountants. He is also an alumnus of Leadership Tyler Class 33.</p>"
-  started_on: 15-1-2019
-  suffix: CPA
-  image_url: employees/aj.jpg
 
 - name: Erin McNeill
   email: emcneill
@@ -199,8 +200,6 @@
   started_on: 15-9-2024
   suffix:
   image_url: employees/maddie.jpg
-
-
 
 #
 # - name:
