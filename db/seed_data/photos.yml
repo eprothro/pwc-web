@@ -57,15 +57,12 @@ Activities Around the Office:
   cover: breaks/20.JPG
   events:
     - name: Chili Cook Off
-      cover: activities/chili/cover.jpg
+      cover: activities/chili/4.jpg
       photos:
-        - activities/chili/cover.jpg
         - activities/chili/1.jpg
         - activities/chili/2.jpg
         - activities/chili/3.jpg
         - activities/chili/4.jpg
-        - activities/chili/5.jpg
-        - activities/chili/6.jpg
     - name: Thanksgiving Luncheon
       cover: activities/thanksgiving/cover.jpg
       photos:

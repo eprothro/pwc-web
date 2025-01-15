@@ -1,10 +1,15 @@
 .row-fluid
   .offset1
   .row-fluid
+    .span10.offset2
+      .row-fluid
+        - @employees.first(3).each do |e|
+          .span3.clearfix.text-center
+            = render 'avatar', employee: e
     .span10.offset1
       .row-fluid
         %ul.employees
-          - @employees.each_slice(4) do |employees|
+          - @employees.drop(3).each_slice(4) do |employees|
             .row-fluid
               - employees.each do |e|
                 %li.span3.clearfix.text-center
