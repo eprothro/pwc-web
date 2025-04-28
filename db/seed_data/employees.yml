@@ -129,14 +129,6 @@
   suffix:
   image_url: employees/haley.jpg
 
-- name: Rosa Perez
-  email: rperez
-  extension:
-  bio: "<p>Rosa, an East Texas native who grew up in Jacksonville, is currently attending Stephen F. Austin State University and plans to graduate with her Bachelor of Business Administration in Accounting. She then plans to pursue her CPA certification.</p><p>Her areas of practice include tax preparation services for individuals, partnerships, corporations, and trusts.</p><p>Rosa attends Our Lady of Sorrows Church and enjoys reading, exercising, and spending time with friends and family.</p><p>Luke 1:37</p>"
-  started_on: 22-5-2022
-  suffix:
-  image_url: employees/rosa.jpg
-
 - name: David Porter
   email: dporter
   extension:
