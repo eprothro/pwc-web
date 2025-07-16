@@ -210,6 +210,15 @@
   image_url: employees/magaly.jpg
 
 
+- name: Jaqueline Morales
+  email: jgarcia
+  extension:
+  bio: "<p>Jaqueline is an east Texas native who grew up in Center, Texas. She graduated cum laude from Stephen F. Austin State University with a bachelor’s degree in accounting. </p><p>She currently serves in the Client Services Department and her areas of practice include bookkeeping, preparation of financial statements, payroll tax returns, sales tax returns and property renditions. </p><p>Jaqueline is also an active member of Iglesia Bautista Monte Sinaí, where she teaches Sunday school and plays the piano. In her free time, she enjoys spending time with family and friends, playing volleyball, and playing the piano.</p>"
+  started_on: 15-6-2025
+  suffix:
+  image_url: employees/jaqueline.jpg
+
+
 
 #
 # - name:
